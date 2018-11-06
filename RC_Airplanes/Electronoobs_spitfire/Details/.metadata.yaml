@@ -1,0 +1,125 @@
+Exhaust.gco:
+  analysis:
+    dimensions:
+      depth: 27.715000000000003
+      height: 5.8
+      width: 53.784000000000006
+    estimatedPrintTime: 584.3513830055751
+    filament:
+      tool0:
+        length: 330.71462000000037
+        volume: 0.0
+    printingArea:
+      maxX: 118.197
+      maxY: 106.262
+      maxZ: 6.1
+      minX: 64.413
+      minY: 78.547
+      minZ: 0.3
+  hash: 66eaf39f4903ff284138ffa8d8650c504f35f89b
+  links: []
+  notes: []
+Exhaust.stl:
+  hash: ef02502f67684b493de42c3ff9fc8a8d1bb05021
+  links: []
+  notes: []
+Exhaust_(repaired).stl:
+  hash: 8a70eecaa9f2bda54237b2ec9f820693fe105254
+  links: []
+  notes: []
+Exhaust_(repaired)_X_2.gco:
+  analysis:
+    dimensions:
+      depth: 25.128
+      height: 5.8
+      width: 59.174
+    estimatedPrintTime: 727.9284049772097
+    filament:
+      tool0:
+        length: 336.0229299999992
+        volume: 0.0
+    printingArea:
+      maxX: 121.863
+      maxY: 110.742
+      maxZ: 6.1
+      minX: 62.689
+      minY: 85.614
+      minZ: 0.3
+  hash: cb8f68a957be6414b09d843a4549db95f6673824
+  links: []
+  notes: []
+PI_WING_HOOK_L(for_servos).gco:
+  analysis:
+    dimensions:
+      depth: 19.614000000000004
+      height: 5.4
+      width: 19.47
+    estimatedPrintTime: 143.67187981046678
+    filament:
+      tool0:
+        length: 81.46761999999987
+        volume: 0.0
+    printingArea:
+      maxX: 102.235
+      maxY: 102.316
+      maxZ: 5.7
+      minX: 82.765
+      minY: 82.702
+      minZ: 0.3
+  hash: 78f5d0b5c6ca10e25edb12feb664754cef6451f5
+  links: []
+  notes: []
+PI_WING_HOOK_R(for_servos).gco:
+  analysis:
+    dimensions:
+      depth: 19.614000000000004
+      height: 5.4
+      width: 19.47
+    estimatedPrintTime: 143.87194917464961
+    filament:
+      tool0:
+        length: 81.58382999999995
+        volume: 0.0
+    printingArea:
+      maxX: 102.235
+      maxY: 102.316
+      maxZ: 5.7
+      minX: 82.765
+      minY: 82.702
+      minZ: 0.3
+  hash: b323c05d7a45172154f8ef2fcfdb1aae4b10a835
+  links: []
+  notes: []
+Tail_tip.gco:
+  analysis:
+    dimensions:
+      depth: 11.829999999999998
+      height: 16.4
+      width: 22.177000000000007
+    estimatedPrintTime: 357.37403731193234
+    filament:
+      tool0:
+        length: 153.04796999999982
+        volume: 0.0
+    printingArea:
+      maxX: 103.626
+      maxY: 98.411
+      maxZ: 16.7
+      minX: 81.449
+      minY: 86.581
+      minZ: 0.3
+  hash: cdc2fe85824709887d76461296c85fd888a1e4e5
+  links: []
+  notes: []
+Tail_tip.stl:
+  hash: 998ee6078d3c7934ebf8b022d6f5a90bf61c1ae9
+  links: []
+  notes: []
+WING_HOOK_L(for_servos).stl:
+  hash: ad26dd196fec4e44e272f6fe1e7f74de9ba3a9d8
+  links: []
+  notes: []
+WING_HOOK_R(for_servos).stl:
+  hash: fd342bd673dee9ef70ce5fae8171c171e1ac9ebb
+  links: []
+  notes: []

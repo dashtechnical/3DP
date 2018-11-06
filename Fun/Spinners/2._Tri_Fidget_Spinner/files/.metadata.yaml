@@ -1,0 +1,96 @@
+Cap_Pairs.gco:
+  analysis:
+    dimensions:
+      depth: 63.660999999999994
+      height: 9.149999999999999
+      width: 63.833
+    estimatedPrintTime: 3789.864361450009
+    filament:
+      tool0:
+        length: 2859.3900300000005
+        volume: 6.8776390138718595
+    printingArea:
+      maxX: 124.5
+      maxY: 124.326
+      maxZ: 9.45
+      minX: 60.667
+      minY: 60.665
+      minZ: 0.3
+  hash: 1e8dd0f49b36ae18265ecb8b78fa10ee5dacdbf6
+  links: []
+  notes: []
+FemaleCap.stl:
+  hash: 964d97f5588dd1853cf9d6cd98b598ae7a1db0bf
+  links: []
+  notes: []
+MaleCap.stl:
+  hash: 968b7982754c6422c926ebc1286cdf2639e22289
+  links: []
+  notes: []
+Tri.gco:
+  analysis:
+    dimensions:
+      depth: 79.658
+      height: 6.75
+      width: 85.70000000000002
+    estimatedPrintTime: 5714.781325352996
+    filament:
+      tool0:
+        length: 4378.966160000004
+        volume: 10.532647937658462
+    printingArea:
+      maxX: 135.372
+      maxY: 132.364
+      maxZ: 7.05
+      minX: 49.672
+      minY: 52.706
+      minZ: 0.3
+  hash: aa7e0dc1bc8fed7736123b12e59b2abe7a55df4f
+  links: []
+  notes: []
+Tri.stl:
+  hash: 2145f9f88b3b73357a81dbe40688c9a690b81072
+  links: []
+  notes: []
+tri_Redone.gco:
+  analysis:
+    dimensions:
+      depth: 79.658
+      height: 6.75
+      width: 85.70000000000002
+    estimatedPrintTime: 5628.061507187012
+    filament:
+      tool0:
+        length: 4372.066369999995
+        volume: 10.516051997827342
+    printingArea:
+      maxX: 135.336
+      maxY: 132.334
+      maxZ: 7.05
+      minX: 49.636
+      minY: 52.676
+      minZ: 0.3
+  hash: 7d9fcf8e36698ff20cab060379ddd01dab743239
+  history:
+  - printTime: 5293.640106916428
+    printerProfile: _default
+    success: true
+    timestamp: 1493086465.026497
+  - printerProfile: _default
+    success: false
+    timestamp: 1493118865.019667
+  - printTime: 5405.679738998413
+    printerProfile: _default
+    success: true
+    timestamp: 1493124300.583421
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 5349.65992295742
+    lastPrintTime:
+      _default: 5405.679738998413
+tri_Redone.stl:
+  hash: 7b8023927633de9da5ef2945207646f397aa5f5b
+  links: []
+  notes: []

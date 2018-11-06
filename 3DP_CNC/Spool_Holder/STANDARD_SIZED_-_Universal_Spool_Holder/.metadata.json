@@ -1,0 +1,316 @@
+{
+    "73mm_HB_SmallRod.STL": {
+        "notes": [],
+        "hash": "6487ca67030ff6323d0c67dfd4f2753522140dd7",
+        "links": []
+    },
+    "Standard_SmallTop_SpinnerArm.STL": {
+        "notes": [],
+        "hash": "bce0cec7eba3fa6ad4e63a5f91b56cfc137c8c05",
+        "links": []
+    },
+    "70mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "77578ab0e7bbb393e6c023e59359dc7c0568317b",
+        "links": []
+    },
+    "70mm_BigRod.STL": {
+        "notes": [],
+        "hash": "cbfd6a25fe3b54bb0a18949d5c599eeba277d5c6",
+        "links": []
+    },
+    "60mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "85bf8207c29e79fd15fc948a4dfa6b2685757253",
+        "links": []
+    },
+    "85mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "1eda9dab247523204b394ab67b643e467b6f32f9",
+        "links": []
+    },
+    "60mm_BigRod.STL": {
+        "notes": [],
+        "hash": "7bb34d7f63585f257694e5a870aac6faa77271c1",
+        "links": []
+    },
+    "105mm_BigRod.STL": {
+        "notes": [],
+        "hash": "5e91d0b31bd6fe133aedc38f9e3a2b09b9eb209a",
+        "links": []
+    },
+    "50mm_BigRod.STL": {
+        "notes": [],
+        "hash": "252e38741651df333a341223ea915ad126326be6",
+        "links": []
+    },
+    "40mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "f1bf937e266a2f3e7ad2f8ff2a171598e8e9265c",
+        "links": []
+    },
+    "Standard_BigTop_SpinnerArm.STL": {
+        "notes": [],
+        "hash": "07d577ec96e7ca465279e3ebab3d9c44f1d58124",
+        "links": []
+    },
+    "55mm_BigRod.STL": {
+        "notes": [],
+        "hash": "b742480eed2f9a6f645f158995372f96e6575d2e",
+        "links": []
+    },
+    "Standard_SmallTop_BaseArm.STL": {
+        "notes": [],
+        "hash": "0d4c6f6540735c1cd3869af39db40575f3d62aa2",
+        "links": []
+    },
+    "75mm_BigRod.gco": {
+        "notes": [],
+        "hash": "1044082256b2b080e8b5d283c5d63b84183dba2a",
+        "analysis": {
+            "estimatedPrintTime": 35642.586601529874,
+            "printingArea": {
+                "maxZ": 84.1,
+                "minX": 63.996,
+                "maxX": 121.01,
+                "maxY": 120.994,
+                "minY": 64.006,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 57.014,
+                "depth": 56.988,
+                "height": 83.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 110.37301984814798,
+                    "length": 45887.769320000334
+                }
+            }
+        },
+        "links": []
+    },
+    "45mm_BigRod.STL": {
+        "notes": [],
+        "hash": "dbbacd3504e760c03e468f3a2aebde9cb775550d",
+        "links": []
+    },
+    "100mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "5b3a6354135df83f49b6d72b12963abbbf7d4c0f",
+        "links": []
+    },
+    "40mm_BigRod.STL": {
+        "notes": [],
+        "hash": "3a4179e4e76de33b3e0c9886953ab7c053c8d902",
+        "links": []
+    },
+    "80mmSmallRod.STL": {
+        "notes": [],
+        "hash": "1fe913f34b6452bf1ac45499b869e6149951f139",
+        "links": []
+    },
+    "85mm_BigRod.STL": {
+        "notes": [],
+        "hash": "c744effc1bafd372e084aa0295133d9e05131374",
+        "links": []
+    },
+    "90mm_BigRod.STL": {
+        "notes": [],
+        "hash": "8c75c307d98b5903081880e606394c0377237ede",
+        "links": []
+    },
+    "67mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "d521849fd2b65edc1a73d690e569ee35e494ab43",
+        "links": []
+    },
+    "95mm_BigRod.STL": {
+        "notes": [],
+        "hash": "dc595506a38be575b00d485fe3b2b479cc4974c0",
+        "links": []
+    },
+    "67mm_BigRod.STL": {
+        "notes": [],
+        "hash": "65a9394d1dc305b6c41dae0ae58b0d30cc52fca4",
+        "links": []
+    },
+    "65mm_BigRod.STL": {
+        "notes": [],
+        "hash": "52974c4e7f833eeddbff3900b9ffc114597caf46",
+        "links": []
+    },
+    "75mmSmallRod.STL": {
+        "notes": [],
+        "hash": "93e1643e2ceacfda7eb99452847a033902c7eb7b",
+        "links": []
+    },
+    "Standard_BigTop_BaseArm.STL": {
+        "notes": [],
+        "hash": "993485b8e8e9d6a877d453eff8f7643d6d1f3bdc",
+        "links": []
+    },
+    "Standard_BigTop_SpinnerArm.gco": {
+        "notes": [],
+        "hash": "88e7a7e71685ab2d57f23ca22c4d7f7dea6ccf84",
+        "analysis": {
+            "estimatedPrintTime": 21432.59870032811,
+            "printingArea": {
+                "maxZ": 21.9,
+                "minX": 12.104,
+                "maxX": 172.892,
+                "maxY": 168.678,
+                "minY": 16.322,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 160.788,
+                "depth": 152.356,
+                "height": 21.599999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 59.49495196140144,
+                    "length": 24735.12671000005
+                }
+            }
+        },
+        "links": []
+    },
+    "100mm_BigRod.STL": {
+        "notes": [],
+        "hash": "367fb5f3e570772f37224dc71b6eb7de9b957c7a",
+        "links": []
+    },
+    "65mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "bb851729b2189d55bea801c1555bd1da9c18a333",
+        "links": []
+    },
+    "55mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "6d89765dcbde4089aba0a6cff3d483440a0c81c9",
+        "links": []
+    },
+    "75mm_BigRod.STL": {
+        "notes": [],
+        "hash": "008f40d53e6ee88b5f138377cd7d9f611aab465d",
+        "links": []
+    },
+    "95mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "a0ae2700b13641dd70e9b497b1ce281a29243cb8",
+        "links": []
+    },
+    "45mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "722750565720d0e1ab09425b1688415921cea751",
+        "links": []
+    },
+    "110mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "a827fa813ec1c501ad6f6cdfb076716b352eb7ae",
+        "links": []
+    },
+    "110mm_BigRod.STL": {
+        "notes": [],
+        "hash": "2bc54d66e23c65bd5799d2d18d690bff1de9554d",
+        "links": []
+    },
+    "90mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "42f47d07597cf5764d3102ddaa743a80fa9f6b0a",
+        "links": []
+    },
+    "75mmSmallRod.gco": {
+        "notes": [],
+        "hash": "b9b48f24bef28e988ad35deba52e76c0ce1894d6",
+        "analysis": {
+            "estimatedPrintTime": 11723.588858310406,
+            "printingArea": {
+                "maxZ": 83.1,
+                "minX": 74.084,
+                "maxX": 110.915,
+                "maxY": 110.915,
+                "minY": 74.085,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 36.831,
+                "depth": 36.83000000000001,
+                "height": 82.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 35.55283216858456,
+                    "length": 14781.149989999758
+                }
+            }
+        },
+        "links": []
+    },
+    "50mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "9995e4fc91e812e85c409049803e78817f728f9d",
+        "links": []
+    },
+    "Standard_BigTop_BaseArm.gco": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "85544a254f4e1d8f7043e9326f0c6b6ac090ecbb",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 16676.487928890838,
+            "printingArea": {
+                "maxZ": 18.5,
+                "minX": 12.104,
+                "maxX": 172.892,
+                "maxY": 168.678,
+                "minY": 16.322,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 160.788,
+                "depth": 152.356,
+                "height": 18.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 46.25673357806826,
+                    "length": 19231.315070000113
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1498646987.309641,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1498647257.999972,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1498647846.1497,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "105mm_SmallRod.STL": {
+        "notes": [],
+        "hash": "a26b3b06884972f8a2ec447f0febaf48af368cdc",
+        "links": []
+    },
+    "80mm_BigRod.STL": {
+        "notes": [],
+        "hash": "da080ac2724f13d07b8ee57efb46da9de1300f3e",
+        "links": []
+    }
+}

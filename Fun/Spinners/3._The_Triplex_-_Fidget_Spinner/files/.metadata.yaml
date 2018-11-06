@@ -1,0 +1,39 @@
+Triplex_Thingy.gco:
+  analysis:
+    dimensions:
+      depth: 76.11000000000001
+      height: 6.75
+      width: 82.37400000000001
+    estimatedPrintTime: 4795.928108123165
+    filament:
+      tool0:
+        length: 3682.246639999999
+        volume: 8.856841103961798
+    printingArea:
+      maxX: 133.687
+      maxY: 130.555
+      maxZ: 7.05
+      minX: 51.313
+      minY: 54.445
+      minZ: 0.3
+  hash: f48d498795546557e12b8d9d421978847bb31342
+  history:
+  - printTime: 4692.5146288871765
+    printerProfile: _default
+    success: true
+    timestamp: 1493150603.341814
+  - printTime: 4682.4900579452515
+    printerProfile: _default
+    success: true
+    timestamp: 1493160999.90531
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 4687.502343416214
+    lastPrintTime:
+      _default: 4682.4900579452515
+Triplex_Thingy.stl:
+  hash: 761bacfb56415586dbf463a3a9a8cd946db100ca
+  links: []
+  notes: []

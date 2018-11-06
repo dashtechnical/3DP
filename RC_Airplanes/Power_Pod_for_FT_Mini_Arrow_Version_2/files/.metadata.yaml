@@ -1,0 +1,75 @@
+My_Arrow_FPV_Hood_2.5.gco:
+  analysis:
+    dimensions:
+      depth: 83.846
+      height: 2.5500000000000003
+      width: 80.798
+    estimatedPrintTime: 4965.735117617678
+    filament:
+      tool0:
+        length: 3827.570249999998
+        volume: 9.206385349163174
+    printingArea:
+      maxX: 132.899
+      maxY: 134.423
+      maxZ: 2.85
+      minX: 52.101
+      minY: 50.577
+      minZ: 0.3
+  hash: edd8a72f67119bab9f415dd3c7f09ba19256df5c
+  links: []
+  notes: []
+My_Arrow_FPV_Hood_2.5.stl:
+  hash: a2cf9e80687fa61a3f63352ba082e66acf0976c7
+  links: []
+  notes: []
+My_Arrow_FPV_Pod_Arrows_2.5.gco:
+  analysis:
+    dimensions:
+      depth: 102.6
+      height: 49.650000000000006
+      width: 92.7
+    estimatedPrintTime: 34563.04312077588
+    filament:
+      tool0:
+        length: 30166.949680000118
+        volume: 72.56001730154945
+    printingArea:
+      maxX: 138.9
+      maxY: 143.876
+      maxZ: 49.95
+      minX: 46.2
+      minY: 41.276
+      minZ: 0.3
+  hash: a3d14f51309d612ee97a217a1f00d524b723b8d1
+  links: []
+  notes: []
+My_Arrow_FPV_Pod_Arrows_2.5.stl:
+  hash: e559c1681fb9ddd4c17a2b8c98887e80164ff532
+  links: []
+  notes: []
+My_Arrow_Pod_2.5.gco:
+  analysis:
+    dimensions:
+      depth: 122.60000000000001
+      height: 49.650000000000006
+      width: 112.7
+    estimatedPrintTime: 39946.20270958605
+    filament:
+      tool0:
+        length: 33827.8322499981
+        volume: 81.36547179515051
+    printingArea:
+      maxX: 148.9
+      maxY: 153.9
+      maxZ: 49.95
+      minX: 36.2
+      minY: 31.3
+      minZ: 0.3
+  hash: 634f3fac02b182b4c23f66f75154f27d628d8d35
+  links: []
+  notes: []
+My_Arrow_Pod_2.5.stl:
+  hash: d77ff300d73fbb197d85a9a81f42b598c0d010cb
+  links: []
+  notes: []

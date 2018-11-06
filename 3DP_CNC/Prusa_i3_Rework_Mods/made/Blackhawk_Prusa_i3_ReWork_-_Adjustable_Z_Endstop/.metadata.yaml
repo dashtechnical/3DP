@@ -1,0 +1,108 @@
+Z-EndStop-XMotor.gco:
+  analysis:
+    dimensions:
+      depth: 24.293999999999997
+      height: 17.4
+      width: 48.099999999999994
+    estimatedPrintTime: 1327.7066066714806
+    filament:
+      tool0:
+        length: 869.7126399999994
+        volume: 2.0919040498023582
+    printingArea:
+      maxX: 116.55
+      maxY: 104.447
+      maxZ: 17.7
+      minX: 68.45
+      minY: 80.153
+      minZ: 0.3
+  hash: 76c0d5bb7888969d3c195a614773176a52b1cec5
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1493735039.966472
+  - printTime: 1652.1972789764404
+    printerProfile: _default
+    success: true
+    timestamp: 1493736753.75429
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1652.1972789764404
+    lastPrintTime:
+      _default: 1652.1972789764404
+Z-EndStop-XMotor.stl:
+  hash: 151e976bf12a8f734e66205006994cbb0f459ab8
+  links: []
+  notes: []
+Z-EndStop-ZMotor-Big.gco:
+  analysis:
+    dimensions:
+      depth: 57.599000000000004
+      height: 57.75
+      width: 24.604
+    estimatedPrintTime: 5421.75037443248
+    filament:
+      tool0:
+        length: 3992.1149900000005
+        volume: 9.602161829978357
+    printingArea:
+      maxX: 104.8
+      maxY: 121.299
+      maxZ: 58.05
+      minX: 80.196
+      minY: 63.7
+      minZ: 0.3
+  hash: b2c43c846b196ba9572cb93a582d0acd946de188
+  history:
+  - printTime: 6777.7216360569
+    printerProfile: _default
+    success: true
+    timestamp: 1493751992.928139
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 6777.7216360569
+    lastPrintTime:
+      _default: 6777.7216360569
+Z-EndStop-ZMotor-Big.stl:
+  hash: 38eca3f591288cc8d35da409740c3bed0396e6dc
+  links: []
+  notes: []
+Z-EndStop-ZMotor.gco:
+  analysis:
+    dimensions:
+      depth: 57.599000000000004
+      height: 27.75
+      width: 25.599000000000004
+    estimatedPrintTime: 3033.625026858304
+    filament:
+      tool0:
+        length: 2256.549089999998
+        volume: 5.4276366271379315
+    printingArea:
+      maxX: 105.497
+      maxY: 121.185
+      maxZ: 28.05
+      minX: 79.898
+      minY: 63.586
+      minZ: 0.3
+  hash: 5ccc270848910a35ab7db9bd281076ae463ae737
+  history:
+  - printTime: 3768.0529839992523
+    printerProfile: _default
+    success: true
+    timestamp: 1493743540.719247
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3768.0529839992523
+    lastPrintTime:
+      _default: 3768.0529839992523
+Z-EndStop-ZMotor.stl:
+  hash: 97f65a0194ba277a2d09ab2a4d707733c2cef7a7
+  links: []
+  notes: []

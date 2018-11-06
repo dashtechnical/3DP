@@ -1,0 +1,29 @@
+My_Full_Cut_Base_1.3.gco:
+  analysis:
+    dimensions:
+      depth: 73.39999999999999
+      height: 38.7
+      width: 75.5
+    estimatedPrintTime: 10127.111671456107
+    filament:
+      tool0:
+        length: 7648.57399
+        volume: 18.396976390838695
+    printingArea:
+      maxX: 130.226
+      maxY: 153.295
+      maxZ: 39.0
+      minX: 54.726
+      minY: 79.895
+      minZ: 0.3
+  hash: 66781cf5f817393dbbf2df26da7e01022eb122e2
+  links: []
+  notes: []
+My_Full_Cut_Base_1.3.stl:
+  hash: 3867f638d7519bcf4062ecf9ef92a252e85cb5f3
+  links: []
+  notes: []
+My_Full_Cut_Top_1.4.stl:
+  hash: b94f4a355e5a9997164e84def7a7dcb6a7eb075b
+  links: []
+  notes: []

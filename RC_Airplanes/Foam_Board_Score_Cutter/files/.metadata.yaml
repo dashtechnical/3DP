@@ -1,0 +1,39 @@
+My_50_Cut_Base_1.4.gco:
+  analysis:
+    dimensions:
+      depth: 75.2
+      height: 42.300000000000004
+      width: 75.5
+    estimatedPrintTime: 10521.416530518693
+    filament:
+      tool0:
+        length: 7985.039739999999
+        volume: 19.206271361008138
+    printingArea:
+      maxX: 130.227
+      maxY: 155.15
+      maxZ: 42.6
+      minX: 54.727
+      minY: 79.95
+      minZ: 0.3
+  hash: e08207fe8c7990e0468a22038eae0725bdf10f32
+  history:
+  - printTime: 10294.640826940536
+    printerProfile: _default
+    success: true
+    timestamp: 1495809308.677831
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 10294.640826940536
+    lastPrintTime:
+      _default: 10294.640826940536
+My_50_Cut_Base_1.4.stl:
+  hash: 9a16d3de391dff022367ac27a6555b1c2f754a16
+  links: []
+  notes: []
+My_50_Cut_Top_1.4.stl:
+  hash: b94f4a355e5a9997164e84def7a7dcb6a7eb075b
+  links: []
+  notes: []

@@ -1,0 +1,164 @@
+{
+    "EXTRUDER-IDLER-with-thumb-guide-1.75-filament-HiRes.gco": {
+        "notes": [],
+        "hash": "c643ca8cc35d5a298c02bc1a0b5585772e28a3a0",
+        "analysis": {
+            "estimatedPrintTime": 2587.0579016460247,
+            "printingArea": {
+                "maxZ": 23.7,
+                "minX": 70.756,
+                "maxX": 106.355,
+                "maxY": 125.83,
+                "minY": 72.09,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 35.599000000000004,
+                "depth": 53.739999999999995,
+                "height": 23.4
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 8.753400706163447,
+                    "length": 3639.24112
+                }
+            }
+        },
+        "links": []
+    },
+    "Linear_Bearing_LM8UU_13.gco": {
+        "notes": [],
+        "hash": "721d6c341abe2452d8cc526557873c095f746074",
+        "analysis": {
+            "estimatedPrintTime": 16960.432403441122,
+            "printingArea": {
+                "maxZ": 24.0,
+                "minX": 43.133,
+                "maxX": 141.867,
+                "maxY": 141.814,
+                "minY": 43.186,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 98.73399999999998,
+                "depth": 98.62799999999999,
+                "height": 23.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 35.44844591773361,
+                    "length": 14737.75122999647
+                }
+            }
+        },
+        "links": []
+    },
+    "Linear_Bearing_LM8UU_4.gco": {
+        "notes": [],
+        "hash": "45144bc94097463e6437b081f84c032b51c7c29e",
+        "analysis": {
+            "estimatedPrintTime": 5265.475140972782,
+            "printingArea": {
+                "maxZ": 24.0,
+                "minX": 80.182,
+                "maxX": 138.87,
+                "maxY": 138.026,
+                "minY": 48.882,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 58.688,
+                "depth": 89.144,
+                "height": 23.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 10.769073123217407,
+                    "length": 4477.260330000003
+                }
+            }
+        },
+        "links": []
+    },
+    "Linear_Bearing_LM8UU_1.gco": {
+        "notes": [],
+        "hash": "8c00641dc56e3b93eda6ea4ede83424ea629dd04",
+        "analysis": {
+            "estimatedPrintTime": 1247.3854013406872,
+            "printingArea": {
+                "maxZ": 24.0,
+                "minX": 80.182,
+                "maxX": 104.818,
+                "maxY": 104.802,
+                "minY": 80.198,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 24.635999999999996,
+                "depth": 24.604000000000013,
+                "height": 23.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 2.6978049209816852,
+                    "length": 1121.616950000001
+                }
+            }
+        },
+        "links": []
+    },
+    "servo_holder.gco": {
+        "notes": [],
+        "hash": "911ac0edca026028098a621f99baae041ab8b25e",
+        "analysis": {
+            "estimatedPrintTime": 2967.899595968419,
+            "printingArea": {
+                "maxZ": 4.05,
+                "minX": 54.383,
+                "maxX": 121.487,
+                "maxY": 135.113,
+                "minY": 57.507,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 67.10399999999998,
+                "depth": 77.606,
+                "height": 3.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 5.412144230631279,
+                    "length": 2250.1081000000027
+                }
+            }
+        },
+        "links": []
+    },
+    "Prusai3_40mm_Fan_holder_updated.gco": {
+        "notes": [],
+        "hash": "635ebfbef5637c95a3803c6af9ad492468e91987",
+        "analysis": {
+            "estimatedPrintTime": 10196.485066499741,
+            "printingArea": {
+                "maxZ": 58.2,
+                "minX": 58.353,
+                "maxX": 106.853,
+                "maxY": 122.42,
+                "minY": 76.22,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 48.49999999999999,
+                "depth": 46.2,
+                "height": 57.900000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 20.644772002500524,
+                    "length": 8583.098810000001
+                }
+            }
+        },
+        "links": []
+    }
+}

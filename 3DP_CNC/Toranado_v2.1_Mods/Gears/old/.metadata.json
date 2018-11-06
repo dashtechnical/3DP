@@ -1,0 +1,56 @@
+{
+    "MainGear_19T_48dp.gco": {
+        "notes": [],
+        "hash": "1a9d724af15f355eb12360501400b016debadf2e",
+        "analysis": {
+            "estimatedPrintTime": 471.3436090769047,
+            "printingArea": {
+                "maxZ": 10.05,
+                "minX": 85.775,
+                "maxX": 114.289,
+                "maxY": 114.274,
+                "minY": 85.932,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 28.513999999999996,
+                "depth": 28.342,
+                "height": 9.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.7065717312150622,
+                    "length": 293.75839000000053
+                }
+            }
+        },
+        "links": []
+    },
+    "PI_MainGear_94T_48dp.gco": {
+        "notes": [],
+        "hash": "8b49c82b96f5f0f5cd5001cdd33e2202a712ccfb",
+        "analysis": {
+            "estimatedPrintTime": 4877.270798587126,
+            "printingArea": {
+                "maxZ": 11.55,
+                "minX": 69.854,
+                "maxX": 130.195,
+                "maxY": 130.144,
+                "minY": 69.807,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 60.340999999999994,
+                "depth": 60.337,
+                "height": 11.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3241.0598099999997
+                }
+            }
+        },
+        "links": []
+    }
+}

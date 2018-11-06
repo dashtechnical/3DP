@@ -1,0 +1,125 @@
+tiny-whoop-68mm-polycarbonate.gco:
+  analysis:
+    dimensions:
+      depth: 104.60000000000001
+      height: 8.7
+      width: 104.70000000000002
+    estimatedPrintTime: 7536.275444723528
+    filament:
+      tool0:
+        length: 5171.4340399999965
+        volume: 12.438756566262818
+    printingArea:
+      maxX: 144.859
+      maxY: 144.859
+      maxZ: 9.0
+      minX: 40.159
+      minY: 40.259
+      minZ: 0.3
+  hash: 75a49613d4f6301bc0b2d8e0d10dbde4f1738773
+  history:
+  - printTime: 9439.861510038376
+    printerProfile: _default
+    success: true
+    timestamp: 1493734664.283085
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 9439.861510038376
+    lastPrintTime:
+      _default: 9439.861510038376
+tiny-whoop-croix-68mm-fixation-lipo-260mha.gco:
+  analysis:
+    dimensions:
+      depth: 39.271
+      height: 7.2
+      width: 39.271
+    estimatedPrintTime: 799.2155570101003
+    filament:
+      tool0:
+        length: 349.2597100000005
+        volume: 0.0
+    printingArea:
+      maxX: 112.127
+      maxY: 112.127
+      maxZ: 7.5
+      minX: 72.856
+      minY: 72.856
+      minZ: 0.3
+  hash: 7d89cb85477bd2909bdfb7fd761cae90d5b17634
+  links: []
+  notes: []
+tiny-whoop-x-68mm-capot-10-camera.gco:
+  analysis:
+    dimensions:
+      depth: 39.271
+      height: 10.649999999999999
+      width: 39.271
+    estimatedPrintTime: 1069.3299502571313
+    filament:
+      tool0:
+        length: 567.5776999999998
+        volume: 0.0
+    printingArea:
+      maxX: 112.127
+      maxY: 112.127
+      maxZ: 10.95
+      minX: 72.856
+      minY: 72.856
+      minZ: 0.3
+  hash: 038c30a327a70257d9f647e83059f17469784777
+  links: []
+  notes: []
+tiny-whoop-x-68mm-capot-camera.gco:
+  analysis:
+    dimensions:
+      depth: 39.271
+      height: 8.7
+      width: 39.271
+    estimatedPrintTime: 959.4976207415228
+    filament:
+      tool0:
+        length: 472.4625700000002
+        volume: 0.0
+    printingArea:
+      maxX: 112.127
+      maxY: 112.127
+      maxZ: 9.0
+      minX: 72.856
+      minY: 72.856
+      minZ: 0.3
+  hash: 8554395dc5c0587116328b6769d5b6fc5b9640ec
+  links: []
+  notes: []
+tiny_whoop.gco:
+  analysis:
+    dimensions:
+      depth: 107.91600000000001
+      height: 8.7
+      width: 107.91000000000001
+    estimatedPrintTime: 10145.174981148777
+    filament:
+      tool0:
+        length: 4424.164969999923
+        volume: 0.0
+    printingArea:
+      maxX: 146.312
+      maxY: 146.597
+      maxZ: 9.0
+      minX: 38.402
+      minY: 38.681
+      minZ: 0.3
+  hash: 6c89877bd98b960a6985b64494968407d5ae1956
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1493692411.236583
+  - printerProfile: _default
+    success: false
+    timestamp: 1493724298.639514
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}

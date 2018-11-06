@@ -1,0 +1,319 @@
+1.0-spacer-wpads.gco:
+  analysis:
+    estimatedPrintTime: 423
+    filament:
+      tool0:
+        length: 285
+        volume: 0.6855053344903352
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 3fc8a6a96ad711a2e08dbaf185b35a43cb3f1e6b
+1.0-spacer-wpads.stl:
+  hash: 6872e6ce8d9f7f355deedfd79995fdfc22075f1f
+2.1-30mmfancover-lownoise.gco:
+  analysis:
+    estimatedPrintTime: 955
+    filament:
+      tool0:
+        length: 651
+        volume: 1.5658385008884497
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 2333466e80238d98aed9fb5a067ae12307ffe0cf
+2.1-30mmfancover-lownoise.stl:
+  hash: 644cc9f0bf76c62a55715170df8e18a79e3e7a9b
+2.1-30mmfanmount.gco:
+  analysis:
+    estimatedPrintTime: 3401
+    filament:
+      tool0:
+        length: 2294
+        volume: 5.517716622178347
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: c4311079dff3497a4cf95b4da3a1312d2cd1a670
+2.1-30mmfanmount.stl:
+  hash: 48aa6a40011d05eefe0f43ef91c8394a37abc50e
+2.1-30mmvent-wpad.gco:
+  analysis:
+    dimensions:
+      depth: 37.86
+      height: 42.75
+      width: 41.191
+    estimatedPrintTime: 4621.176502533216
+    filament:
+      tool0:
+        length: 3353.5477200000005
+        volume: 8.066227549220708
+    printingArea:
+      maxX: 118.696
+      maxY: 118.929
+      maxZ: 43.05
+      minX: 77.505
+      minY: 81.069
+      minZ: 0.3
+  hash: 1694b6f39e9b265a068c83593fb3b955a86df171
+  links: []
+  notes: []
+2.1-30mmvent-wpad.stl:
+  hash: d6b0cffc12062668c12c33e942ad393b42059e7c
+2.1-40mmfanduct.gco:
+  analysis:
+    dimensions:
+      depth: 40.19800000000001
+      height: 46.2
+      width: 36.03299999999999
+    estimatedPrintTime: 6354.556757785326
+    filament:
+      tool0:
+        length: 4901.936839999997
+        volume: 11.790539835630508
+    printingArea:
+      maxX: 116.207
+      maxY: 120.099
+      maxZ: 46.5
+      minX: 80.174
+      minY: 79.901
+      minZ: 0.3
+  hash: b98d76f3f40986e136baec4c47f5d8f781991b96
+  links: []
+  notes: []
+2.1-40mmfanduct.stl:
+  hash: c9af564cccf261aaae0f53136a690a66a63eabc1
+2.1-LH-BLTouchcover-R.gco:
+  analysis:
+    estimatedPrintTime: 769
+    filament:
+      tool0:
+        length: 495
+        volume: 1.190614528325319
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: f89ea9c3648c32adbb8ad0d403fc569d6001810d
+2.1-LH-BLTouchcover-R.stl:
+  hash: aaa05e82b84fc0eca74e205dd1c00755afae785b
+2.1-LH-bearingholder.gco:
+  analysis:
+    estimatedPrintTime: 1273
+    filament:
+      tool0:
+        length: 955
+        volume: 2.2970441910114743
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: c31425c635f64869d389541a36ffeaeff76b9c0c
+2.1-LH-bearingholder.stl:
+  hash: 890b6ade13c18f85c79b2456daf3707de1ca3360
+2.1-LH-conncover-base.gco:
+  analysis:
+    estimatedPrintTime: 1681
+    filament:
+      tool0:
+        length: 1250
+        volume: 3.0066023442558563
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: aa8b1942dfe69cfa9dcd68e3242769ba673afa7c
+2.1-LH-conncover-base.stl:
+  hash: 15bbca5dc0cc84b11d4e3b77f1120886fd3651d2
+2.1-LH-decoration-spacer.gco:
+  analysis:
+    estimatedPrintTime: 1380
+    filament:
+      tool0:
+        length: 1085
+        volume: 2.609730834814083
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: e476d5bb851040c2e26bb70b354e3cbcbce9139e
+2.1-LH-decoration-spacer.stl:
+  hash: f6f39c12e56dc309e0f2fde4697efc62b2b18c5f
+2.1-LH-decorationcover.gco:
+  analysis:
+    estimatedPrintTime: 2760
+    filament:
+      tool0:
+        length: 2044
+        volume: 4.9163961533271765
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 576f10b718037758caf0231f937c8b6a398fac32
+2.1-LH-decorationcover.stl:
+  hash: 2bf303df004b2eaba86507c9fcf458507baf0231
+2.1-LH-extruderbase.gco:
+  analysis:
+    estimatedPrintTime: 15178
+    filament:
+      tool0:
+        length: 11083
+        volume: 26.657739025110125
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 8fccb9376b34a145281f76e7d3aaa5c9454c5c99
+2.1-LH-extruderbase.stl:
+  hash: 38e0a0eb8316b2e76c9f5390a3dc51caa4d98abe
+2.1-LH-gearprotector.gco:
+  analysis:
+    estimatedPrintTime: 7197
+    filament:
+      tool0:
+        length: 5314
+        volume: 12.781667885900495
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: aa2ef83debeae1dd8d1c48413900e4fa165cab9e
+2.1-LH-gearprotector.stl:
+  hash: 87e655fe7ccc2dfdba6de41a132dd7bc1c4a8212
+2.1-LH-lowercover-BLTouchR-wpad.gco:
+  analysis:
+    estimatedPrintTime: 11064
+    filament:
+      tool0:
+        length: 8108
+        volume: 19.502025445781186
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 94af502ad4a73287fb593f8329917b8c5cdec164
+2.1-LH-lowercover-BLTouchR-wpad.stl:
+  hash: a22eeba016f2c1bea25f9ef279371bffcb2810d0
+2.1-LH-lowercover-wpad.gco:
+  analysis:
+    estimatedPrintTime: 10192
+    filament:
+      tool0:
+        length: 7527
+        volume: 18.104556676171065
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: a19e375c499fb26ea61540168ea821c538b25f86
+2.1-LH-lowercover-wpad.stl:
+  hash: ce13757d77356b4ac3a36f4b8f1ff166ca10d3f5
+2.1-LH-smallgearcover.gco:
+  analysis:
+    estimatedPrintTime: 911
+    filament:
+      tool0:
+        length: 621
+        volume: 1.4936800446263094
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: ac449453718bb90658ae0c57839a1a783fd927f9
+2.1-LH-smallgearcover.stl:
+  hash: 5ab5898daf25041080b65965546b7f7400c0d899
+2.1-conncover-hotend.gco:
+  analysis:
+    estimatedPrintTime: 496
+    filament:
+      tool0:
+        length: 389
+        volume: 0.9356546495324224
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: db9f2f3cb28af60d55313e7780d624ff90eb74fe
+2.1-conncover-hotend.stl:
+  hash: 69b84664e6309822ec7888443ead849f39b40acc
+2.1-drilltemplate.gco:
+  analysis:
+    estimatedPrintTime: 1702
+    filament:
+      tool0:
+        length: 1117
+        volume: 2.6866998548270336
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 20e75f8e51bf7966ff36ddc5aaf51db845eeea5d
+2.1-drilltemplate.stl:
+  hash: aa378f454861cc886c274c262f24009887d182b8
+2.1-gearcover.gco:
+  analysis:
+    estimatedPrintTime: 4077
+    filament:
+      tool0:
+        length: 2893
+        volume: 6.958480465545755
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: f83884c1301aaed16f689a50b2712291f063d7d2
+2.1-gearcover.stl:
+  hash: e7736fa837f14dde1312c233dff082e37e0907f7
+2.1-idler-wpad.gco:
+  analysis:
+    estimatedPrintTime: 2847
+    filament:
+      tool0:
+        length: 2120
+        volume: 5.099197575857932
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 43114a3d2332f3a26da04388fbfa2ff19c1712da
+2.1-idler-wpad.stl:
+  hash: 7c8d41c1f84695d32187fca480a6b6e4c96ebff1
+2.1-idlerholder.gco:
+  analysis:
+    estimatedPrintTime: 3939
+    filament:
+      tool0:
+        length: 2994
+        volume: 7.201413934961626
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 4e3b6977890ac585456e30f73762e72b3c6799d3
+2.1-idlerholder.stl:
+  hash: e0e6ea37950df6c8a6515759caa72c3080ab4d22
+2.1-idlertensioner.gco:
+  analysis:
+    estimatedPrintTime: 1344
+    filament:
+      tool0:
+        length: 967
+        volume: 2.325907573516331
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 65776dac6c73dfe25cadbc275f8820581b1c0176
+2.1-idlertensioner.stl:
+  hash: 1ba09873ee48680a28b56b62d801b8f309414f1c
+2.1-shaftcollar.gco:
+  analysis:
+    estimatedPrintTime: 331
+    filament:
+      tool0:
+        length: 241
+        volume: 0.5796729319725291
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 3a61864bddbb76becf0a71225c2454c31d717f6f
+2.1-shaftcollar.stl:
+  hash: c56fa7e9247844b98c48fc0231c6e25978843023
+2.1-washer-M5.gco:
+  analysis:
+    estimatedPrintTime: 66
+    filament:
+      tool0:
+        length: 34
+        volume: 0.0817795837637593
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: e6876c5f398318abe6da0061975e48d7bf7c1e59
+2.1-washer-M5.stl:
+  hash: 5d8ef018c2be1bde0ceb85a67657885576efb470

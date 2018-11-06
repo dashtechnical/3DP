@@ -1,0 +1,25 @@
+CamSPT.gco:
+  analysis:
+    dimensions:
+      depth: 138.06400000000002
+      height: 76.8
+      width: 151.69299999999998
+    estimatedPrintTime: 12999.946589972058
+    filament:
+      tool0:
+        length: 10998.513730000026
+        volume: 26.454525731158643
+    printingArea:
+      maxX: 168.345
+      maxY: 161.532
+      maxZ: 77.1
+      minX: 16.652
+      minY: 23.468
+      minZ: 0.3
+  hash: 0c5757e730c82c1cdc9ef3510d5fbe6a1af6c6fc
+  links: []
+  notes: []
+CamSPT.stl:
+  hash: d6a1c43f73fb5ff0907d85b6bc209f923f27bc65
+  links: []
+  notes: []

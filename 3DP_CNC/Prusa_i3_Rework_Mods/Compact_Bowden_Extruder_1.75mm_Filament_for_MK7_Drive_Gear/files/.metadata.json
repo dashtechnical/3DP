@@ -1,0 +1,103 @@
+{
+    "compact_bowden_drive_extruder_idler.stl": {
+        "notes": [],
+        "hash": "b24d5615ea26a129e0979ecb1f8cf969d95ca3d7",
+        "links": []
+    },
+    "compact_bowden_drive_extruder_idler.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1251.3762979507446
+            },
+            "lastPrintTime": {
+                "_default": 1251.3762979507446
+            }
+        },
+        "hash": "c03925772fc221ff90e2603dfe13cd91326da0f6",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 884.766372801392,
+            "printingArea": {
+                "maxZ": 11.3,
+                "minX": 82.625,
+                "maxX": 102.375,
+                "maxY": 118.449,
+                "minY": 66.551,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 19.75,
+                "depth": 51.897999999999996,
+                "height": 11.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 2.3723232840315873,
+                    "length": 986.2974100000015
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1498005052.812327,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1498006384.314217,
+                "printTime": 1251.3762979507446,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "compact_direct_drive_extruder_main.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 6531.579265117645
+            },
+            "lastPrintTime": {
+                "_default": 6531.579265117645
+            }
+        },
+        "hash": "144ba35f4c8e95b5a9830ea5d61b284af2a27e2b",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 4840.569350949933,
+            "printingArea": {
+                "maxZ": 16.3,
+                "minX": 64.051,
+                "maxX": 120.949,
+                "maxY": 126.285,
+                "minY": 58.716,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 56.897999999999996,
+                "depth": 67.56899999999999,
+                "height": 16.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 13.33489339669509,
+                    "length": 5544.004439999995
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1498013407.820879,
+                "printTime": 6531.579265117645,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "compact_direct_drive_extruder_main.stl": {
+        "notes": [],
+        "hash": "f8e8a6a4e49b07e47261047b1a18bb22160c65e4",
+        "links": []
+    }
+}

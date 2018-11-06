@@ -1,0 +1,1037 @@
+{
+    "15._Spitfire_Middle_Body_-_Tail2_bot.stl": {
+        "notes": [],
+        "hash": "0e6a2786e7e95780e8f32b509e60c7c73a65cc19",
+        "links": []
+    },
+    "8._Spitfire_Left_Wing_Part_B_(repaired).stl": {
+        "notes": [],
+        "hash": "12d4044120526c45f21a2d9e476b59fa2bdb2a2a",
+        "links": []
+    },
+    "2._Nose_tip_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3519.7902660369873
+            },
+            "lastPrintTime": {
+                "_default": 3519.7902660369873
+            }
+        },
+        "hash": "a362c7ae572411ea9412ddf7e640ca249a1cd7b2",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 2233.012517927788,
+            "printingArea": {
+                "maxZ": 20.3,
+                "minX": 67.126,
+                "maxX": 117.834,
+                "maxY": 122.863,
+                "minY": 62.095,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 50.708,
+                "depth": 60.768,
+                "height": 20.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2242.375990000002
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504783383.810983,
+                "printTime": 3519.7902660369873,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "11._Spitfire_Right_Wing_Part_A_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4616.59250497818
+            },
+            "lastPrintTime": {
+                "_default": 4616.59250497818
+            }
+        },
+        "hash": "347db668e2b56c693c5cd2eb81c792e881371bfa",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3109.495509141374,
+            "printingArea": {
+                "maxZ": 55.9,
+                "minX": 52.08,
+                "maxX": 134.352,
+                "maxY": 101.187,
+                "minY": 84.931,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 82.272,
+                "depth": 16.256,
+                "height": 55.6
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2925.9677900000033
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505012444.782647,
+                "printTime": 4616.59250497818,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "12._Spitfire_Right_Wing_Part_B.STL": {
+        "notes": [],
+        "hash": "e4c1f6db9dddb3affc0708318b483081c825f77a",
+        "links": []
+    },
+    "13._Spitfire_Right_Wing_Part_C.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 14313.212960004807
+            },
+            "lastPrintTime": {
+                "_default": 14313.212960004807
+            }
+        },
+        "hash": "c3d675d5def54a72cefe0aeca22e6917aa99baaf",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 10342.741328385828,
+            "printingArea": {
+                "maxZ": 81.3,
+                "minX": 26.416,
+                "maxX": 159.856,
+                "maxY": 114.897,
+                "minY": 74.068,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 133.44,
+                "depth": 40.82900000000001,
+                "height": 81.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 8865.73613000001
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505080669.37583,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1505095037.948031,
+                "printTime": 14313.212960004807,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "16._Spitfire_spitfire_control_surface_2_1.stl": {
+        "notes": [],
+        "hash": "94a1605ce2ef3d28122080f3a880bfd22dfdbc72",
+        "links": []
+    },
+    "4._Spitfire_final_middle_body_-_bottom2_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4325.537464618683
+            },
+            "lastPrintTime": {
+                "_default": 4331.556292057037
+            }
+        },
+        "hash": "16e892d005271727ed0baf40d6a07f3afdca0186",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3124.6244365904417,
+            "printingArea": {
+                "maxZ": 75.1,
+                "minX": 71.033,
+                "maxX": 113.964,
+                "maxY": 110.608,
+                "minY": 70.397,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 42.931,
+                "depth": 40.211,
+                "height": 74.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3368.188650000002
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504823528.551074,
+                "printTime": 4319.518637180328,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1504836481.332054,
+                "printTime": 4331.556292057037,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "15._Spitfire_Middle_Body_-_Tail2_top.stl": {
+        "notes": [],
+        "hash": "cf01a5d6335b8f40600bd9445d2176181420d3a4",
+        "links": []
+    },
+    "14._Spitfire_Control_Surface_4_1.stl": {
+        "notes": [],
+        "hash": "ad3851f310ac98f989be20299af76f743742ab35",
+        "links": []
+    },
+    "16._Spitfire_spitfire_control_surface_1_2.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1332.290915966034
+            },
+            "lastPrintTime": {
+                "_default": 1332.290915966034
+            }
+        },
+        "hash": "aad39b43088dffa89f4455183db64ecd75ece6e9",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 780.5145267811315,
+            "printingArea": {
+                "maxZ": 14.5,
+                "minX": 41.213,
+                "maxX": 146.813,
+                "maxY": 98.299,
+                "minY": 86.649,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.6,
+                "depth": 11.650000000000006,
+                "height": 14.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 682.2020300000004
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505269997.690847,
+                "printTime": 1332.290915966034,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "16._Spitfire_spitfire_control_surface_1_1.stl": {
+        "notes": [],
+        "hash": "7f56da55e22820d6979eb4da4cb3fe39e8cc80bc",
+        "links": []
+    },
+    "10._Spitfire_Middle_Body_-_Tail1.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 5597.840672016144
+            },
+            "lastPrintTime": {
+                "_default": 5597.840672016144
+            }
+        },
+        "hash": "b1a049aabbde9dfc8b1a0622015c79548217eb1f",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3619.0119593176187,
+            "printingArea": {
+                "maxZ": 83.1,
+                "minX": 72.321,
+                "maxX": 112.74,
+                "maxY": 126.555,
+                "minY": 58.453,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 40.419,
+                "depth": 68.102,
+                "height": 82.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3534.9146600000013
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505005593.802038,
+                "printTime": 5597.840672016144,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "6._Spitfire_final_middle_body_-_Top1.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 10871.875776052475
+            },
+            "lastPrintTime": {
+                "_default": 10871.875776052475
+            }
+        },
+        "hash": "115de0fb6d552b3b73f35b2d1f0792c64e07246a",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 6909.368419520521,
+            "printingArea": {
+                "maxZ": 79.7,
+                "minX": 67.046,
+                "maxX": 117.959,
+                "maxY": 118.128,
+                "minY": 70.883,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 50.913,
+                "depth": 47.245000000000005,
+                "height": 79.4
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 5968.981160000124
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504880926.724275,
+                "printTime": 10871.875776052475,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "16._Spitfire_spitfire_control_surface_1_2.stl": {
+        "notes": [],
+        "hash": "708ea0e2884385a95966880c2d602c4eb4abc5d3",
+        "links": []
+    },
+    "9._Spitfire_Left_Wing_Part_C.stl": {
+        "notes": [],
+        "hash": "6d1372a9c0d6beb1b28751daa58782f59193fec4",
+        "links": []
+    },
+    "15._Spitfire_Middle_Body_-_Tail2_bot.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 13762.546946048737
+            },
+            "lastPrintTime": {
+                "_default": 13762.546946048737
+            }
+        },
+        "hash": "0b82504cc8537d261dcec7a5577351b7a61f53c1",
+        "analysis": {
+            "estimatedPrintTime": 12485,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 22.118972126221486,
+                    "length": 9196
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505226373.321103,
+                "printTime": 13762.546946048737,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "14._Spitfire_Control_Surface_4_2.gco": {
+        "notes": [],
+        "hash": "f1c3d6130017c84165211d9ec0970fcc70edcb1c",
+        "analysis": {
+            "estimatedPrintTime": 1422.069069494804,
+            "printingArea": {
+                "maxZ": 13.7,
+                "minX": 9.88,
+                "maxX": 175.146,
+                "maxY": 97.82,
+                "minY": 87.23,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 165.266,
+                "depth": 10.58999999999999,
+                "height": 13.399999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1236.63385
+                }
+            }
+        },
+        "links": []
+    },
+    "1._Nose_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 14036.308166980743
+            },
+            "lastPrintTime": {
+                "_default": 14036.308166980743
+            }
+        },
+        "hash": "366594dba2e69ec9bd06ca5e04031a5b01ad2b8e",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 10213.957615551362,
+            "printingArea": {
+                "maxZ": 114.7,
+                "minX": 46.114,
+                "maxX": 138.954,
+                "maxY": 129.79,
+                "minY": 52.051,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 92.84,
+                "depth": 77.73899999999999,
+                "height": 114.4
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 10192.805160000245
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504766599.085695,
+                "printTime": 14036.308166980743,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "16._Spitfire_spitfire_control_surface_1_1.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1677.5186381340027
+            },
+            "lastPrintTime": {
+                "_default": 1677.5186381340027
+            }
+        },
+        "hash": "bf853688886aa7eabe226fa5e5d833331a0524ab",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 984.9929589944941,
+            "printingArea": {
+                "maxZ": 8.9,
+                "minX": 38.981,
+                "maxX": 144.588,
+                "maxY": 98.969,
+                "minY": 87.223,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.607,
+                "depth": 11.745999999999995,
+                "height": 8.6
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 953.3396299999998
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505262093.151438,
+                "printTime": 1677.5186381340027,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "12._Spitfire_Right_Wing_Part_B.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 8984.874762058258
+            },
+            "lastPrintTime": {
+                "_default": 8984.874762058258
+            }
+        },
+        "hash": "245b3162a0629a56e0862a41c0d09a56de69ab85",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 6964.552439899042,
+            "printingArea": {
+                "maxZ": 121.1,
+                "minX": 30.695,
+                "maxX": 155.655,
+                "maxY": 107.381,
+                "minY": 81.561,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 124.96000000000001,
+                "depth": 25.819999999999993,
+                "height": 120.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 8011.626810000098
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505023923.220097,
+                "printTime": 8984.874762058258,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "7._Spitfire_Left_Wing_Part_A_(repaired).stl": {
+        "notes": [],
+        "hash": "18cd95d5228a1f9d914025eae93c25d83e31dc8a",
+        "links": []
+    },
+    "16._Spitfire_spitfire_control_surface_2_2.stl": {
+        "notes": [],
+        "hash": "41acad9da737f2c449e75491b0ae44e0c5099e09",
+        "links": []
+    },
+    "17._Spitfire_Control_Surface_3.stl": {
+        "notes": [],
+        "hash": "6500f3b6afc97cc48952e621d0dcb4b839a8b9c1",
+        "links": []
+    },
+    "16._Spitfire_spitfire_control_surface_2_2.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1311.4327778816223
+            },
+            "lastPrintTime": {
+                "_default": 1311.4327778816223
+            }
+        },
+        "hash": "f1fb60ea222a145f0bc5118d2ddd0efe41c2d93f",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 778.6058094726188,
+            "printingArea": {
+                "maxZ": 14.3,
+                "minX": 41.039,
+                "maxX": 146.859,
+                "maxY": 98.338,
+                "minY": 86.714,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.82000000000001,
+                "depth": 11.623999999999995,
+                "height": 14.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 682.9884799999998
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505323493.560381,
+                "printTime": 1311.4327778816223,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "5._Spitfire_final_middle_body_-_Top2_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3722.7325160503387
+            },
+            "lastPrintTime": {
+                "_default": 3722.7325160503387
+            }
+        },
+        "hash": "549c4590b9e3da7b86fdf74c37a8cb6664bf9ac0",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 2707.142735176057,
+            "printingArea": {
+                "maxZ": 95.3,
+                "minX": 71.077,
+                "maxX": 113.922,
+                "maxY": 115.711,
+                "minY": 73.344,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 42.845,
+                "depth": 42.367000000000004,
+                "height": 95.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2925.615910000001
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504840302.272723,
+                "printTime": 3722.7325160503387,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "8._Spitfire_Left_Wing_Part_B_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 11787.979451060295
+            },
+            "lastPrintTime": {
+                "_default": 9115.170412063599
+            }
+        },
+        "hash": "a376a7950b59a1a31197c5adfcddf9ad74040243",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 6994.16065801071,
+            "printingArea": {
+                "maxZ": 121.1,
+                "minX": 30.693,
+                "maxX": 155.66,
+                "maxY": 103.441,
+                "minY": 77.619,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 124.967,
+                "depth": 25.822000000000003,
+                "height": 120.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 8009.078740000189
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504930537.806047,
+                "printTime": 14460.788490056992,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1504980620.301842,
+                "printTime": 9115.170412063599,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "14._Spitfire_Control_Surface_4_2.stl": {
+        "notes": [],
+        "hash": "448fbaa5ce97d0e867014957c32faf70f0f2430b",
+        "links": []
+    },
+    "10._Spitfire_Middle_Body_-_Tail1.stl": {
+        "notes": [],
+        "hash": "c81006dda91109dc1097f77272c903d64f4f25ce",
+        "links": []
+    },
+    "14._Spitfire_Control_Surface_4_1.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1794.759479045868
+            },
+            "lastPrintTime": {
+                "_default": 1794.759479045868
+            }
+        },
+        "hash": "2cd001672a61833471db1d23b8263b98b4ba2489",
+        "analysis": {
+            "estimatedPrintTime": 1727,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 3.670460141867549,
+                    "length": 1526
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505184401.139327,
+                "printTime": 1794.759479045868,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "3._Spitfire_final_middle_body_-_bottom1_(repaired).stl": {
+        "notes": [],
+        "hash": "574f5cb2f918e5b45684f018aaf9515b9e0df2d5",
+        "links": []
+    },
+    "15._Spitfire_Middle_Body_-_Tail2_top.gco": {
+        "notes": [],
+        "hash": "d4a6824e4f520270e15e9ffbdcd081d78c0c68a3",
+        "analysis": {
+            "estimatedPrintTime": 9012.334891350205,
+            "printingArea": {
+                "maxZ": 38.9,
+                "minX": 18.346,
+                "maxX": 166.56,
+                "maxY": 133.914,
+                "minY": 47.104,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 148.214,
+                "depth": 86.80999999999999,
+                "height": 38.6
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 7348.304010000165
+                }
+            }
+        },
+        "links": []
+    },
+    "5._Spitfire_final_middle_body_-_Top2_(repaired).stl": {
+        "notes": [],
+        "hash": "88320bb254ebb645d206c1590c12d8ecc458d48f",
+        "links": []
+    },
+    "17._Spitfire_Control_Surface_3.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3504.8999750614166
+            },
+            "lastPrintTime": {
+                "_default": 3504.8999750614166
+            }
+        },
+        "hash": "469de7c54096158f1687f7e2c6cbe11166e77123",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 2393.861481072926,
+            "printingArea": {
+                "maxZ": 31.7,
+                "minX": 84.62,
+                "maxX": 100.38,
+                "maxY": 141.785,
+                "minY": 43.23,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 15.759999999999991,
+                "depth": 98.555,
+                "height": 31.4
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2263.4129800000023
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505327250.432184,
+                "printTime": 3504.8999750614166,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "4._Spitfire_final_middle_body_-_bottom2_(repaired).stl": {
+        "notes": [],
+        "hash": "e2b696d6f8071435a855ffa97efeb97f5cca5a1f",
+        "links": []
+    },
+    "3._Spitfire_final_middle_body_-_bottom1_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 11365.016410112381
+            },
+            "lastPrintTime": {
+                "_default": 11365.016410112381
+            }
+        },
+        "hash": "d135c3a8d465686656cfc49b079115a5b951ad35",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 8481.128795714047,
+            "printingArea": {
+                "maxZ": 99.9,
+                "minX": 46.079,
+                "maxX": 138.919,
+                "maxY": 118.017,
+                "minY": 64.819,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 92.84,
+                "depth": 53.19799999999999,
+                "height": 99.60000000000001
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 7579.214550000073
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504799844.20405,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1504814682.681122,
+                "printTime": 11365.016410112381,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "11._Spitfire_Right_Wing_Part_A_(repaired).stl": {
+        "notes": [],
+        "hash": "17a720a6170122dec16656aa1a471b20ff5e2873",
+        "links": []
+    },
+    "13._Spitfire_Right_Wing_Part_C.STL": {
+        "notes": [],
+        "hash": "db841f26a4c792fcf28b476b92ff295d0f0e6dde",
+        "links": []
+    },
+    "2._Nose_tip_(repaired).stl": {
+        "notes": [],
+        "hash": "c68efc403e177cde18361c7efccbf0b627909e1f",
+        "links": []
+    },
+    "6._Spitfire_final_middle_body_-_Top1.STL": {
+        "notes": [],
+        "hash": "2d77116d30e464190396a090f7a26879bdfa82b9",
+        "links": []
+    },
+    "7._Spitfire_Left_Wing_Part_A_(repaired).gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4605.404542922974
+            },
+            "lastPrintTime": {
+                "_default": 4605.404542922974
+            }
+        },
+        "hash": "0824f89db701c1f8e50969016a44b10ee3b47abc",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3120.950653968796,
+            "printingArea": {
+                "maxZ": 55.9,
+                "minX": 52.081,
+                "maxX": 134.345,
+                "maxY": 100.092,
+                "minY": 83.846,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 82.264,
+                "depth": 16.245999999999995,
+                "height": 55.6
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2924.6276900000025
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504911185.056615,
+                "printTime": 4605.404542922974,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "Full_Spitfire_example_(repaired).stl": {
+        "notes": [],
+        "hash": "dba55f69e11fefdebc459b86a783e913a35ef680",
+        "links": []
+    },
+    "9._Spitfire_Left_Wing_Part_C.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 14296.326554059982
+            },
+            "lastPrintTime": {
+                "_default": 14313.568268060684
+            }
+        },
+        "hash": "413c63c71cefbac6d8294b6c548903391d0be5c4",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 10225.143058481093,
+            "printingArea": {
+                "maxZ": 81.3,
+                "minX": 26.418,
+                "maxX": 159.87,
+                "maxY": 110.931,
+                "minY": 70.098,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 133.452,
+                "depth": 40.833,
+                "height": 81.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 8805.188739999914
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1504946061.33699,
+                "printTime": 14279.08484005928,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1505115282.191101,
+                "printTime": 14313.568268060684,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "1._Nose_(repaired).stl": {
+        "notes": [],
+        "hash": "d6246b5ac52953569495fc9b60c42270c0969e08",
+        "links": []
+    },
+    "16._Spitfire_spitfire_control_surface_2_1.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1695.2780799865723
+            },
+            "lastPrintTime": {
+                "_default": 1695.2780799865723
+            }
+        },
+        "hash": "b4251cd6305464a50b5e5206ae563ec3db46cc61",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 991.6184959165245,
+            "printingArea": {
+                "maxZ": 8.9,
+                "minX": 38.899,
+                "maxX": 144.73,
+                "maxY": 97.704,
+                "minY": 85.984,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.83099999999999,
+                "depth": 11.719999999999999,
+                "height": 8.6
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 945.6719799999996
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505321180.187401,
+                "printTime": 1695.2780799865723,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+EXTRUDER-IDLER-with-thumb-guide-1.75-filament-HiRes.gco:
+  analysis:
+    dimensions:
+      depth: 53.739999999999995
+      height: 23.4
+      width: 35.599000000000004
+    estimatedPrintTime: 2587.0579016460247
+    filament:
+      tool0:
+        length: 3639.24112
+        volume: 8.753400706163447
+    printingArea:
+      maxX: 106.355
+      maxY: 125.83
+      maxZ: 23.7
+      minX: 70.756
+      minY: 72.09
+      minZ: 0.3
+  hash: c643ca8cc35d5a298c02bc1a0b5585772e28a3a0
+  links: []
+  notes: []
+Linear_Bearing_LM8UU_1.gco:
+  analysis:
+    dimensions:
+      depth: 24.604000000000013
+      height: 23.7
+      width: 24.635999999999996
+    estimatedPrintTime: 1247.3854013406872
+    filament:
+      tool0:
+        length: 1121.616950000001
+        volume: 2.6978049209816852
+    printingArea:
+      maxX: 104.818
+      maxY: 104.802
+      maxZ: 24.0
+      minX: 80.182
+      minY: 80.198
+      minZ: 0.3
+  hash: 8c00641dc56e3b93eda6ea4ede83424ea629dd04
+  links: []
+  notes: []
+Linear_Bearing_LM8UU_13.gco:
+  analysis:
+    dimensions:
+      depth: 98.62799999999999
+      height: 23.7
+      width: 98.73399999999998
+    estimatedPrintTime: 16960.432403441122
+    filament:
+      tool0:
+        length: 14737.75122999647
+        volume: 35.44844591773361
+    printingArea:
+      maxX: 141.867
+      maxY: 141.814
+      maxZ: 24.0
+      minX: 43.133
+      minY: 43.186
+      minZ: 0.3
+  hash: 721d6c341abe2452d8cc526557873c095f746074
+  links: []
+  notes: []
+Linear_Bearing_LM8UU_4.gco:
+  analysis:
+    dimensions:
+      depth: 89.144
+      height: 23.7
+      width: 58.688
+    estimatedPrintTime: 5265.475140972782
+    filament:
+      tool0:
+        length: 4477.260330000003
+        volume: 10.769073123217407
+    printingArea:
+      maxX: 138.87
+      maxY: 138.026
+      maxZ: 24.0
+      minX: 80.182
+      minY: 48.882
+      minZ: 0.3
+  hash: 45144bc94097463e6437b081f84c032b51c7c29e
+  links: []
+  notes: []
+Prusai3_40mm_Fan_holder_updated.gco:
+  analysis:
+    dimensions:
+      depth: 46.2
+      height: 57.900000000000006
+      width: 48.49999999999999
+    estimatedPrintTime: 10196.485066499741
+    filament:
+      tool0:
+        length: 8583.098810000001
+        volume: 20.644772002500524
+    printingArea:
+      maxX: 106.853
+      maxY: 122.42
+      maxZ: 58.2
+      minX: 58.353
+      minY: 76.22
+      minZ: 0.3
+  hash: 635ebfbef5637c95a3803c6af9ad492468e91987
+  links: []
+  notes: []
+servo_holder.gco:
+  analysis:
+    dimensions:
+      depth: 77.606
+      height: 3.75
+      width: 67.10399999999998
+    estimatedPrintTime: 2967.899595968419
+    filament:
+      tool0:
+        length: 2250.1081000000027
+        volume: 5.412144230631279
+    printingArea:
+      maxX: 121.487
+      maxY: 135.113
+      maxZ: 4.05
+      minX: 54.383
+      minY: 57.507
+      minZ: 0.3
+  hash: 911ac0edca026028098a621f99baae041ab8b25e
+  links: []
+  notes: []

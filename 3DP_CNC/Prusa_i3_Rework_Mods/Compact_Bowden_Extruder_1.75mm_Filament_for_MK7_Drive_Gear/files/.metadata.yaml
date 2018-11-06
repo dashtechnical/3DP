@@ -1,0 +1,73 @@
+compact_bowden_drive_extruder_idler.gco:
+  analysis:
+    dimensions:
+      depth: 51.897999999999996
+      height: 11.0
+      width: 19.75
+    estimatedPrintTime: 884.766372801392
+    filament:
+      tool0:
+        length: 986.2974100000015
+        volume: 2.3723232840315873
+    printingArea:
+      maxX: 102.375
+      maxY: 118.449
+      maxZ: 11.3
+      minX: 82.625
+      minY: 66.551
+      minZ: 0.3
+  hash: c03925772fc221ff90e2603dfe13cd91326da0f6
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1498005052.812327
+  - printTime: 1251.3762979507446
+    printerProfile: _default
+    success: true
+    timestamp: 1498006384.314217
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1251.3762979507446
+    lastPrintTime:
+      _default: 1251.3762979507446
+compact_bowden_drive_extruder_idler.stl:
+  hash: b24d5615ea26a129e0979ecb1f8cf969d95ca3d7
+  links: []
+  notes: []
+compact_direct_drive_extruder_main.gco:
+  analysis:
+    dimensions:
+      depth: 67.56899999999999
+      height: 16.0
+      width: 56.897999999999996
+    estimatedPrintTime: 4840.569350949933
+    filament:
+      tool0:
+        length: 5544.004439999995
+        volume: 13.33489339669509
+    printingArea:
+      maxX: 120.949
+      maxY: 126.285
+      maxZ: 16.3
+      minX: 64.051
+      minY: 58.716
+      minZ: 0.3
+  hash: 144ba35f4c8e95b5a9830ea5d61b284af2a27e2b
+  history:
+  - printTime: 6531.579265117645
+    printerProfile: _default
+    success: true
+    timestamp: 1498013407.820879
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 6531.579265117645
+    lastPrintTime:
+      _default: 6531.579265117645
+compact_direct_drive_extruder_main.stl:
+  hash: f8e8a6a4e49b07e47261047b1a18bb22160c65e4
+  links: []
+  notes: []

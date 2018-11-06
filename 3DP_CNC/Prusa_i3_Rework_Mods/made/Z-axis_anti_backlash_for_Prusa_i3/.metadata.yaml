@@ -1,0 +1,35 @@
+Z-AXIS-BACKLASH_M5.gco:
+  analysis:
+    dimensions:
+      depth: 31.599999999999994
+      height: 41.7
+      width: 19.599999999999994
+    estimatedPrintTime: 3414.073483522984
+    filament:
+      tool0:
+        length: 2214.208129999998
+        volume: 5.325794683462696
+    printingArea:
+      maxX: 102.3
+      maxY: 115.3
+      maxZ: 42.0
+      minX: 82.7
+      minY: 83.7
+      minZ: 0.3
+  hash: 8aeb264a1914cefce0ab169ca0fb4583a59c0b6b
+  history:
+  - printTime: 4429.668250083923
+    printerProfile: _default
+    success: true
+    timestamp: 1492809668.334777
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 4429.668250083923
+    lastPrintTime:
+      _default: 4429.668250083923
+Z-AXIS-BACKLASH_M5.stl:
+  hash: 8bad2e39506235e4ae193c280a27bd28f400340c
+  links: []
+  notes: []

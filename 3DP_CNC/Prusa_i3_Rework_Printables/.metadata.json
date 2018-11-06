@@ -1,0 +1,424 @@
+{
+    "X-CARRIAGE.gco": {
+        "hash": "efe874922130c4c05e222d992c64ac40eaee9a37",
+        "analysis": {
+            "estimatedPrintTime": 7558,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 18.10215139429566,
+                    "length": 7526
+                }
+            }
+        }
+    },
+    "Y-MOTOR.stl": {
+        "hash": "cb1c63449d5e46e2768f0ba78ab38d7f37c30878"
+    },
+    "FAN-DUCT.stl": {
+        "hash": "816a820e8fe4c9acde5039e3e0a26cdffb135ca0"
+    },
+    "BODY-EXTRUDEUR-WADE-1.75mm-with-support.gco": {
+        "hash": "96e5aced7f5f76c035af96af0d08df3271a8aff0",
+        "analysis": {
+            "estimatedPrintTime": 11537,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 28.358273311021236,
+                    "length": 11790
+                }
+            }
+        }
+    },
+    "EXTRUDER-IDLER-avec-guide.stl": {
+        "hash": "2ed38771b7333976984f75b435b63965c28a01f4"
+    },
+    "WADE-BIG-GEAR.stl": {
+        "hash": "f74a3f6dcdb330a2339ff579c01fd7b00b84f2ae"
+    },
+    "Z-AXIS-BOTTOM-LEFT-V2.gco": {
+        "hash": "4045742fa24b71fb78c0120fed55d52ad9aabf18",
+        "analysis": {
+            "estimatedPrintTime": 3996,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 10.058888802942393,
+                    "length": 4182
+                }
+            }
+        }
+    },
+    "ENDSTOP-Z-HOLDER-V2.gco": {
+        "hash": "86a035f1c6842312d98b2dd3f13fda8114f18909",
+        "analysis": {
+            "estimatedPrintTime": 2398,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 6.087768426649259,
+                    "length": 2531
+                }
+            }
+        }
+    },
+    "ENDSTOP-Z-HOLDER-V2.stl": {
+        "hash": "dd0e1323f5ab8f9d75e13b00ccb42fa134b9d3cb"
+    },
+    "Y-BELT-HOLDER.stl": {
+        "hash": "0d31c4890f9b35f535285a5e891f03ed069bdb14"
+    },
+    "BODY-EXTRUDEUR-WADE-with-support.gco": {
+        "hash": "f5a786f6c4059b51c153c08966bbc6597694d404",
+        "analysis": {
+            "estimatedPrintTime": 11559,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 28.379920847899882,
+                    "length": 11799
+                }
+            }
+        }
+    },
+    "WADE-BIG-GEAR.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 5695.524436950684
+            },
+            "lastPrintTime": {
+                "_default": 5695.524436950684
+            }
+        },
+        "hash": "6629bbf4f31a5f93f6fa3f17c5f980fe0e5c693b",
+        "analysis": {
+            "estimatedPrintTime": 5328,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 9.984325064804848,
+                    "length": 4151
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505473791.306408,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1505473849.043042,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1505479590.96169,
+                "printTime": 5695.524436950684,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "Y-CORNERS.stl": {
+        "hash": "8867765552c4bed22c622d461e2240fe5907bd39"
+    },
+    "ARDUINO-WASHER.gco": {
+        "hash": "87efbdcc090f28863232c0fa36636055e951680a",
+        "analysis": {
+            "estimatedPrintTime": 105,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 0.12026409377023425,
+                    "length": 50
+                }
+            }
+        }
+    },
+    "Z-AXIS-TOP-LEFT-V2.gco": {
+        "hash": "e4e9a0091ad92f9b1774d2d8643d3c07811682e8",
+        "analysis": {
+            "estimatedPrintTime": 1700,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 4.4160975232430015,
+                    "length": 1836
+                }
+            }
+        }
+    },
+    "WADE-SMALL-GEAR.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1352.4704339504242
+            },
+            "lastPrintTime": {
+                "_default": 1352.4704339504242
+            }
+        },
+        "hash": "b156a6d2af97b102bc97e9aa2d5f0577ab5e4329",
+        "analysis": {
+            "estimatedPrintTime": 1089,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.4702244860406117,
+                    "length": 1027
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1505501761.645773,
+                "printTime": 1352.4704339504242,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "X-END-IDLER.gco": {
+        "hash": "b18f54edf6f5290b9cd066d7d728b79017535e07",
+        "analysis": {
+            "estimatedPrintTime": 7172,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 17.416646059805327,
+                    "length": 7241
+                }
+            }
+        }
+    },
+    "X-END-MOTOR-V2.stl": {
+        "hash": "4b6b311467739c0a6fd3e47c9973ae817c8ae12c"
+    },
+    "Z-AXIS-BOTTOM-RIGHT-V2.gco": {
+        "hash": "e0f85f8d8ea3abd6c260eb95bfa4a0abeb815aca",
+        "analysis": {
+            "estimatedPrintTime": 3966,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 10.09256274919806,
+                    "length": 4196
+                }
+            }
+        }
+    },
+    "Y-IDLER.gco": {
+        "hash": "25f3e631ebe78589f207549e78a5edc0ea12d669",
+        "analysis": {
+            "estimatedPrintTime": 2656,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 6.559203674228576,
+                    "length": 2727
+                }
+            }
+        }
+    },
+    "Y-CORNERS.gco": {
+        "hash": "3b7fd07f3d37afc9e682caab93a587f2e98f5bb5",
+        "analysis": {
+            "estimatedPrintTime": 3394,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 8.812952791482765,
+                    "length": 3664
+                }
+            }
+        }
+    },
+    "BODY-EXTRUDEUR-WADE.gco": {
+        "hash": "35c1e1877753237400f9d8fec5edde6666afaed3",
+        "analysis": {
+            "estimatedPrintTime": 10953,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 26.82610875638845,
+                    "length": 11153
+                }
+            }
+        }
+    },
+    "EXTRUDER-IDLER-avec-guide.gco": {
+        "hash": "30a7392405df55b05729f829318c552c5e03741c",
+        "analysis": {
+            "estimatedPrintTime": 2581,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 6.018015252262521,
+                    "length": 2502
+                }
+            }
+        }
+    },
+    "Y-MOTOR.gco": {
+        "hash": "255438f46d563782f00a6e864982a7390d248150",
+        "analysis": {
+            "estimatedPrintTime": 3188,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 7.918187933832223,
+                    "length": 3292
+                }
+            }
+        }
+    },
+    "WADE-SMALL-GEAR.stl": {
+        "hash": "631a7cbbbe935cc0eb5f0e86db4bfb2bbb38c4e2"
+    },
+    "X-END-IDLER.stl": {
+        "hash": "6f882e6ef012d47fb8e57ba50aae9c3c45dc2fbf"
+    },
+    "Z-AXIS-BOTTOM-LEFT-V2.stl": {
+        "hash": "c4318df4271a32786cd40695c10498fe7bdd5c5c"
+    },
+    "BODY-EXTRUDEUR-WADE-1.75mm-with-support.stl": {
+        "hash": "69a2e36785fef0aeee553ed0dcc20995b359578a"
+    },
+    "FAN-DUCT.gco": {
+        "hash": "d69fb455f5ac7d8230ef53e39261b6319cd6a388",
+        "analysis": {
+            "estimatedPrintTime": 2938,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 7.004180821178442,
+                    "length": 2912
+                }
+            }
+        }
+    },
+    "Z-AXIS-BOTTOM-RIGHT-V2.stl": {
+        "hash": "f3b4a8558a0a1aa6f6287b1364df9cbfc2c9548e"
+    },
+    "X-END-MOTOR-V2.gco": {
+        "hash": "1c8912aaad609601c03671210224738067c61d38",
+        "analysis": {
+            "estimatedPrintTime": 9145,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 22.55913870942054,
+                    "length": 9379
+                }
+            }
+        }
+    },
+    "Y-IDLER.stl": {
+        "hash": "93f78ab7aee285e502956c98ed7fbc4f237b2936"
+    },
+    "X-CARRIAGE.stl": {
+        "hash": "41a2f325f9515b43afd394e647dfbd548fdd511e"
+    },
+    "BODY-EXTRUDEUR-WADE.stl": {
+        "hash": "f8afd973fed154dab53824e13d14839a816304bf"
+    },
+    "Y-BELT-HOLDER.gco": {
+        "hash": "7f2cb112facc74dc7dff6b68072e219880c1ca9f",
+        "analysis": {
+            "estimatedPrintTime": 2644,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 7.117229069322463,
+                    "length": 2959
+                }
+            }
+        }
+    },
+    "Z-AXIS-TOP-RIGHT-V2.gco": {
+        "hash": "30bb7b8f24c29d92fbf50b7f62aab379978b5073",
+        "analysis": {
+            "estimatedPrintTime": 1678,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 4.377613013236527,
+                    "length": 1820
+                }
+            }
+        }
+    },
+    "BODY-EXTRUDEUR-WADE-with-support.stl": {
+        "hash": "b9c0753e3cd10a58ad4aaf0773bf484eadd2cbdd"
+    },
+    "ARDUINO-WASHER.stl": {
+        "hash": "a85e274088de1f3122a96b2937b4d8e0b0e7faa4"
+    },
+    "Z-AXIS-TOP-LEFT-V2.stl": {
+        "hash": "4905f20cc8ca576944bddafbc05c33ff68840511"
+    },
+    "Z-AXIS-TOP-RIGHT-V2.stl": {
+        "hash": "4fd33ce008b990f375994a4b41c41eace072043c"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "Peg_Cap.gco": {
+        "notes": [],
+        "hash": "37d0521a52aacbd27b1adbd43e1541cc02c15e4a",
+        "analysis": {
+            "estimatedPrintTime": 5674.779326569792,
+            "printingArea": {
+                "maxZ": 13.95,
+                "minX": 50.976,
+                "maxX": 134.076,
+                "maxY": 134.025,
+                "minY": 77.225,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 83.1,
+                "depth": 56.80000000000001,
+                "height": 13.649999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 10.348260520364683,
+                    "length": 4302.306779999996
+                }
+            }
+        },
+        "links": []
+    },
+    "3-spinner_knurled.stl": {
+        "notes": [],
+        "hash": "905b545e8ca25c4ec8f979a0c77860b89541d945",
+        "links": []
+    },
+    "3-spinner_knurled.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4077.371612906456
+            },
+            "lastPrintTime": {
+                "_default": 4077.21426486969
+            }
+        },
+        "hash": "7e3d35ef730b54169258d87312d7515fdeb0099d",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3713.2429843154773,
+            "printingArea": {
+                "maxZ": 7.05,
+                "minX": 56.103,
+                "maxX": 128.761,
+                "maxY": 131.794,
+                "minY": 53.322,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 72.65799999999999,
+                "depth": 78.47200000000001,
+                "height": 6.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 6.528310354084971,
+                    "length": 2714.1560499999996
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493219318.626636,
+                "printTime": 4077.528960943222,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1493259682.540972,
+                "printTime": 4077.21426486969,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "Peg_Cap.stl": {
+        "notes": [],
+        "hash": "5c36b6bfb93dc632972567b6019993b12db01bd6",
+        "links": []
+    }
+}

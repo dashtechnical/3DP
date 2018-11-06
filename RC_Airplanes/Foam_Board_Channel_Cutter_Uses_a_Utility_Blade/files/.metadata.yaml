@@ -1,0 +1,33 @@
+Channel_Cut_Spacer_1.4.gco:
+  analysis:
+    dimensions:
+      depth: 136.234
+      height: 15.149999999999999
+      width: 75.5
+    estimatedPrintTime: 12366.510188782244
+    filament:
+      tool0:
+        length: 10931.907190000096
+        volume: 26.294318227713394
+    printingArea:
+      maxX: 130.227
+      maxY: 162.417
+      maxZ: 15.45
+      minX: 54.727
+      minY: 26.183
+      minZ: 0.3
+  hash: 0d2fcd5d4ff969cb4e4939f1ed4ace28d1c8bb14
+  links: []
+  notes: []
+Channel_Cut_Spacer_1.4.stl:
+  hash: ac6771006b1c01232ca06925104a86880793d77e
+  links: []
+  notes: []
+My_Channel_Cut_Base_1.0.stl:
+  hash: bc3b5841dd5fe41857051ee37610ca1049d60324
+  links: []
+  notes: []
+My_Channel_Cut_Top_1.3.stl:
+  hash: 3707140f5524e8b39997011d2332ced29f556ef5
+  links: []
+  notes: []

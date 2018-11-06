@@ -1,0 +1,42 @@
+MainGear_19T_48dp.gco:
+  analysis:
+    dimensions:
+      depth: 28.342
+      height: 9.75
+      width: 28.513999999999996
+    estimatedPrintTime: 471.3436090769047
+    filament:
+      tool0:
+        length: 293.75839000000053
+        volume: 0.7065717312150622
+    printingArea:
+      maxX: 114.289
+      maxY: 114.274
+      maxZ: 10.05
+      minX: 85.775
+      minY: 85.932
+      minZ: 0.3
+  hash: 1a9d724af15f355eb12360501400b016debadf2e
+  links: []
+  notes: []
+PI_MainGear_94T_48dp.gco:
+  analysis:
+    dimensions:
+      depth: 60.337
+      height: 11.25
+      width: 60.340999999999994
+    estimatedPrintTime: 4877.270798587126
+    filament:
+      tool0:
+        length: 3241.0598099999997
+        volume: 0.0
+    printingArea:
+      maxX: 130.195
+      maxY: 130.144
+      maxZ: 11.55
+      minX: 69.854
+      minY: 69.807
+      minZ: 0.3
+  hash: 8b49c82b96f5f0f5cd5001cdd33e2202a712ccfb
+  links: []
+  notes: []

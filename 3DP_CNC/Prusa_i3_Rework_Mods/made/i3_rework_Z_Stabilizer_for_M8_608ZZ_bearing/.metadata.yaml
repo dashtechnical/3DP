@@ -1,0 +1,70 @@
+left_bracket.gco:
+  analysis:
+    dimensions:
+      depth: 55.599999999999994
+      height: 15.75
+      width: 51.599999999999994
+    estimatedPrintTime: 6606.851331029121
+    filament:
+      tool0:
+        length: 7007.28313
+        volume: 16.854491108418014
+    printingArea:
+      maxX: 118.3
+      maxY: 120.3
+      maxZ: 16.05
+      minX: 66.7
+      minY: 64.7
+      minZ: 0.3
+  hash: ffe05aab1d2c585e4dade26563242ff95ea5a085
+  history:
+  - printTime: 7252.98948597908
+    printerProfile: _default
+    success: true
+    timestamp: 1494532028.152705
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 7252.98948597908
+    lastPrintTime:
+      _default: 7252.98948597908
+left_bracket.stl:
+  hash: 0dcea6223f09c174d8b8bc91d28df26ce4659b6a
+  links: []
+  notes: []
+right_bracket.gco:
+  analysis:
+    dimensions:
+      depth: 55.599999999999994
+      height: 15.75
+      width: 51.599999999999994
+    estimatedPrintTime: 6614.270451302826
+    filament:
+      tool0:
+        length: 7008.746889999999
+        volume: 16.858011863815953
+    printingArea:
+      maxX: 118.3
+      maxY: 120.3
+      maxZ: 16.05
+      minX: 66.7
+      minY: 64.7
+      minZ: 0.3
+  hash: dff84fed177a2a4ec29c48ae40e71cee92e61204
+  history:
+  - printTime: 7256.924932003021
+    printerProfile: _default
+    success: true
+    timestamp: 1494539889.742937
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 7256.924932003021
+    lastPrintTime:
+      _default: 7256.924932003021
+right_bracket.stl:
+  hash: f0ecf8cc7d43350bce24cbebdde40b7de54f4772
+  links: []
+  notes: []

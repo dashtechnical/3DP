@@ -1,0 +1,532 @@
+PI_Blade.gco:
+  analysis:
+    dimensions:
+      depth: 161.179
+      height: 47.85
+      width: 160.54399999999998
+    estimatedPrintTime: 23044.17793525159
+    filament:
+      tool0:
+        length: 19221.855329999522
+        volume: 0.0
+    printingArea:
+      maxX: 169.968
+      maxY: 175.66
+      maxZ: 48.15
+      minX: 9.424
+      minY: 14.481
+      minZ: 0.3
+  hash: ff42fe56942931ef50de11dd4ab1a1a6e6a462ad
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1503103104.85995
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+PI_Cable_Guard.gco:
+  analysis:
+    dimensions:
+      depth: 54.60199999999999
+      height: 32.400000000000006
+      width: 58.023
+    estimatedPrintTime: 4576.865189855586
+    filament:
+      tool0:
+        length: 3990.1733399999994
+        volume: 0.0
+    printingArea:
+      maxX: 121.513
+      maxY: 119.413
+      maxZ: 32.7
+      minX: 63.49
+      minY: 64.811
+      minZ: 0.3
+  hash: d527dfdce26f615055e0a1ce088bda412a00b3f5
+  links: []
+  notes: []
+PI_Crank.gco:
+  analysis:
+    dimensions:
+      depth: 19.581999999999994
+      height: 19.05
+      width: 28.562000000000012
+    estimatedPrintTime: 784.2215886453048
+    filament:
+      tool0:
+        length: 557.2853999999976
+        volume: 0.0
+    printingArea:
+      maxX: 106.778
+      maxY: 102.291
+      maxZ: 19.35
+      minX: 78.216
+      minY: 82.709
+      minZ: 0.3
+  hash: c68821257ccbdf71d75add65001326cfacfd1658
+  links: []
+  notes: []
+PI_Disc.gco:
+  analysis:
+    dimensions:
+      depth: 82.21799999999999
+      height: 39.75
+      width: 80.59099999999998
+    estimatedPrintTime: 28647.10157433778
+    filament:
+      tool0:
+        length: 25028.97152998052
+        volume: 0.0
+    printingArea:
+      maxX: 132.736
+      maxY: 132.601
+      maxZ: 40.05
+      minX: 52.145
+      minY: 50.383
+      minZ: 0.3
+  hash: f9f6c0d88ab745ca2fe7956a70849d159a57c1d0
+  links: []
+  notes: []
+PI_Generator_Cog_Driven.gco:
+  analysis:
+    dimensions:
+      depth: 33.018
+      height: 13.35
+      width: 33.018
+    estimatedPrintTime: 1724.39153280676
+    filament:
+      tool0:
+        length: 1462.2775000000008
+        volume: 0.0
+    printingArea:
+      maxX: 109.009
+      maxY: 109.009
+      maxZ: 13.65
+      minX: 75.991
+      minY: 75.991
+      minZ: 0.3
+  hash: 2810f169a3da1387edd6805a01546e434b0316d9
+  links: []
+  notes: []
+PI_Generator_Cog_Driving.gco:
+  analysis:
+    dimensions:
+      depth: 57.54
+      height: 13.649999999999999
+      width: 57.54
+    estimatedPrintTime: 5887.480524943694
+    filament:
+      tool0:
+        length: 5141.718360000041
+        volume: 0.0
+    printingArea:
+      maxX: 121.27
+      maxY: 121.27
+      maxZ: 13.95
+      minX: 63.73
+      minY: 63.73
+      minZ: 0.3
+  hash: 03f330b4b03d89731771eb83b4d55a6e17c9dd34
+  links: []
+  notes: []
+PI_Nacelle.gco:
+  analysis:
+    dimensions:
+      depth: 94.63899999999998
+      height: 80.85000000000001
+      width: 91.98399999999998
+    estimatedPrintTime: 28359.546531906923
+    filament:
+      tool0:
+        length: 23784.010519955336
+        volume: 0.0
+    printingArea:
+      maxX: 138.492
+      maxY: 139.819
+      maxZ: 81.15
+      minX: 46.508
+      minY: 45.18
+      minZ: 0.3
+  hash: c45f10e3d19069d7523263528df51ecb818ffcf5
+  links: []
+  notes: []
+PI_Nose_Cone.gco:
+  analysis:
+    dimensions:
+      depth: 78.12799999999999
+      height: 49.650000000000006
+      width: 76.446
+    estimatedPrintTime: 14632.681176925049
+    filament:
+      tool0:
+        length: 12182.231709998612
+        volume: 0.0
+    printingArea:
+      maxX: 130.656
+      maxY: 131.545
+      maxZ: 49.95
+      minX: 54.21
+      minY: 53.417
+      minZ: 0.3
+  hash: 811640613cf94202bdd0f48489910515a447bbc3
+  links: []
+  notes: []
+PI_Nose_Cone_Tip.gco:
+  analysis:
+    dimensions:
+      depth: 37.42
+      height: 14.7
+      width: 37.414
+    estimatedPrintTime: 1089.7199960799674
+    filament:
+      tool0:
+        length: 866.1247300000001
+        volume: 0.0
+    printingArea:
+      maxX: 111.193
+      maxY: 111.208
+      maxZ: 15.0
+      minX: 73.779
+      minY: 73.788
+      minZ: 0.3
+  hash: 41293115e876400197bb5cfdb4b42a02c21560c4
+  links: []
+  notes: []
+PI_Piston.gco:
+  analysis:
+    dimensions:
+      depth: 44.78699999999999
+      height: 37.650000000000006
+      width: 50.06100000000001
+    estimatedPrintTime: 4335.1108430857375
+    filament:
+      tool0:
+        length: 3739.9505800000024
+        volume: 0.0
+    printingArea:
+      maxX: 117.536
+      maxY: 114.916
+      maxZ: 37.95
+      minX: 67.475
+      minY: 70.129
+      minZ: 0.3
+  hash: 67e6ec58ae454175a189f15e342cbc9348f146a8
+  links: []
+  notes: []
+PI_Piston_Cover.gco:
+  analysis:
+    dimensions:
+      depth: 27.355999999999995
+      height: 34.650000000000006
+      width: 27.364999999999995
+    estimatedPrintTime: 1795.0225625606088
+    filament:
+      tool0:
+        length: 1639.4305999999997
+        volume: 0.0
+    printingArea:
+      maxX: 106.187
+      maxY: 106.181
+      maxZ: 34.95
+      minX: 78.822
+      minY: 78.825
+      minZ: 0.3
+  hash: 7987094ac18ca5a548b479c06edcf0ef7acfa95c
+  links: []
+  notes: []
+PI_Pitch_Arm.gco:
+  analysis:
+    dimensions:
+      depth: 15.575999999999993
+      height: 4.65
+      width: 39.55799999999999
+    estimatedPrintTime: 464.8557719485348
+    filament:
+      tool0:
+        length: 384.7142499999997
+        volume: 0.0
+    printingArea:
+      maxX: 112.27
+      maxY: 100.285
+      maxZ: 4.95
+      minX: 72.712
+      minY: 84.709
+      minZ: 0.3
+  hash: f883d5bb5660bdee8221d6350b9ab204dee8101b
+  links: []
+  notes: []
+PI_Shaft.gco:
+  analysis:
+    dimensions:
+      depth: 67.56299999999999
+      height: 100.5
+      width: 67.549
+    estimatedPrintTime: 21501.26434604074
+    filament:
+      tool0:
+        length: 19355.98859999944
+        volume: 0.0
+    printingArea:
+      maxX: 126.284
+      maxY: 126.276
+      maxZ: 100.8
+      minX: 58.735
+      minY: 58.713
+      minZ: 0.3
+  hash: ac1cef83bb76230b08b0d5273553cfe303b2ad51
+  links: []
+  notes: []
+PI_Shaft_Nut.gco:
+  analysis:
+    dimensions:
+      depth: 35.581999999999994
+      height: 30.15
+      width: 36.33999999999999
+    estimatedPrintTime: 3157.3687686017643
+    filament:
+      tool0:
+        length: 2690.111169999998
+        volume: 0.0
+    printingArea:
+      maxX: 110.648
+      maxY: 110.291
+      maxZ: 30.45
+      minX: 74.308
+      minY: 74.709
+      minZ: 0.3
+  hash: bd848953b16336778af3c64983bcb5e52987827d
+  links: []
+  notes: []
+PI_Shaft_Shroud.gco:
+  analysis:
+    dimensions:
+      depth: 74.87400000000001
+      height: 27.75
+      width: 74.87400000000001
+    estimatedPrintTime: 9166.850750575166
+    filament:
+      tool0:
+        length: 8174.255240000002
+        volume: 0.0
+    printingArea:
+      maxX: 129.937
+      maxY: 129.937
+      maxZ: 28.05
+      minX: 55.063
+      minY: 55.063
+      minZ: 0.3
+  hash: f046d49b32aec7e983406b8fdfd94649bcbd7f50
+  links: []
+  notes: []
+PI_Stepper_Motor_Bracket.gco:
+  analysis:
+    dimensions:
+      depth: 35.82900000000001
+      height: 5.7
+      width: 51.834
+    estimatedPrintTime: 1354.5544564604506
+    filament:
+      tool0:
+        length: 1098.9434100000005
+        volume: 0.0
+    printingArea:
+      maxX: 118.417
+      maxY: 110.424
+      maxZ: 6.0
+      minX: 66.583
+      minY: 74.595
+      minZ: 0.3
+  hash: 517eed862339e81e83815dfbf732ad6036948dd3
+  links: []
+  notes: []
+PI_Structure.gco:
+  analysis:
+    dimensions:
+      depth: 98.592
+      height: 56.550000000000004
+      width: 92.10900000000001
+    estimatedPrintTime: 52845.18539260126
+    filament:
+      tool0:
+        length: 46069.01211003887
+        volume: 0.0
+    printingArea:
+      maxX: 138.681
+      maxY: 143.791
+      maxZ: 56.85
+      minX: 46.572
+      minY: 45.199
+      minZ: 0.3
+  hash: 553871e93258a814bc05f8620e5c535ae75dbd02
+  links: []
+  notes: []
+PI_Structure_Rear.gco:
+  analysis:
+    dimensions:
+      depth: 70.565
+      height: 10.5
+      width: 83.57799999999999
+    estimatedPrintTime: 5886.709823471992
+    filament:
+      tool0:
+        length: 5329.537600000033
+        volume: 0.0
+    printingArea:
+      maxX: 134.289
+      maxY: 127.774
+      maxZ: 10.8
+      minX: 50.711
+      minY: 57.209
+      minZ: 0.3
+  hash: fa271eccdb85cded89a6be4c640a20532c048be1
+  links: []
+  notes: []
+PI_Tail_Fin.gco:
+  analysis:
+    dimensions:
+      depth: 114.41900000000001
+      height: 106.65
+      width: 114.375
+    estimatedPrintTime: 25477.726924261893
+    filament:
+      tool0:
+        length: 21707.268210000413
+        volume: 0.0
+    printingArea:
+      maxX: 152.007
+      maxY: 147.484
+      maxZ: 106.95
+      minX: 37.632
+      minY: 33.065
+      minZ: 0.3
+  hash: a8ed8c2ddc85887cc795bd16feea5eb1cac6b459
+  links: []
+  notes: []
+PI_Tail_Fin_Easy_Print.gco:
+  analysis:
+    dimensions:
+      depth: 66.07700000000001
+      height: 65.4
+      width: 52.581999999999994
+    estimatedPrintTime: 14326.31511461464
+    filament:
+      tool0:
+        length: 11656.197979999644
+        volume: 0.0
+    printingArea:
+      maxX: 118.77
+      maxY: 131.752
+      maxZ: 65.7
+      minX: 66.188
+      minY: 65.675
+      minZ: 0.3
+  hash: 273182ba0dd2fd59b1bd6989b292380ffcb405a2
+  links: []
+  notes: []
+PI_Tail_Fin_Easy_Print_x2.gco:
+  analysis:
+    dimensions:
+      depth: 121.28199999999998
+      height: 42.6
+      width: 121.28399999999999
+    estimatedPrintTime: 11164.794353507687
+    filament:
+      tool0:
+        length: 9514.357759999835
+        volume: 0.0
+    printingArea:
+      maxX: 153.136
+      maxY: 153.134
+      maxZ: 42.9
+      minX: 31.852
+      minY: 31.852
+      minZ: 0.3
+  hash: f727a2b0e4bb06d7736d48869376cf0d2a05d1b0
+  links: []
+  notes: []
+PI_Tower_Footer.gco:
+  analysis:
+    dimensions:
+      depth: 114.01799999999999
+      height: 55.650000000000006
+      width: 114.06400000000001
+    estimatedPrintTime: 32427.41019053839
+    filament:
+      tool0:
+        length: 29699.665039999985
+        volume: 0.0
+    printingArea:
+      maxX: 149.532
+      maxY: 149.509
+      maxZ: 55.95
+      minX: 35.468
+      minY: 35.491
+      minZ: 0.3
+  hash: d69c70c0a17066ed0a9abb2ada903d30e5b842fd
+  links: []
+  notes: []
+PI_Tower_Header.gco:
+  analysis:
+    dimensions:
+      depth: 68.102
+      height: 52.2
+      width: 68.102
+    estimatedPrintTime: 23169.188698192866
+    filament:
+      tool0:
+        length: 21243.102360000015
+        volume: 0.0
+    printingArea:
+      maxX: 126.551
+      maxY: 126.551
+      maxZ: 52.5
+      minX: 58.449
+      minY: 58.449
+      minZ: 0.3
+  hash: a3114fcca1aae2b50629a8d55c3981774afd422c
+  links: []
+  notes: []
+PI_Tower_Setting_Spacer.gco:
+  analysis:
+    dimensions:
+      depth: 40.50800000000001
+      height: 1.05
+      width: 40.563
+    estimatedPrintTime: 296.23545391083053
+    filament:
+      tool0:
+        length: 267.4390300000001
+        volume: 0.0
+    printingArea:
+      maxX: 112.783
+      maxY: 112.754
+      maxZ: 1.35
+      minX: 72.22
+      minY: 72.246
+      minZ: 0.3
+  hash: ef72fbe6306862810120fdcf8e7b64e6f0c9b577
+  links: []
+  notes: []
+PI_Tower_Shaft.gco:
+  analysis:
+    dimensions:
+      depth: 46.00200000000001
+      height: 52.95
+      width: 46.00200000000001
+    estimatedPrintTime: 7124.070597359107
+    filament:
+      tool0:
+        length: 6376.321950000035
+        volume: 0.0
+    printingArea:
+      maxX: 115.501
+      maxY: 115.501
+      maxZ: 53.25
+      minX: 69.499
+      minY: 69.499
+      minZ: 0.3
+  hash: d066393868f1ca6e862a84b9c7657e7a0bae6525
+  links: []
+  notes: []

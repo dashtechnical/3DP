@@ -1,0 +1,56 @@
+{
+    "Z_Probe_Mount.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3476.050943493843
+            },
+            "lastPrintTime": {
+                "_default": 3520.6288270950317
+            }
+        },
+        "hash": "3f494e430393903c60ec7471d6c63ed4cdaac701",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3628.0974528641254,
+            "printingArea": {
+                "maxZ": 25.05,
+                "minX": 59.795,
+                "maxX": 126.3,
+                "maxY": 108.807,
+                "minY": 76.2,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 66.505,
+                "depth": 32.607,
+                "height": 24.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 6.790271840047437,
+                    "length": 2823.0669799999982
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493232605.54723,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1493236207.077201,
+                "printTime": 3431.4730598926544,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1493240569.157365,
+                "printTime": 3520.6288270950317,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+My_45_Bevel_Base_1.2.stl:
+  hash: 6b3ce703f70d07cc2e056b51660ff29fef7f1f99
+  links: []
+  notes: []
+My_45_Bevel_Base_1.3.gco:
+  analysis:
+    dimensions:
+      depth: 102.60000000000001
+      height: 14.85
+      width: 75.5
+    estimatedPrintTime: 12352.847858288866
+    filament:
+      tool0:
+        length: 10779.956239999932
+        volume: 25.928833361727477
+    printingArea:
+      maxX: 130.143
+      maxY: 131.728
+      maxZ: 15.15
+      minX: 54.643
+      minY: 29.128
+      minZ: 0.3
+  hash: 27a1577e6de0d74ab13f20f60c08968ae2db8d95
+  links: []
+  notes: []
+My_45_Bevel_Base_1.3.stl:
+  hash: 8605c646f1e895bdede11642e5345e1b2831666d
+  links: []
+  notes: []
+My_45_Bevel_Top_1.2.stl:
+  hash: b8dea01a606debff50879ee1c8423e390ca3dd52
+  links: []
+  notes: []
+My_45_Bevel_Top_1.3.stl:
+  hash: b086c85bbd0e8df2208f0a523170f607c0dc4d77
+  links: []
+  notes: []

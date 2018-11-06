@@ -1,0 +1,248 @@
+{
+    "Dodge_Hellcat.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1591.471893787384
+            },
+            "lastPrintTime": {
+                "_default": 1591.471893787384
+            }
+        },
+        "hash": "312a3edbdc849f675e99117fc2c2e3690e18f3cd",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 2413.681339937772,
+            "printingArea": {
+                "maxZ": 4.7,
+                "minX": 37.123,
+                "maxX": 145.842,
+                "maxY": 147.93,
+                "minY": 36.958,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 108.71900000000002,
+                "depth": 110.97200000000001,
+                "height": 4.4
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 6.216417765987895,
+                    "length": 2584.4861800000017
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1501761933.153979,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1502075283.599654,
+                "printTime": 1591.471893787384,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "Dodge_Demon.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1197.2895390987396
+            },
+            "lastPrintTime": {
+                "_default": 1197.2895390987396
+            }
+        },
+        "hash": "3f73387606ac74fc392dd439f69cad273cb10d01",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 1649.5817326759836,
+            "printingArea": {
+                "maxZ": 4.3,
+                "minX": 45.661,
+                "maxX": 139.19,
+                "maxY": 141.452,
+                "minY": 43.652,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 93.529,
+                "depth": 97.8,
+                "height": 4.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 4.567543643140359,
+                    "length": 1898.9639800000061
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1502078555.83909,
+                "printTime": 1197.2895390987396,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "MAKE_Robot_Arms_Down_Supportless_V4.1.gco": {
+        "notes": [],
+        "hash": "1ae0725b09fde97203a86e6962f48786a6c6f04d",
+        "analysis": {
+            "estimatedPrintTime": 3134.390886931132,
+            "printingArea": {
+                "maxZ": 28.95,
+                "minX": 74.751,
+                "maxX": 110.251,
+                "maxY": 104.364,
+                "minY": 80.236,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 35.5,
+                "depth": 24.128,
+                "height": 28.65
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 5.585260112211782,
+                    "length": 2322.081319999998
+                }
+            }
+        },
+        "links": []
+    },
+    "babyBrachio.gco": {
+        "notes": [],
+        "hash": "2477261d74c94d855b73d9e155bfb257bef7bd2f",
+        "analysis": {
+            "estimatedPrintTime": 10894.01412613842,
+            "printingArea": {
+                "maxZ": 55.35,
+                "minX": 73.653,
+                "maxX": 127.352,
+                "maxY": 142.952,
+                "minY": 57.152,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 53.699,
+                "depth": 85.8,
+                "height": 55.050000000000004
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 20.131331730044955,
+                    "length": 8369.635149999993
+                }
+            }
+        },
+        "links": []
+    },
+    "babyBrachio.stl": {
+        "notes": [],
+        "hash": "c288f2d981611256b86f459732ea509f4a06f0e0",
+        "links": []
+    },
+    "batman2_repaired.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 8323.978066205978
+            },
+            "lastPrintTime": {
+                "_default": 8323.978066205978
+            }
+        },
+        "hash": "24dc7ac2dc734b07c9c29fe564221b1535d40647",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 6150.768600078011,
+            "printingArea": {
+                "maxZ": 21.7,
+                "minX": 47.048,
+                "maxX": 137.748,
+                "maxY": 161.362,
+                "minY": 37.371,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 90.69999999999999,
+                "depth": 123.99099999999999,
+                "height": 21.4
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 16.549461294620652,
+                    "length": 6880.4664699999985
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1501477199.664029,
+                "printTime": 8323.978066205978,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1501708601.735208,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "FT_3D_Gremlin_Final.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 8777.37639594078
+            },
+            "lastPrintTime": {
+                "_default": 8777.37639594078
+            }
+        },
+        "hash": "1995c60e802d2043dcfc0aface998e8be2485cf2",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 5649.076762607576,
+            "printingArea": {
+                "maxZ": 52.5,
+                "minX": 29.096,
+                "maxX": 155.596,
+                "maxY": 126.612,
+                "minY": 62.412,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 126.5,
+                "depth": 64.19999999999999,
+                "height": 52.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 14.765070872944287,
+                    "length": 6138.603139999999
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1501032186.037919,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1501074349.842513,
+                "printTime": 8777.37639594078,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

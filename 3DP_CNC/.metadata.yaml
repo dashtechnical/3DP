@@ -1,0 +1,161 @@
+Base_-_spoolholder.gcode:
+  analysis:
+    dimensions:
+      depth: 94.595
+      height: 41.800000000000004
+      width: 102.203
+    estimatedPrintTime: 2620.6664095720075
+    filament:
+      tool0:
+        length: 2270.7433000000033
+        volume: 5.461777703186632
+    printingArea:
+      maxX: 143.608
+      maxY: 139.797
+      maxZ: 42.1
+      minX: 41.405
+      minY: 45.202
+      minZ: 0.3
+  hash: db65eb741e269e812302a5029e1f1ac6f4b21f18
+  links: []
+  notes: []
+PI_Titan_XCarriage_for_Prusa_i3.gco:
+  analysis:
+    dimensions:
+      depth: 90.75599999999999
+      height: 13.799999999999999
+      width: 65.54
+    estimatedPrintTime: 10139.195168892724
+    filament:
+      tool0:
+        length: 11051.760640000262
+        volume: 0.0
+    printingArea:
+      maxX: 125.254
+      maxY: 137.878
+      maxZ: 14.1
+      minX: 59.714
+      minY: 47.122
+      minZ: 0.3
+  hash: 320007fffc238fb3fb9fccb48052b6803b8f666f
+  links: []
+  notes: []
+Prusa_i3_XCarriage_Upgrade_Titan.gco:
+  analysis:
+    dimensions:
+      depth: 111.434
+      height: 61.2
+      width: 106.03
+    estimatedPrintTime: 19995.390075133375
+    filament:
+      tool0:
+        length: 19901.536479992792
+        volume: 0.0
+    printingArea:
+      maxX: 155.28
+      maxY: 169.938
+      maxZ: 61.5
+      minX: 49.25
+      minY: 58.504
+      minZ: 0.3
+  hash: b08382dbdf8df187bef4a977620b543d7074be08
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1505473017.948307
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+SpoolholderUni.gco:
+  analysis:
+    dimensions:
+      depth: 57.933
+      height: 19.8
+      width: 65.737
+    estimatedPrintTime: 2219.9748325807495
+    filament:
+      tool0:
+        length: 2403.240609999995
+        volume: 5.7804710814694875
+    printingArea:
+      maxX: 125.371
+      maxY: 121.524
+      maxZ: 20.1
+      minX: 59.634
+      minY: 63.591
+      minZ: 0.3
+  hash: 897816bd0e74bb8cbcc4d03b25abd9d8fe068420
+  links: []
+  notes: []
+Top_-_spoolholder.gco:
+  analysis:
+    dimensions:
+      depth: 69.602
+      height: 36.800000000000004
+      width: 69.602
+    estimatedPrintTime: 3162.530998271187
+    filament:
+      tool0:
+        length: 3241.559820000002
+        volume: 7.796865083086079
+    printingArea:
+      maxX: 127.301
+      maxY: 127.301
+      maxZ: 37.1
+      minX: 57.699
+      minY: 57.699
+      minZ: 0.3
+  hash: cf432c34bc2411634bdd4db4df6f768732c6ea60
+  links: []
+  notes: []
+chinesecloneE3DV6fanduct.gco:
+  analysis:
+    dimensions:
+      depth: 63.538000000000004
+      height: 52.0
+      width: 49.599999999999994
+    estimatedPrintTime: 3830.507490545449
+    filament:
+      tool0:
+        length: 3594.0578899999955
+        volume: 8.644722301972195
+    printingArea:
+      maxX: 117.3
+      maxY: 126.81
+      maxZ: 52.3
+      minX: 67.7
+      minY: 63.272
+      minZ: 0.3
+  hash: 56ecd93f197e4ca74d738d3bf3448fbd15c4d061
+  links: []
+  notes: []
+e3d_Titan_extruder.gco:
+  analysis:
+    dimensions:
+      depth: 135.705
+      height: 23.4
+      width: 119.62400000000001
+    estimatedPrintTime: 10846.404176750992
+    filament:
+      tool0:
+        length: 11237.983209999116
+        volume: 0.0
+    printingArea:
+      maxX: 143.329
+      maxY: 172.437
+      maxZ: 23.7
+      minX: 23.705
+      minY: 36.732
+      minZ: 0.3
+  hash: 3077978d03e9ade6512e13c1f59c2150043c8ce1
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1505346969.564749
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}

@@ -1,0 +1,186 @@
+{
+    "30mm-wsupports-indexd.stl": {
+        "hash": "64d50a656c13d8705c2be13f25d7b9ab7c10d5ce"
+    },
+    "30mm-wsupports-indexf.stl": {
+        "hash": "b7f661bc35e8deafb168d3b92b09dde0d862fdcc"
+    },
+    "30mm-wsupports.stl": {
+        "hash": "96bdb4934ad271bbfc458a04bdefc97d79a3fbed"
+    },
+    "40mm-wsupports.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4024.1860060691833
+            },
+            "lastPrintTime": {
+                "_default": 4024.1860060691833
+            }
+        },
+        "hash": "5646027aeef0320035774b1529e29911cdb9aa40",
+        "analysis": {
+            "estimatedPrintTime": 3089,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 5.164140186493859,
+                    "length": 2147
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1490627136.604101,
+                "printTime": 4024.1860060691833,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "40mm-wsupports.stl": {
+        "hash": "f5e114b99b692eb65c2f3df9884e89d8b5c68301"
+    },
+    "30mm-wsupports-indexd.gco": {
+        "hash": "8524fb9c63e5c03043849c8807dc19b41e2c100b",
+        "analysis": {
+            "estimatedPrintTime": 1631,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.643404781069749,
+                    "length": 1099
+                }
+            }
+        }
+    },
+    "30mm-wsupports-indexf.gco": {
+        "hash": "3aeab1fec12a4cc37fce5068dddf7b02801f2800",
+        "analysis": {
+            "estimatedPrintTime": 1651,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.667457599823796,
+                    "length": 1109
+                }
+            }
+        }
+    },
+    "30mm-wsupports-indexe.stl": {
+        "hash": "252c5cdc83a9bbd2b3a2a8618aa62af3e3d678a6"
+    },
+    "30mm-wsupports.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 2240.4478940963745
+            },
+            "lastPrintTime": {
+                "_default": 2240.4478940963745
+            }
+        },
+        "hash": "5bbe47d7dd5454936ae4ace5bc8c9547e5c54cf8",
+        "analysis": {
+            "estimatedPrintTime": 1698,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.7853164117186253,
+                    "length": 1158
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1490630065.781468,
+                "printTime": 2240.4478940963745,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "30mm-wsupports-indexe.gco": {
+        "hash": "21a0622fa3fc68aa3e73a8ae241ffd5527d5b797",
+        "analysis": {
+            "estimatedPrintTime": 1642,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.6554311904467722,
+                    "length": 1104
+                }
+            }
+        }
+    },
+    "30mm-wsupports-indexa.gco": {
+        "hash": "5a451679cb4bc37b81b2fba87a8242d474f2823d",
+        "analysis": {
+            "estimatedPrintTime": 1614,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.624162526066511,
+                    "length": 1091
+                }
+            }
+        }
+    },
+    "30mm-wsupports-indexc.stl": {
+        "hash": "7c7cd881dc5ee6a63c552e0c60afa2f179c05eab"
+    },
+    "30mm-wsupports-indexc.gco": {
+        "hash": "3389a3c0b69724508e45606ae04457a0e4bc86ec",
+        "analysis": {
+            "estimatedPrintTime": 1625,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.6361889354435344,
+                    "length": 1096
+                }
+            }
+        }
+    },
+    "30mm-wsupports-indexb.stl": {
+        "hash": "60e610dff4e4770cdaee43f7385059387331c237"
+    },
+    "30mm-wsupports-indexb.gco": {
+        "hash": "d8033efb056d062c97a8421f74c98d7592a413ae",
+        "analysis": {
+            "estimatedPrintTime": 1618,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.6289730898173205,
+                    "length": 1093
+                }
+            }
+        }
+    },
+    "30mm-wsupports-indexa.stl": {
+        "hash": "cbe86bbcdc4ccd3f3f8c849b9ad0c712f8d09f47"
+    }
+}

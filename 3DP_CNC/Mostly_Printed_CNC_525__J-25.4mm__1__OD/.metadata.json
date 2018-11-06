@@ -1,0 +1,891 @@
+{
+    "PI_J_RollerM.gco": {
+        "hash": "1bd4594749119bace03a3f2e583b5c6061608cec"
+    },
+    "PI_J-RollerPlate.gco": {
+        "hash": "f0d5187d74bae85d436213eb687baf76e87b07fb",
+        "analysis": {
+            "estimatedPrintTime": 1361.3971331331156,
+            "printingArea": {
+                "maxZ": 2.7,
+                "minX": 59.107,
+                "maxX": 140.895,
+                "maxY": 115.439,
+                "minY": 84.53,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 81.78800000000001,
+                "depth": 30.908999999999992,
+                "height": 2.4000000000000004
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 854.0780799999992
+                }
+            }
+        }
+    },
+    "PI_BottomM_CornerJ2.gco": {
+        "hash": "476bd7d22ca9a6684ebcbf4e8e912084ad3a3b7f",
+        "analysis": {
+            "estimatedPrintTime": 18267.255602049245,
+            "printingArea": {
+                "maxZ": 46.95,
+                "minX": 66.336,
+                "maxX": 132.766,
+                "maxY": 123.538,
+                "minY": 75.259,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 66.42999999999999,
+                "depth": 48.278999999999996,
+                "height": 46.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 13855.785300000363
+                }
+            }
+        }
+    },
+    "Pl_J-ToolMount.gco": {
+        "notes": [],
+        "hash": "4eac00bf962f2288bd2adaf40a1072f401a33de1",
+        "analysis": {
+            "estimatedPrintTime": 27261.81415915916,
+            "printingArea": {
+                "maxZ": 16.05,
+                "minX": 51.055,
+                "maxX": 135.049,
+                "maxY": 160.19,
+                "minY": 25.3,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 83.994,
+                "depth": 134.89,
+                "height": 15.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 58.794089118610366,
+                    "length": 24443.741799999367
+                }
+            }
+        },
+        "links": []
+    },
+    "PI_MainGear_94T_48dp.gco": {
+        "hash": "88e473a46c1942ac5bd9ee3b578c1b59298f96d3"
+    },
+    "Pl_J-Spacer.gco": {
+        "notes": [],
+        "hash": "71d7cd05218ae8d1090a9d1a2a246698e6f5e208",
+        "analysis": {
+            "estimatedPrintTime": 4496.907799298327,
+            "printingArea": {
+                "maxZ": 25.65,
+                "minX": 75.409,
+                "maxX": 124.59,
+                "maxY": 119.324,
+                "minY": 80.685,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 49.181,
+                "depth": 38.638999999999996,
+                "height": 25.349999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 8.509024356256157,
+                    "length": 3537.641240000001
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_J-XYZ.gco": {
+        "hash": "1c0772eeaa90976da29789fd581388a8c41334e6",
+        "analysis": {
+            "estimatedPrintTime": 27130.246277046295,
+            "printingArea": {
+                "maxZ": 19.05,
+                "minX": 6.867,
+                "maxX": 178.106,
+                "maxY": 143.022,
+                "minY": 42.422,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 171.239,
+                "depth": 100.6,
+                "height": 18.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 58.94629675074693,
+                    "length": 24507.02237999831
+                }
+            }
+        }
+    },
+    "PI_J-_Flex_Foot.gco": {
+        "hash": "a62183a7e6f7f375bfb654f792de9f57efad551c"
+    },
+    "Pl_Top_CornerJ2.gco": {
+        "hash": "3cfc43d9af734ea237d50fc98f3de1cd5048691e",
+        "analysis": {
+            "estimatedPrintTime": 12809.636777894753,
+            "printingArea": {
+                "maxZ": 46.95,
+                "minX": 55.152,
+                "maxX": 129.4,
+                "maxY": 116.233,
+                "minY": 68.767,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 74.248,
+                "depth": 47.46600000000001,
+                "height": 46.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 24.096501126291724,
+                    "length": 10018.161020000005
+                }
+            }
+        }
+    },
+    "Pl_J-NutLock_11mm.gco": {
+        "notes": [],
+        "hash": "bddde292f2c9506a13e45f2e2af2831841e435cf",
+        "analysis": {
+            "estimatedPrintTime": 4986.896754235934,
+            "printingArea": {
+                "maxZ": 25.65,
+                "minX": 75.409,
+                "maxX": 124.59,
+                "maxY": 121.659,
+                "minY": 78.393,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 49.181,
+                "depth": 43.266000000000005,
+                "height": 25.349999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 9.225441916405629,
+                    "length": 3835.4930499999973
+                }
+            }
+        },
+        "links": []
+    },
+    "PI_5mm_5_16in_Pineapple_coupler.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 8914.954838991165
+            },
+            "lastPrintTime": {
+                "_default": 8914.954838991165
+            }
+        },
+        "hash": "2574313fc89e5dc5f48da35c6554329738fade00",
+        "analysis": {
+            "estimatedPrintTime": 6892.914590165897,
+            "printingArea": {
+                "maxZ": 33.0,
+                "minX": 84.23,
+                "maxX": 118.763,
+                "maxY": 118.227,
+                "minY": 82.268,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 34.533,
+                "depth": 35.959,
+                "height": 32.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4756.374920000062
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492446168.817441,
+                "printTime": 8914.954838991165,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "PI_J-RollerMount.gco": {
+        "hash": "7abb161cb8644c0edcc3a7d3508efa9bca802f63",
+        "analysis": {
+            "estimatedPrintTime": 26467.460361370533,
+            "printingArea": {
+                "maxZ": 41.25,
+                "minX": 57.332,
+                "maxX": 142.534,
+                "maxY": 140.466,
+                "minY": 60.094,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 85.202,
+                "depth": 80.37200000000001,
+                "height": 40.95
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 21183.507480000804
+                }
+            }
+        }
+    },
+    "PI_J-ToolMount.gco": {
+        "hash": "1e7b0b84b1e38480042f02783ea31e71a3b888b0",
+        "analysis": {
+            "estimatedPrintTime": 34915.99674555201,
+            "printingArea": {
+                "maxZ": 118.05,
+                "minX": 62.073,
+                "maxX": 137.923,
+                "maxY": 113.324,
+                "minY": 86.932,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 75.85,
+                "depth": 26.391999999999996,
+                "height": 117.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 25936.56309999774
+                }
+            }
+        }
+    },
+    "Pl_J-RollerPlate.gco": {
+        "notes": [],
+        "hash": "593ee4167eaadf441b00067e811689e3a3e5b596",
+        "analysis": {
+            "estimatedPrintTime": 1374.9847065098527,
+            "printingArea": {
+                "maxZ": 2.7,
+                "minX": 56.066,
+                "maxX": 143.935,
+                "maxY": 119.261,
+                "minY": 81.529,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 87.869,
+                "depth": 37.732,
+                "height": 2.4000000000000004
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 2.537102723212953,
+                    "length": 1054.8047400000007
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_J-Z-Motor.gco": {
+        "hash": "3fa913b1ebbfbefc4a5d9dd5f551fcd78ba5477b",
+        "analysis": {
+            "estimatedPrintTime": 15766.281908608215,
+            "printingArea": {
+                "maxZ": 12.0,
+                "minX": 18.378,
+                "maxX": 160.975,
+                "maxY": 132.564,
+                "minY": 52.445,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 142.59699999999998,
+                "depth": 80.119,
+                "height": 11.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 29.305087025286415,
+                    "length": 12183.6394
+                }
+            }
+        }
+    },
+    "PI_J-Spacer.gco": {
+        "hash": "ca6e90d1d49b4da9490a646fc0385b5ee96fa8b7",
+        "analysis": {
+            "estimatedPrintTime": 5566.657193144392,
+            "printingArea": {
+                "maxZ": 25.65,
+                "minX": 78.427,
+                "maxX": 121.58,
+                "maxY": 115.862,
+                "minY": 84.144,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 43.15299999999999,
+                "depth": 31.71799999999999,
+                "height": 25.349999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3983.7636900000016
+                }
+            }
+        }
+    },
+    "PI_J-XY.gco": {
+        "hash": "1f4bc37e938f7b5905c262fe791c156101dc1b20"
+    },
+    "PI_J-NutLock_13mm.gco": {
+        "hash": "03455183091e76b2900516b8c1a49bab65e49163",
+        "analysis": {
+            "estimatedPrintTime": 6657.793012392111,
+            "printingArea": {
+                "maxZ": 25.65,
+                "minX": 77.924,
+                "maxX": 122.079,
+                "maxY": 119.338,
+                "minY": 83.164,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 44.15499999999999,
+                "depth": 36.17399999999999,
+                "height": 25.349999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4283.5889499999985
+                }
+            }
+        }
+    },
+    "Pl_J-_Flex_Foot.gco": {
+        "notes": [],
+        "hash": "b44713a47c2f57a978c96d15bbf47317d0499687",
+        "analysis": {
+            "estimatedPrintTime": 12787.492111113796,
+            "printingArea": {
+                "maxZ": 40.05,
+                "minX": 65.691,
+                "maxX": 134.335,
+                "maxY": 134.3,
+                "minY": 65.7,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 68.644,
+                "depth": 68.60000000000001,
+                "height": 39.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 27.455325347691005,
+                    "length": 11414.597859999958
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_Lock_CornerJ2.gco": {
+        "hash": "fbd9877e2b6fddd27ead65dbd83452fb6d8909f7",
+        "analysis": {
+            "estimatedPrintTime": 9589.24006299768,
+            "printingArea": {
+                "maxZ": 27.0,
+                "minX": 65.214,
+                "maxX": 119.769,
+                "maxY": 121.626,
+                "minY": 63.371,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 54.55500000000001,
+                "depth": 58.255,
+                "height": 26.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 17.959912164255346,
+                    "length": 7466.863799999997
+                }
+            }
+        }
+    },
+    "Pl_LockM_CornerJ2.gco": {
+        "hash": "c00c39cb59491b2008e1653a95b4e292e5e57487",
+        "analysis": {
+            "estimatedPrintTime": 9588.251007237297,
+            "printingArea": {
+                "maxZ": 27.0,
+                "minX": 65.23,
+                "maxX": 119.785,
+                "maxY": 121.626,
+                "minY": 63.371,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 54.55499999999999,
+                "depth": 58.255,
+                "height": 26.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 17.962014645195474,
+                    "length": 7467.737910000004
+                }
+            }
+        }
+    },
+    "PI_Bottom_CornerJ2.gco": {
+        "hash": "6af9bbe5414d4d27b667c234c28cdb70092a6af7",
+        "analysis": {
+            "estimatedPrintTime": 18261.97011045125,
+            "printingArea": {
+                "maxZ": 46.95,
+                "minX": 67.235,
+                "maxX": 133.659,
+                "maxY": 123.483,
+                "minY": 75.26,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 66.42399999999999,
+                "depth": 48.223,
+                "height": 46.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 13856.587670000092
+                }
+            }
+        }
+    },
+    "Pl_J-NutLock_13mm.gco": {
+        "notes": [],
+        "hash": "65fc4a1bf305aa5d5da4d1ed7be2eed9863492ca",
+        "analysis": {
+            "estimatedPrintTime": 5212.770840182679,
+            "printingArea": {
+                "maxZ": 25.65,
+                "minX": 74.91,
+                "maxX": 125.089,
+                "maxY": 122.94,
+                "minY": 77.239,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 50.179,
+                "depth": 45.70099999999999,
+                "height": 25.349999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 9.613691235961467,
+                    "length": 3996.908360000001
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_TopM_CornerJ2.gco": {
+        "hash": "25b7209cf647d6e2aa2ac5307122c1171108109e",
+        "analysis": {
+            "estimatedPrintTime": 12866.967531943596,
+            "printingArea": {
+                "maxZ": 46.95,
+                "minX": 55.7,
+                "maxX": 129.4,
+                "maxY": 116.233,
+                "minY": 68.767,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 73.7,
+                "depth": 47.46600000000001,
+                "height": 46.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 24.158507753659233,
+                    "length": 10043.940379999995
+                }
+            }
+        }
+    },
+    "Pl_J-RollerMount.gco": {
+        "notes": [],
+        "hash": "49692e7d2ef3d01659a80c7b0f4fa08337f5b1bf",
+        "analysis": {
+            "estimatedPrintTime": 19013.13240797328,
+            "printingArea": {
+                "maxZ": 41.25,
+                "minX": 55.275,
+                "maxX": 144.725,
+                "maxY": 143.576,
+                "minY": 57.085,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 89.44999999999999,
+                "depth": 86.49099999999999,
+                "height": 40.95
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 42.40787784064169,
+                    "length": 17631.146800000988
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_Spacer_CornerJ2.gco": {
+        "hash": "fc858f744c81df22057277bb3fa91f5ce2f36306",
+        "analysis": {
+            "estimatedPrintTime": 2161.0610872146303,
+            "printingArea": {
+                "maxZ": 23.4,
+                "minX": 73.001,
+                "maxX": 111.999,
+                "maxY": 108.157,
+                "minY": 78.282,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 38.99799999999999,
+                "depth": 29.875,
+                "height": 23.099999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 4.024906712323283,
+                    "length": 1673.361759999999
+                }
+            }
+        }
+    },
+    "PI_J-NutLock_11mm.gco": {
+        "hash": "377d6d0dc94fef73669b4a5690da96bba3bf660e",
+        "analysis": {
+            "estimatedPrintTime": 6350.138267711568,
+            "printingArea": {
+                "maxZ": 25.65,
+                "minX": 78.424,
+                "maxX": 121.58,
+                "maxY": 118.188,
+                "minY": 84.319,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 43.15599999999999,
+                "depth": 33.869,
+                "height": 25.349999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4129.602219999996
+                }
+            }
+        }
+    },
+    "Pl_J-XY.gco": {
+        "hash": "1bd61a863b45cb3a7b5121b7989ccb5ebf90adb5",
+        "analysis": {
+            "estimatedPrintTime": 67569.45402480249,
+            "printingArea": {
+                "maxZ": 99.9,
+                "minX": 16.946,
+                "maxX": 168.027,
+                "maxY": 139.549,
+                "minY": 45.45,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 151.081,
+                "depth": 94.099,
+                "height": 99.60000000000001
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 149.77639938893435,
+                    "length": 62269.79088001263
+                }
+            }
+        }
+    },
+    "Pl_5mm_8mm_Pineapple_coupler.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 7342.7550439834595
+            },
+            "lastPrintTime": {
+                "_default": 7342.7550439834595
+            }
+        },
+        "hash": "133afca387c2ad256baf185a0e7fb10d45e34085",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 6036.919421155855,
+            "printingArea": {
+                "maxZ": 33.0,
+                "minX": 75.779,
+                "maxX": 124.778,
+                "maxY": 123.653,
+                "minY": 76.147,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 48.99900000000001,
+                "depth": 47.506,
+                "height": 32.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 11.123243711630751,
+                    "length": 4624.507350000001
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492472014.277469,
+                "printTime": 7342.7550439834595,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "Pl_J-Nut_Trap.gco": {
+        "notes": [],
+        "hash": "0522e7fbdc7f3f109411ed7325089be062471e7d",
+        "analysis": {
+            "estimatedPrintTime": 8786.859991451009,
+            "printingArea": {
+                "maxZ": 11.4,
+                "minX": 80.927,
+                "maxX": 119.073,
+                "maxY": 160.33,
+                "minY": 40.45,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 38.14599999999999,
+                "depth": 119.88000000000001,
+                "height": 11.1
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 16.50437717220444,
+                    "length": 6861.722669999998
+                }
+            }
+        },
+        "links": []
+    },
+    "PI_J-Nut_Trap.gco": {
+        "hash": "1861a72ea94abf0dab3d6a8db0bb24fa21129a26",
+        "analysis": {
+            "estimatedPrintTime": 10297.810804682153,
+            "printingArea": {
+                "maxZ": 11.4,
+                "minX": 83.936,
+                "maxX": 116.064,
+                "maxY": 156.541,
+                "minY": 43.073,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 32.127999999999986,
+                "depth": 113.46799999999999,
+                "height": 11.1
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 7807.099109999993
+                }
+            }
+        }
+    },
+    "Pl_J-Z-Lower.gco": {
+        "hash": "7342a3ecfc11228768b6f3e009c66e5bfe9ba74e",
+        "analysis": {
+            "estimatedPrintTime": 15575.247247095464,
+            "printingArea": {
+                "maxZ": 12.0,
+                "minX": 18.344,
+                "maxX": 160.975,
+                "maxY": 132.555,
+                "minY": 52.436,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 142.631,
+                "depth": 80.119,
+                "height": 11.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 33.17288669060742,
+                    "length": 13791.683640000043
+                }
+            }
+        }
+    },
+    "Pl_Bottom_CornerJ2.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 19094.72542309761
+            },
+            "lastPrintTime": {
+                "_default": 19094.72542309761
+            }
+        },
+        "hash": "06a880f2f908af42b88a9b1ed9b197a564da6b15",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 13613.537135374394,
+            "printingArea": {
+                "maxZ": 46.95,
+                "minX": 63.2,
+                "maxX": 136.9,
+                "maxY": 128.25,
+                "minY": 72.25,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 73.7,
+                "depth": 56.0,
+                "height": 46.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 29.910928534109228,
+                    "length": 12435.519030000074
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492501293.721635,
+                "printTime": 19094.72542309761,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "PI_J_Roller.gco": {
+        "hash": "2f4a6f02a3f0f6f3b6dcc2c183489a08d07a753c"
+    },
+    "Pl_J_Roller.gco": {
+        "notes": [],
+        "hash": "447d48c8a1de65cbd5cf144ed4cc41154e4e3daa",
+        "analysis": {
+            "estimatedPrintTime": 38124.366147067456,
+            "printingArea": {
+                "maxZ": 75.0,
+                "minX": 64.823,
+                "maxX": 134.677,
+                "maxY": 146.077,
+                "minY": 54.467,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 69.854,
+                "depth": 91.61,
+                "height": 74.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 82.5798121441686,
+                    "length": 34332.69630000212
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_BottomM_CornerJ2.gco": {
+        "notes": [],
+        "hash": "aca0e020cccaa5aa091f123182180a50b609fb9c",
+        "analysis": {
+            "estimatedPrintTime": 13535.008892969634,
+            "printingArea": {
+                "maxZ": 46.95,
+                "minX": 63.2,
+                "maxX": 136.9,
+                "maxY": 127.75,
+                "minY": 71.85,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 73.7,
+                "depth": 55.900000000000006,
+                "height": 46.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 29.71960033922443,
+                    "length": 12355.974010000034
+                }
+            }
+        },
+        "links": []
+    },
+    "Pl_J_RollerM.gco": {
+        "notes": [],
+        "hash": "d1f8ace80990ea6c7c3972c5c07405d230327ef2",
+        "analysis": {
+            "estimatedPrintTime": 38080.44771603936,
+            "printingArea": {
+                "maxZ": 75.0,
+                "minX": 65.323,
+                "maxX": 135.123,
+                "maxY": 146.077,
+                "minY": 54.466,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 69.8,
+                "depth": 91.61099999999999,
+                "height": 74.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 82.48666507799663,
+                    "length": 34293.97025000172
+                }
+            }
+        },
+        "links": []
+    }
+}

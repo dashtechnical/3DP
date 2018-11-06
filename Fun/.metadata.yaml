@@ -1,0 +1,179 @@
+Dodge_Demon.gco:
+  analysis:
+    dimensions:
+      depth: 97.8
+      height: 4.0
+      width: 93.529
+    estimatedPrintTime: 1649.5817326759836
+    filament:
+      tool0:
+        length: 1898.9639800000061
+        volume: 4.567543643140359
+    printingArea:
+      maxX: 139.19
+      maxY: 141.452
+      maxZ: 4.3
+      minX: 45.661
+      minY: 43.652
+      minZ: 0.3
+  hash: 3f73387606ac74fc392dd439f69cad273cb10d01
+  history:
+  - printTime: 1197.2895390987396
+    printerProfile: _default
+    success: true
+    timestamp: 1502078555.83909
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1197.2895390987396
+    lastPrintTime:
+      _default: 1197.2895390987396
+Dodge_Hellcat.gco:
+  analysis:
+    dimensions:
+      depth: 110.97200000000001
+      height: 4.4
+      width: 108.71900000000002
+    estimatedPrintTime: 2413.681339937772
+    filament:
+      tool0:
+        length: 2584.4861800000017
+        volume: 6.216417765987895
+    printingArea:
+      maxX: 145.842
+      maxY: 147.93
+      maxZ: 4.7
+      minX: 37.123
+      minY: 36.958
+      minZ: 0.3
+  hash: 312a3edbdc849f675e99117fc2c2e3690e18f3cd
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1501761933.153979
+  - printTime: 1591.471893787384
+    printerProfile: _default
+    success: true
+    timestamp: 1502075283.599654
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1591.471893787384
+    lastPrintTime:
+      _default: 1591.471893787384
+FT_3D_Gremlin_Final.gco:
+  analysis:
+    dimensions:
+      depth: 64.19999999999999
+      height: 52.2
+      width: 126.5
+    estimatedPrintTime: 5649.076762607576
+    filament:
+      tool0:
+        length: 6138.603139999999
+        volume: 14.765070872944287
+    printingArea:
+      maxX: 155.596
+      maxY: 126.612
+      maxZ: 52.5
+      minX: 29.096
+      minY: 62.412
+      minZ: 0.3
+  hash: 1995c60e802d2043dcfc0aface998e8be2485cf2
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1501032186.037919
+  - printTime: 8777.37639594078
+    printerProfile: _default
+    success: true
+    timestamp: 1501074349.842513
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 8777.37639594078
+    lastPrintTime:
+      _default: 8777.37639594078
+MAKE_Robot_Arms_Down_Supportless_V4.1.gco:
+  analysis:
+    dimensions:
+      depth: 24.128
+      height: 28.65
+      width: 35.5
+    estimatedPrintTime: 3134.390886931132
+    filament:
+      tool0:
+        length: 2322.081319999998
+        volume: 5.585260112211782
+    printingArea:
+      maxX: 110.251
+      maxY: 104.364
+      maxZ: 28.95
+      minX: 74.751
+      minY: 80.236
+      minZ: 0.3
+  hash: 1ae0725b09fde97203a86e6962f48786a6c6f04d
+  links: []
+  notes: []
+babyBrachio.gco:
+  analysis:
+    dimensions:
+      depth: 85.8
+      height: 55.050000000000004
+      width: 53.699
+    estimatedPrintTime: 10894.01412613842
+    filament:
+      tool0:
+        length: 8369.635149999993
+        volume: 20.131331730044955
+    printingArea:
+      maxX: 127.352
+      maxY: 142.952
+      maxZ: 55.35
+      minX: 73.653
+      minY: 57.152
+      minZ: 0.3
+  hash: 2477261d74c94d855b73d9e155bfb257bef7bd2f
+  links: []
+  notes: []
+babyBrachio.stl:
+  hash: c288f2d981611256b86f459732ea509f4a06f0e0
+  links: []
+  notes: []
+batman2_repaired.gco:
+  analysis:
+    dimensions:
+      depth: 123.99099999999999
+      height: 21.4
+      width: 90.69999999999999
+    estimatedPrintTime: 6150.768600078011
+    filament:
+      tool0:
+        length: 6880.4664699999985
+        volume: 16.549461294620652
+    printingArea:
+      maxX: 137.748
+      maxY: 161.362
+      maxZ: 21.7
+      minX: 47.048
+      minY: 37.371
+      minZ: 0.3
+  hash: 24dc7ac2dc734b07c9c29fe564221b1535d40647
+  history:
+  - printTime: 8323.978066205978
+    printerProfile: _default
+    success: true
+    timestamp: 1501477199.664029
+  - printerProfile: _default
+    success: false
+    timestamp: 1501708601.735208
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 8323.978066205978
+    lastPrintTime:
+      _default: 8323.978066205978

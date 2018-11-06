@@ -1,0 +1,169 @@
+Delrin_X_Idler.gco:
+  analysis:
+    dimensions:
+      depth: 42.55499999999999
+      height: 56.7
+      width: 60.098000000000006
+    estimatedPrintTime: 13264.452852115277
+    filament:
+      tool0:
+        length: 15506.723139999362
+        volume: 37.29804011555889
+    printingArea:
+      maxX: 122.549
+      maxY: 113.785
+      maxZ: 57.0
+      minX: 62.451
+      minY: 71.23
+      minZ: 0.3
+  hash: 6b9638a788f99c9832035561e612db93b552577b
+  links: []
+  notes: []
+Delrin_X_Idler.stl:
+  hash: 9188d1fae6fb7dc32b976a1d325b52b2438f9306
+  links: []
+  notes: []
+Delrin_X_Idler_Tensioner.gco:
+  analysis:
+    dimensions:
+      depth: 42.55499999999999
+      height: 56.7
+      width: 60.098000000000006
+    estimatedPrintTime: 13607.9320955286
+    filament:
+      tool0:
+        length: 16119.132860000573
+        volume: 38.77105811539946
+    printingArea:
+      maxX: 122.549
+      maxY: 113.785
+      maxZ: 57.0
+      minX: 62.451
+      minY: 71.23
+      minZ: 0.3
+  hash: 7c1fb5c7d71c3d1c45365827354baab57d9a51b4
+  history:
+  - printTime: 17444.3913128376
+    printerProfile: _default
+    success: true
+    timestamp: 1494632577.208336
+  - printTime: 20474.73129606247
+    printerProfile: _default
+    success: true
+    timestamp: 1494657873.514166
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 18959.561304450035
+    lastPrintTime:
+      _default: 20474.73129606247
+Delrin_X_Idler_Tensioner.stl:
+  hash: 0ad0999925df576beac80b6b5801454f87758051
+  links: []
+  notes: []
+Delrin_X_Idler_Tensioner_Clamp.gco:
+  analysis:
+    dimensions:
+      depth: 26.60000000000001
+      height: 14.7
+      width: 49.2
+    estimatedPrintTime: 3214.8165084115676
+    filament:
+      tool0:
+        length: 3319.450969999998
+        volume: 7.9842152544354965
+    printingArea:
+      maxX: 117.4
+      maxY: 105.9
+      maxZ: 15.0
+      minX: 68.2
+      minY: 79.3
+      minZ: 0.3
+  hash: 2ef99de558601881bcec40211936c6bf95f198a5
+  history:
+  - printTime: 3662.864156961441
+    printerProfile: _default
+    success: true
+    timestamp: 1494614915.444645
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3662.864156961441
+    lastPrintTime:
+      _default: 3662.864156961441
+Delrin_X_Idler_Tensioner_Clamp.stl:
+  hash: 9452a9fceedb357542e98efb03b18f2564a5d254
+  links: []
+  notes: []
+Delrin_X_Idler_Tensioner_End.gco:
+  analysis:
+    dimensions:
+      depth: 23.599999999999994
+      height: 17.7
+      width: 64.6
+    estimatedPrintTime: 4319.602738274916
+    filament:
+      tool0:
+        length: 4536.737529999999
+        volume: 10.912132554377218
+    printingArea:
+      maxX: 124.8
+      maxY: 104.3
+      maxZ: 18.0
+      minX: 60.2
+      minY: 80.7
+      minZ: 0.3
+  hash: 15e84727a198d1f35777cf579e94282924e9dbfb
+  history:
+  - printTime: 4778.526881933212
+    printerProfile: _default
+    success: true
+    timestamp: 1494591989.665178
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 4778.526881933212
+    lastPrintTime:
+      _default: 4778.526881933212
+Delrin_X_Idler_Tensioner_End.stl:
+  hash: a8cf17ba8b872f8b8c331acb795b6b5aef112fac
+  links: []
+  notes: []
+Delrin_X_Motor.gco:
+  analysis:
+    dimensions:
+      depth: 42.037000000000006
+      height: 56.7
+      width: 95.069
+    estimatedPrintTime: 16101.071258724985
+    filament:
+      tool0:
+        length: 20838.591630000185
+        volume: 50.12268675659922
+    printingArea:
+      maxX: 140.024
+      maxY: 113.515
+      maxZ: 57.0
+      minX: 44.955
+      minY: 71.478
+      minZ: 0.3
+  hash: 70ba4c889604e0b42c5dabec598cdacdbc65c4c8
+  history:
+  - printTime: 22367.424135923386
+    printerProfile: _default
+    success: true
+    timestamp: 1494572313.186107
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 22367.424135923386
+    lastPrintTime:
+      _default: 22367.424135923386
+Delrin_X_Motor.stl:
+  hash: ba2865a1546758161b1c8254c7c051b86dac0e87
+  links: []
+  notes: []

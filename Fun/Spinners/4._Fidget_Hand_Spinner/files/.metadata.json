@@ -1,0 +1,66 @@
+{
+    "Spinner.stl": {
+        "notes": [],
+        "hash": "6a207f91d1d3695294619c2495b46c9aac126080",
+        "links": []
+    },
+    "NoTrangles.stl": {
+        "notes": [],
+        "hash": "ee59eb18b7e37e15454875eb7f352e7420f30e47",
+        "links": []
+    },
+    "Spinner_light.stl": {
+        "notes": [],
+        "hash": "1aa3e0af3ca7969110d689d22c566b1264c6d8a9",
+        "links": []
+    },
+    "Spinner.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4711.630255460739
+            },
+            "lastPrintTime": {
+                "_default": 4711.518900871277
+            }
+        },
+        "hash": "fe3da06ca4960749626bb0e5acba1add198ecd05",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 4753.294904556686,
+            "printingArea": {
+                "maxZ": 7.05,
+                "minX": 53.168,
+                "maxX": 130.868,
+                "maxY": 133.773,
+                "minY": 48.508,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 77.69999999999999,
+                "depth": 85.26499999999999,
+                "height": 6.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 8.645583633411787,
+                    "length": 3594.4159899999995
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493071196.130756,
+                "printTime": 4711.741610050201,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1493077355.231938,
+                "printTime": 4711.518900871277,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

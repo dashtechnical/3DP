@@ -1,0 +1,130 @@
+{
+    "tri_Redone.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 5349.65992295742
+            },
+            "lastPrintTime": {
+                "_default": 5405.679738998413
+            }
+        },
+        "hash": "7d9fcf8e36698ff20cab060379ddd01dab743239",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 5628.061507187012,
+            "printingArea": {
+                "maxZ": 7.05,
+                "minX": 49.636,
+                "maxX": 135.336,
+                "maxY": 132.334,
+                "minY": 52.676,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 85.70000000000002,
+                "depth": 79.658,
+                "height": 6.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 10.516051997827342,
+                    "length": 4372.066369999995
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493086465.026497,
+                "printTime": 5293.640106916428,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1493118865.019667,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1493124300.583421,
+                "printTime": 5405.679738998413,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "tri_Redone.stl": {
+        "notes": [],
+        "hash": "7b8023927633de9da5ef2945207646f397aa5f5b",
+        "links": []
+    },
+    "FemaleCap.stl": {
+        "notes": [],
+        "hash": "964d97f5588dd1853cf9d6cd98b598ae7a1db0bf",
+        "links": []
+    },
+    "Tri.gco": {
+        "notes": [],
+        "hash": "aa7e0dc1bc8fed7736123b12e59b2abe7a55df4f",
+        "analysis": {
+            "estimatedPrintTime": 5714.781325352996,
+            "printingArea": {
+                "maxZ": 7.05,
+                "minX": 49.672,
+                "maxX": 135.372,
+                "maxY": 132.364,
+                "minY": 52.706,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 85.70000000000002,
+                "depth": 79.658,
+                "height": 6.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 10.532647937658462,
+                    "length": 4378.966160000004
+                }
+            }
+        },
+        "links": []
+    },
+    "Cap_Pairs.gco": {
+        "notes": [],
+        "hash": "1e8dd0f49b36ae18265ecb8b78fa10ee5dacdbf6",
+        "analysis": {
+            "estimatedPrintTime": 3789.864361450009,
+            "printingArea": {
+                "maxZ": 9.45,
+                "minX": 60.667,
+                "maxX": 124.5,
+                "maxY": 124.326,
+                "minY": 60.665,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 63.833,
+                "depth": 63.660999999999994,
+                "height": 9.149999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 6.8776390138718595,
+                    "length": 2859.3900300000005
+                }
+            }
+        },
+        "links": []
+    },
+    "Tri.stl": {
+        "notes": [],
+        "hash": "2145f9f88b3b73357a81dbe40688c9a690b81072",
+        "links": []
+    },
+    "MaleCap.stl": {
+        "notes": [],
+        "hash": "968b7982754c6422c926ebc1286cdf2639e22289",
+        "links": []
+    }
+}

@@ -1,0 +1,327 @@
+Bed_Clip_mk2.gco:
+  analysis:
+    dimensions:
+      depth: 80.417
+      height: 14.799999999999999
+      width: 68.398
+    estimatedPrintTime: 4265.75603435349
+    filament:
+      tool0:
+        length: 5078.54114000001
+        volume: 12.215322957539072
+    printingArea:
+      maxX: 126.699
+      maxY: 148.466
+      maxZ: 15.1
+      minX: 58.301
+      minY: 68.049
+      minZ: 0.3
+  hash: 422262a6359500ef48fc40a48d5d2c3ca60df43b
+  history:
+  - printTime: 6781.2369389534
+    printerProfile: _default
+    success: true
+    timestamp: 1501795608.799195
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 6781.2369389534
+    lastPrintTime:
+      _default: 6781.2369389534
+EXTRUDER-IDLER-with-thumb-guide-1.75-filament-HiRes.gco:
+  analysis:
+    dimensions:
+      depth: 53.739999999999995
+      height: 23.4
+      width: 35.599000000000004
+    estimatedPrintTime: 2587.0579016460247
+    filament:
+      tool0:
+        length: 3639.24112
+        volume: 8.753400706163447
+    printingArea:
+      maxX: 106.355
+      maxY: 125.83
+      maxZ: 23.7
+      minX: 70.756
+      minY: 72.09
+      minZ: 0.3
+  hash: c643ca8cc35d5a298c02bc1a0b5585772e28a3a0
+  history:
+  - printTime: 3151.9452090263367
+    printerProfile: _default
+    success: true
+    timestamp: 1497016835.512935
+  - printTime: 3769.9559450149536
+    printerProfile: _default
+    success: true
+    timestamp: 1497020809.599163
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3460.950577020645
+    lastPrintTime:
+      _default: 3769.9559450149536
+Endstop_X_Support.gco:
+  analysis:
+    dimensions:
+      depth: 108.97399999999999
+      height: 5.8
+      width: 60.635999999999996
+    estimatedPrintTime: 2866.612520102053
+    filament:
+      tool0:
+        length: 3578.636710000003
+        volume: 8.60763001722086
+    printingArea:
+      maxX: 133.564
+      maxY: 146.987
+      maxZ: 6.1
+      minX: 72.928
+      minY: 38.013
+      minZ: 0.3
+  hash: b237c1e493630a1b5f9b59e7a31f1e52cac4f2fc
+  history:
+  - printTime: 3461.1125819683075
+    printerProfile: _default
+    success: true
+    timestamp: 1501467327.890071
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3461.1125819683075
+    lastPrintTime:
+      _default: 3461.1125819683075
+Linear_Bearing_LM8UU_1.gco:
+  analysis:
+    dimensions:
+      depth: 22.604000000000013
+      height: 23.7
+      width: 22.633999999999986
+    estimatedPrintTime: 1495.3911126724715
+    filament:
+      tool0:
+        length: 1141.9746000000007
+        volume: 2.746770807552517
+    printingArea:
+      maxX: 103.817
+      maxY: 103.802
+      maxZ: 24.0
+      minX: 81.183
+      minY: 81.198
+      minZ: 0.3
+  hash: 6564d8e644e5c100ad67c71a243abd5fb73a48f4
+  history:
+  - printTime: 1805.1706218719482
+    printerProfile: _default
+    success: true
+    timestamp: 1495452832.96116
+  - printerProfile: _default
+    success: false
+    timestamp: 1495655658.046225
+  - printTime: 1934.2176921367645
+    printerProfile: _default
+    success: true
+    timestamp: 1495657665.573005
+  - printTime: 1906.4933099746704
+    printerProfile: _default
+    success: true
+    timestamp: 1495659875.716279
+  - printTime: 1924.3621690273285
+    printerProfile: _default
+    success: true
+    timestamp: 1495672441.019437
+  - printTime: 1919.8400428295135
+    printerProfile: _default
+    success: true
+    timestamp: 1495674632.78834
+  - printTime: 1920.538460969925
+    printerProfile: _default
+    success: true
+    timestamp: 1495677267.520043
+  - printTime: 1949.3488359451294
+    printerProfile: _default
+    success: true
+    timestamp: 1495745283.357771
+  - printTime: 1913.7581071853638
+    printerProfile: _default
+    success: true
+    timestamp: 1495747260.230794
+  - printTime: 1920.4585819244385
+    printerProfile: _default
+    success: true
+    timestamp: 1495749222.398925
+  - printTime: 1917.4233770370483
+    printerProfile: _default
+    success: true
+    timestamp: 1495751210.477304
+  - printerProfile: _default
+    success: false
+    timestamp: 1495755514.145208
+  - printTime: 1910.5823459625244
+    printerProfile: _default
+    success: true
+    timestamp: 1495757500.42872
+  - printTime: 1919.0206890106201
+    printerProfile: _default
+    success: true
+    timestamp: 1495760601.574854
+  - printTime: 1920.5831429958344
+    printerProfile: _default
+    success: true
+    timestamp: 1495763557.625629
+  statistics:
+    averagePrintTime:
+      _default: 1912.4459520670084
+    lastPrintTime:
+      _default: 1920.5831429958344
+Linear_Bearing_LM8UU_13.gco:
+  analysis:
+    dimensions:
+      depth: 98.62799999999999
+      height: 23.7
+      width: 98.73399999999998
+    estimatedPrintTime: 17906.11996344112
+    filament:
+      tool0:
+        length: 14737.75122999647
+        volume: 35.44844591773361
+    printingArea:
+      maxX: 141.867
+      maxY: 141.814
+      maxZ: 24.0
+      minX: 43.133
+      minY: 43.186
+      minZ: 0.3
+  hash: 721d6c341abe2452d8cc526557873c095f746074
+Linear_Bearing_LM8UU_4.gco:
+  analysis:
+    dimensions:
+      depth: 60.61600000000001
+      height: 23.7
+      width: 41.65899999999999
+    estimatedPrintTime: 6122.8976180436375
+    filament:
+      tool0:
+        length: 4545.620510000002
+        volume: 10.933498625170806
+    printingArea:
+      maxX: 122.842
+      maxY: 122.808
+      maxZ: 24.0
+      minX: 81.183
+      minY: 62.192
+      minZ: 0.3
+  hash: 193a1fbe7359d8f904a6371b5ef3fbaeade9b112
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1495675205.273437
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+Print_Plate_Corners_fixed.gco:
+  analysis:
+    dimensions:
+      depth: 84.798
+      height: 3.2
+      width: 118.798
+    estimatedPrintTime: 2616.259845869525
+    filament:
+      tool0:
+        length: 3491.9191099999994
+        volume: 0.0
+    printingArea:
+      maxX: 151.899
+      maxY: 151.899
+      maxZ: 3.5
+      minX: 33.101
+      minY: 67.101
+      minZ: 0.3
+  hash: c6588c9ef665dfb990c725d80cc2d0ce7ca93003
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1501801186.536847
+  - printerProfile: _default
+    success: false
+    timestamp: 1501808652.004045
+  - printTime: 9509.309268951416
+    printerProfile: _default
+    success: true
+    timestamp: 1501860144.113552
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 9509.309268951416
+    lastPrintTime:
+      _default: 9509.309268951416
+Prusai3_40mm_Fan_holder_updated.gco:
+  analysis:
+    dimensions:
+      depth: 46.2
+      height: 57.900000000000006
+      width: 48.49999999999999
+    estimatedPrintTime: 11912.204828499742
+    filament:
+      tool0:
+        length: 8583.098810000001
+        volume: 20.644772002500524
+    printingArea:
+      maxX: 106.853
+      maxY: 122.42
+      maxZ: 58.2
+      minX: 58.353
+      minY: 76.22
+      minZ: 0.3
+  hash: 635ebfbef5637c95a3803c6af9ad492468e91987
+  history:
+  - printTime: 14523.44297003746
+    printerProfile: _default
+    success: true
+    timestamp: 1495051340.878534
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 14523.44297003746
+    lastPrintTime:
+      _default: 14523.44297003746
+servo_holder.gco:
+  analysis:
+    dimensions:
+      depth: 77.606
+      height: 3.75
+      width: 67.10399999999998
+    estimatedPrintTime: 2967.899595968419
+    filament:
+      tool0:
+        length: 2250.1081000000027
+        volume: 5.412144230631279
+    printingArea:
+      maxX: 121.487
+      maxY: 135.113
+      maxZ: 4.05
+      minX: 54.383
+      minY: 57.507
+      minZ: 0.3
+  hash: 911ac0edca026028098a621f99baae041ab8b25e
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1492964830.272201
+  - printTime: 3501.2792642116547
+    printerProfile: _default
+    success: true
+    timestamp: 1492968699.537832
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3501.2792642116547
+    lastPrintTime:
+      _default: 3501.2792642116547

@@ -1,0 +1,101 @@
+MakePiZeroCase.gco:
+  analysis:
+    dimensions:
+      depth: 78.572
+      height: 11.25
+      width: 89.75599999999999
+    estimatedPrintTime: 4453.732482403088
+    filament:
+      tool0:
+        length: 3223.4309
+        volume: 7.753259920389412
+    printingArea:
+      maxX: 144.378
+      maxY: 139.286
+      maxZ: 11.55
+      minX: 54.622
+      minY: 60.714
+      minZ: 0.3
+  hash: 3f4c6287e5e76b9b89f5ee53497bcf006ccec8dd
+  history:
+  - printTime: 6013.205612182617
+    printerProfile: _default
+    success: true
+    timestamp: 1490636374.461014
+  - printerProfile: _default
+    success: false
+    timestamp: 1490636750.244003
+  - printTime: 6152.261434078217
+    printerProfile: _default
+    success: true
+    timestamp: 1490642985.509016
+  statistics:
+    averagePrintTime:
+      _default: 6082.733523130417
+    lastPrintTime:
+      _default: 6152.261434078217
+MakePiZeroCase.stl:
+  hash: eed565dcf2a177747e449c269d616b82c199f389
+MakePiZeroCaseBase.gco:
+  analysis:
+    estimatedPrintTime: 2791
+    filament:
+      tool0:
+        length: 2144
+        volume: 5.156924340867645
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: f8526339d06f10bf61535be2efa586a85a82d2e0
+MakePiZeroCaseBase.stl:
+  hash: 500c04c48658b6bd37b4677b1d190eaf5f479e50
+MakePiZeroCaseLid.gco:
+  analysis:
+    estimatedPrintTime: 1301
+    filament:
+      tool0:
+        length: 1056
+        volume: 2.5399776604273474
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 762477583845e1f43df34f66f28c0a8c3602e37f
+MakePiZeroCaseLid.stl:
+  hash: 042a89380723fc203b839e38420b0d44e5afe27d
+pi_zero_w_case_v3_bottom.gco:
+  analysis:
+    dimensions:
+      depth: 83.0
+      height: 8.799999999999999
+      width: 86.25999999999999
+    estimatedPrintTime: 4997.964507042627
+    filament:
+      tool0:
+        length: 4557.40206
+        volume: 10.961836573849975
+    printingArea:
+      maxX: 142.5
+      maxY: 159.5
+      maxZ: 9.1
+      minX: 56.24
+      minY: 76.5
+      minZ: 0.3
+  hash: 9d20aa8ecbd384b9cfeeb036dfcb3ae62d73d690
+  history:
+  - printTime: 4294.013052940369
+    printerProfile: _default
+    success: true
+    timestamp: 1491325008.185844
+  - printTime: 4294.966734886169
+    printerProfile: _default
+    success: true
+    timestamp: 1491352829.693989
+  - printTime: 4348.552493095398
+    printerProfile: _default
+    success: true
+    timestamp: 1491358484.363488
+  statistics:
+    averagePrintTime:
+      _default: 4312.510760307312
+    lastPrintTime:
+      _default: 4348.552493095398

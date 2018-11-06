@@ -1,0 +1,470 @@
+LCD-cable-clip.gco:
+  analysis:
+    estimatedPrintTime: 379
+    filament:
+      tool0:
+        length: 255
+        volume: 0.6133468782281947
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 7fe448c8c87572b88de4520acaf79326f3353fc9
+LCD-cable-clip.stl:
+  hash: 5f09b1b60bb58dea1134e69afd0a17ec2273dc69
+LCD-cover-ORIGINAL.gco:
+  analysis:
+    estimatedPrintTime: 19355
+    filament:
+      tool0:
+        length: 15366
+        volume: 36.95956129746838
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 807f69926ed4255fa3513ce68af360c0bcd28564
+LCD-cover-ORIGINAL.stl:
+  hash: a20b789a654da178f0c7af22179543fbf071cbe4
+LCD-knob.gco:
+  analysis:
+    estimatedPrintTime: 815
+    filament:
+      tool0:
+        length: 584
+        volume: 1.404684615236336
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: bd991bc1aa7688c28785236af7f9b3a166a265a6
+LCD-knob.stl:
+  hash: 555c3a1e11787f97471ea2f09724c9d0c5b15a0a
+PINDA_protector.gco:
+  analysis:
+    estimatedPrintTime: 1394
+    filament:
+      tool0:
+        length: 1032
+        volume: 2.4822508954176348
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 911c14c080dc4c177dd91362b32499b7f050760b
+PINDA_protector.stl:
+  hash: 7f223d7a5337d9463e129fcce73451bad5ddb189
+PSU-Y-part.gco:
+  analysis:
+    estimatedPrintTime: 6259
+    filament:
+      tool0:
+        length: 5308
+        volume: 12.767236194648067
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 5461ab7fa3fc0638bf56b3f8a0ff997c62bd9601
+PSU-Y-part.stl:
+  hash: af5710d8e49dfba76943b6569267ac191e4c1cd6
+PSU-cover-NODRILL.gco:
+  analysis:
+    estimatedPrintTime: 27670
+    filament:
+      tool0:
+        length: 23165
+        volume: 55.71835464374953
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 163681a1d953f6d10e54d94c114717e73c6e2d18
+PSU-cover-NODRILL.stl:
+  hash: ceea1c76126593be5073313f52447934bff3ff1b
+RAMBo-base.gco:
+  analysis:
+    estimatedPrintTime: 17038
+    filament:
+      tool0:
+        length: 12650
+        volume: 30.426815723869264
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 13047a8a3bf59880fae22a7a2ed0a7e363ac717c
+RAMBo-base.stl:
+  hash: 331f49ff338a5ee01dc8ebc7582ea92bb32b1a0f
+RAMBo-doors.gco:
+  analysis:
+    estimatedPrintTime: 10297
+    filament:
+      tool0:
+        length: 8452
+        volume: 20.329442410920397
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: f1e23c5a659e7d4cabf48ceae0b56b9c32fce7af
+RAMBo-doors.stl:
+  hash: 8746ada70e9470bee35dbde9d2645e8e0972250a
+RAMBo_hinges.gco:
+  analysis:
+    estimatedPrintTime: 1304
+    filament:
+      tool0:
+        length: 732
+        volume: 1.7606663327962295
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 1cbde8e1e10e66ae899c96e3f1c3e294ee0cf9e2
+RAMBo_hinges.stl:
+  hash: bdfc6a335b33ace6e781a529afe4be11207e6aed
+Y-distance.gco:
+  analysis:
+    estimatedPrintTime: 1130
+    filament:
+      tool0:
+        length: 881
+        volume: 2.1190533322315273
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 660bcb77c1ca1099aebc12c7cc20514743430345
+Y-distance.stl:
+  hash: 541bd1ec85a010d43e106a2e4949fe21e379c4cb
+belt-guide.gco:
+  analysis:
+    estimatedPrintTime: 369
+    filament:
+      tool0:
+        length: 263
+        volume: 0.6325891332314322
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: f063d45593c657e033597186aa79d15d69150fb8
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1492034939.580085
+  - printTime: 416.6803209781647
+    printerProfile: _default
+    success: true
+    timestamp: 1492035384.94533
+  statistics:
+    averagePrintTime:
+      _default: 416.6803209781647
+    lastPrintTime:
+      _default: 416.6803209781647
+belt-guide.stl:
+  hash: 98724d7558b2acba35d59d562166a7d5c04ba35f
+cable-holder.gco:
+  analysis:
+    estimatedPrintTime: 1576
+    filament:
+      tool0:
+        length: 447
+        volume: 1.0751609983058943
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 43b8f24d8cfc216ef6ba2f9f3205a47b608c0bd9
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1492037984.854132
+  - printTime: 958.5726270675659
+    printerProfile: _default
+    success: true
+    timestamp: 1492041684.753542
+  statistics:
+    averagePrintTime:
+      _default: 958.5726270675659
+    lastPrintTime:
+      _default: 958.5726270675659
+cable-holder.stl:
+  hash: 0845e24cdda8f42722dbfdad02eaa7fe9acca9da
+extruder-body.gco:
+  analysis:
+    estimatedPrintTime: 16333
+    filament:
+      tool0:
+        length: 11985
+        volume: 28.82730327672515
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 98d5f2d477e0bf8768676fb27cfd84fc4a7c957e
+  history:
+  - printTime: 17301.01590514183
+    printerProfile: _default
+    success: true
+    timestamp: 1492066764.735343
+  - printerProfile: _default
+    success: false
+    timestamp: 1492083270.168048
+  - printTime: 17300.16445708275
+    printerProfile: _default
+    success: true
+    timestamp: 1492100797.819552
+  - printerProfile: _default
+    success: false
+    timestamp: 1492184164.89882
+  statistics:
+    averagePrintTime:
+      _default: 17300.59018111229
+    lastPrintTime:
+      _default: 17300.16445708275
+extruder-body.stl:
+  hash: 76ec855c167b634def31d1a197c3b35289f010bc
+extruder-cover.gco:
+  analysis:
+    estimatedPrintTime: 6286
+    filament:
+      tool0:
+        length: 4693
+        volume: 11.287987841274187
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 38ec0d0491afac01b1528ef4d1742a0b3d17a0ea
+extruder-cover.stl:
+  hash: e86982dcdbb224019df39a49afa5c6c3c8ddcc61
+extruder-idler.gco:
+  analysis:
+    estimatedPrintTime: 3249
+    filament:
+      tool0:
+        length: 2576
+        volume: 6.196006111042468
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 65c6f446ad093e98b2391c355677076830f4793d
+extruder-idler.stl:
+  hash: c08bcf5038946a5e8b95753d0310a8ede54a363c
+fan-nozzle.gco:
+  analysis:
+    estimatedPrintTime: 1756
+    filament:
+      tool0:
+        length: 1149
+        volume: 2.763668874839983
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 2e7c881b4c26b2fd02adf03f26776347c02e191e
+fan-nozzle.stl:
+  hash: 2c273e77ed1fac6da5ae4db9c051d2687a99d732
+heatbed_cable_cover.gco:
+  analysis:
+    estimatedPrintTime: 1499
+    filament:
+      tool0:
+        length: 1134
+        volume: 2.7275896467089127
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: a7e7564219164268ceb06dda5dd3799039f90037
+heatbed_cable_cover.stl:
+  hash: 61e3cd6b2bbed691de8e6d82105fbf289bb30ba8
+i3-anti-vib.gco:
+  analysis:
+    estimatedPrintTime: 2771
+    filament:
+      tool0:
+        length: 2553
+        volume: 6.140684627908161
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 1838788c2068bb7e6fef48865685a65602f6da34
+i3-anti-vib.stl:
+  hash: baeb34ed35736d5fa8c75ccb6dcea7a5ee590d7c
+lcd-support-A.gco:
+  analysis:
+    estimatedPrintTime: 5159
+    filament:
+      tool0:
+        length: 4143
+        volume: 9.965082809801611
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 1cd4dccd97a2214bfdbc573d33cbb528a6f4b8ce
+lcd-support-A.stl:
+  hash: c3392693665eec9cf77bbba0431e560314c515b0
+lcd-support-A_(2).gco:
+  analysis:
+    dimensions:
+      depth: 63.08
+      height: 9.75
+      width: 93.79199999999999
+    estimatedPrintTime: 6064.500290287119
+    filament:
+      tool0:
+        length: 4683.98938
+        volume: 11.266314760302027
+    printingArea:
+      maxX: 146.896
+      maxY: 131.54
+      maxZ: 10.05
+      minX: 53.104
+      minY: 68.46
+      minZ: 0.3
+  hash: 185e4007f125e20bf0a1041f7540b6dcc7b37d73
+  links: []
+  notes: []
+lcd-support-B.gco:
+  analysis:
+    estimatedPrintTime: 5596
+    filament:
+      tool0:
+        length: 4494
+        volume: 10.809336748068652
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 3e7765aca0fd97a604d2ed695031bae1b1424764
+lcd-support-B.stl:
+  hash: 213aa7be13d51d9ccbff00f863c9288881705fc4
+spool_holdahMK3.gco:
+  analysis:
+    estimatedPrintTime: 17497
+    filament:
+      tool0:
+        length: 15347
+        volume: 36.9138609418357
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: baa38ec65d7ea5202dd88bb003ef5f2bc0e82f6b
+spool_holdahMK3.stl:
+  hash: 678e40986c39023f4d1f7e5a9085bbb6474862d9
+x-carriage.gco:
+  analysis:
+    estimatedPrintTime: 15537
+    filament:
+      tool0:
+        length: 11374
+        volume: 27.35767605085289
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 2ecb7638edb380471dad95549af8c92002630d2c
+x-carriage.stl:
+  hash: 9a700ad1ab9e04da77f8767624654dc7effc64f2
+x-end-idler.gco:
+  analysis:
+    estimatedPrintTime: 15323
+    filament:
+      tool0:
+        length: 11241
+        volume: 27.03777356142406
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: bc66c6a535b2a294b65f2957e9ef046314ee1b59
+x-end-idler.stl:
+  hash: ff0ddff5a0a625f0bbd7fe354c9668bdf098f58a
+x-end-motor.gco:
+  analysis:
+    estimatedPrintTime: 21883
+    filament:
+      tool0:
+        length: 16478
+        volume: 39.6342347429184
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 133b95b5d56c872e6704e1c4641943a4374564ed
+x-end-motor.stl:
+  hash: 222e0f3111f414ca1e63ecf9c28c6402fc99797e
+y-belt-holder.gco:
+  analysis:
+    estimatedPrintTime: 5084
+    filament:
+      tool0:
+        length: 3762
+        volume: 9.048670415272426
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 6d3e4f02d5abece7c68067dcef56ba4316a16501
+y-belt-holder.stl:
+  hash: 63b2dce2dd0279f6e754e34ba49d36a8a22692cc
+y-corners.gco:
+  analysis:
+    estimatedPrintTime: 5065
+    filament:
+      tool0:
+        length: 4001
+        volume: 9.623532783494145
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: ba75ce0bfbbfafd4895e392aaa95e9ac8182d862
+y-corners.stl:
+  hash: 4154d575108db5ad96bf7dd8cd78748cef8e09ff
+y-idler.gco:
+  analysis:
+    estimatedPrintTime: 2607
+    filament:
+      tool0:
+        length: 2046
+        volume: 4.921206717077985
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 9806c4b8ff9886fce2425071416ba6c0f11bf704
+y-idler.stl:
+  hash: ed2bfdd68d0156a286ff5cbef7a8386b90c8eee0
+y-motor.gco:
+  analysis:
+    estimatedPrintTime: 4548
+    filament:
+      tool0:
+        length: 3374
+        volume: 8.115421047615406
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 887e79e86008451370e79ab7b057ddc01a9624ae
+y-motor.stl:
+  hash: bc1724c7efd2794d0cf29c32250c1158a978d0bc
+z-axis-bottom.gco:
+  analysis:
+    estimatedPrintTime: 16144
+    filament:
+      tool0:
+        length: 12899
+        volume: 31.025730910845034
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: e64ea197c1a2dcd59e6380b11107584a38ccfc60
+z-axis-bottom.stl:
+  hash: e64ecedc82961b0de886f63f860a8364138a633f
+z-axis-top.gco:
+  analysis:
+    estimatedPrintTime: 6975
+    filament:
+      tool0:
+        length: 5392
+        volume: 12.969279872182064
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 048f50454d97514287cfa55aace16dceee761369
+z-axis-top.stl:
+  hash: f6eba291f890f5a41962b38349377bfd0efcb03b
+z-screw-cover.gco:
+  analysis:
+    estimatedPrintTime: 311
+    filament:
+      tool0:
+        length: 197
+        volume: 0.47384052945472294
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 8a880c2c9e449c74b28dfdf3d0fd59025b1932fe
+z-screw-cover.stl:
+  hash: 6e3fa23842bbb3e064ee091ade10afa85585b9d3

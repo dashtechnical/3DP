@@ -1,0 +1,130 @@
+darthvader-lowpoly-body.STL:
+  hash: 58961b6a056045a97c885b339bfe829bf43a2151
+  links: []
+  notes: []
+darthvader-lowpoly-body.gco:
+  analysis:
+    dimensions:
+      depth: 115.0
+      height: 24.45
+      width: 56.29999999999999
+    estimatedPrintTime: 16995.692981080032
+    filament:
+      tool0:
+        length: 14527.495290000224
+        volume: 34.942721116064476
+    printingArea:
+      maxX: 115.445
+      maxY: 148.35
+      maxZ: 24.75
+      minX: 59.145
+      minY: 33.35
+      minZ: 0.3
+  hash: c5754973cf8680e9e2740fc7d10ebc5e23952f75
+  links: []
+  notes: []
+darthvader-lowpoly-bodycape.STL:
+  hash: 9730b340975d6ac3c82ab431f1c4d494a39cc0b7
+  links: []
+  notes: []
+darthvader-lowpoly-bodycape.gco:
+  analysis:
+    dimensions:
+      depth: 42.977999999999994
+      height: 106.2
+      width: 69.469
+    estimatedPrintTime: 26890.431952074687
+    filament:
+      tool0:
+        length: 23572.7481800019
+        volume: 56.69910395083735
+    printingArea:
+      maxX: 127.235
+      maxY: 114.219
+      maxZ: 106.5
+      minX: 57.766
+      minY: 71.241
+      minZ: 0.3
+  hash: caceb7acdfcb3a256f20e62c1a7883a5924fb3fb
+  history:
+  - printTime: 36679.83358287811
+    printerProfile: _default
+    success: true
+    timestamp: 1493025283.879031
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 36679.83358287811
+    lastPrintTime:
+      _default: 36679.83358287811
+darthvader-lowpoly-connector.STL:
+  hash: cfae71b064b9da20e46534a2b6ce45075aaabeae
+  links: []
+  notes: []
+darthvader-lowpoly-connector.gco:
+  analysis:
+    dimensions:
+      depth: 19.818000000000012
+      height: 2.25
+      width: 10.400000000000006
+    estimatedPrintTime: 118.81660896208786
+    filament:
+      tool0:
+        length: 67.69754999999999
+        volume: 0.16283169002430242
+    printingArea:
+      maxX: 97.7
+      maxY: 102.409
+      maxZ: 2.55
+      minX: 87.3
+      minY: 82.591
+      minZ: 0.3
+  hash: 2e19da6903611eb4a789ef4787a975e51b223bc3
+  history:
+  - printTime: 159.34658980369568
+    printerProfile: _default
+    success: true
+    timestamp: 1493031444.704084
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 159.34658980369568
+    lastPrintTime:
+      _default: 159.34658980369568
+darthvader-lowpoly-head.STL:
+  hash: e56e82b612421edee8622c7a99cde92f9f5832f8
+  links: []
+  notes: []
+darthvader-lowpoly-head.gco:
+  analysis:
+    dimensions:
+      depth: 31.531000000000006
+      height: 21.75
+      width: 30.099999999999994
+    estimatedPrintTime: 2543.229145829642
+    filament:
+      tool0:
+        length: 1978.8963899999997
+        volume: 4.75980362017076
+    printingArea:
+      maxX: 107.567
+      maxY: 108.524
+      maxZ: 22.05
+      minX: 77.467
+      minY: 76.993
+      minZ: 0.3
+  hash: c7eda841fa074d32309475f340d9ff534289c8cf
+  history:
+  - printTime: 3002.680797100067
+    printerProfile: _default
+    success: true
+    timestamp: 1492976778.013616
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3002.680797100067
+    lastPrintTime:
+      _default: 3002.680797100067

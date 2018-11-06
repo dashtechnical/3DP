@@ -1,0 +1,105 @@
+improved_flywheel_12-317.gco:
+  analysis:
+    dimensions:
+      depth: 57.708000000000006
+      height: 15.8
+      width: 57.705999999999996
+    estimatedPrintTime: 2546.0496678835393
+    filament:
+      tool0:
+        length: 3066.896190000003
+        volume: 7.376749819554691
+    printingArea:
+      maxX: 121.353
+      maxY: 121.355
+      maxZ: 16.1
+      minX: 63.647
+      minY: 63.647
+      minZ: 0.3
+  hash: e12db7919dc3d44444e2bd3e7e5b3992715a1912
+  history:
+  - printTime: 3359.246016025543
+    printerProfile: _default
+    success: true
+    timestamp: 1501558270.529096
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 3359.246016025543
+    lastPrintTime:
+      _default: 3359.246016025543
+improved_flywheel_12-317.stl:
+  hash: 8b492334ba9551ffdbb09f4967ceac62a10ce54d
+  links: []
+  notes: []
+needle_cutter-guides.gco:
+  analysis:
+    dimensions:
+      depth: 66.59800000000001
+      height: 4.8
+      width: 61.598000000000006
+    estimatedPrintTime: 2203.8607181428565
+    filament:
+      tool0:
+        length: 2859.6468100000006
+        volume: 6.878256642151827
+    printingArea:
+      maxX: 123.299
+      maxY: 125.799
+      maxZ: 5.1
+      minX: 61.701
+      minY: 59.201
+      minZ: 0.3
+  hash: cfab72536a07b5925272cc71e38c93418561e17b
+  history:
+  - printTime: 2504.8791279792786
+    printerProfile: _default
+    success: true
+    timestamp: 1501560863.958992
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 2504.8791279792786
+    lastPrintTime:
+      _default: 2504.8791279792786
+needle_cutter-guides.stl:
+  hash: 6c418845308228567f61f3aa39459378b7d4cd9a
+  links: []
+  notes: []
+needle_cutter-v2.gco:
+  analysis:
+    dimensions:
+      depth: 126.09400000000001
+      height: 88.2
+      width: 75.60000000000001
+    estimatedPrintTime: 27479.12705376569
+    filament:
+      tool0:
+        length: 34145.695120000004
+        volume: 82.1300215952302
+    printingArea:
+      maxX: 130.3
+      maxY: 153.05
+      maxZ: 88.5
+      minX: 54.7
+      minY: 26.956
+      minZ: 0.3
+  hash: 8c0b631d5038e61df8d0c63e42fe77ae13331e98
+  history:
+  - printTime: 31206.540632009506
+    printerProfile: _default
+    success: true
+    timestamp: 1501706075.25447
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 31206.540632009506
+    lastPrintTime:
+      _default: 31206.540632009506
+needle_cutter-v2.stl:
+  hash: 68377bd89a2553be49285b56d05edc9a2517ef05
+  links: []
+  notes: []

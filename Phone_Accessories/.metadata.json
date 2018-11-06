@@ -1,0 +1,61 @@
+{
+    "iPhone-6-6S-and-6-plus-Amp-Dock-files-iPhone-6-Plus-Amp-Dock.stl": {
+        "notes": [],
+        "hash": "19e9da68235df44fc36548dc8cb6792012f2e4f4",
+        "links": []
+    },
+    "6-plus-amp.gco": {
+        "notes": [],
+        "hash": "16663918a9be0001c8e66145733427221784e31b",
+        "analysis": {
+            "estimatedPrintTime": 40429.08458673017,
+            "printingArea": {
+                "maxZ": 45.0,
+                "minX": 53.2,
+                "maxX": 146.8,
+                "maxY": 135.578,
+                "minY": 64.482,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 93.60000000000001,
+                "depth": 71.096,
+                "height": 44.7
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 90.90761631019072,
+                    "length": 37794.99493999872
+                }
+            }
+        },
+        "links": []
+    },
+    "iPhone-6-6S-and-6-plus-Amp-Dock-files-iPhone-6-Amp-Dock.gco": {
+        "notes": [],
+        "hash": "f6c24d67406658007c5b2d5c14506395a56bf584",
+        "analysis": {
+            "estimatedPrintTime": 39258.81582201011,
+            "printingArea": {
+                "maxZ": 61.5,
+                "minX": 54.801,
+                "maxX": 145.199,
+                "maxY": 131.771,
+                "minY": 68.86,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 90.39800000000001,
+                "depth": 62.91099999999999,
+                "height": 61.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 64.66876927028198,
+                    "length": 26886.14998996804
+                }
+            }
+        },
+        "links": []
+    }
+}

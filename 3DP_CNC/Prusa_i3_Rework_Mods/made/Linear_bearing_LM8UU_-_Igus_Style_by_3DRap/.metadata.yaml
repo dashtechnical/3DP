@@ -1,0 +1,31 @@
+LM8UU_by_3drap_dia8_12.gco:
+  analysis:
+    dimensions:
+      depth: 78.311
+      height: 23.7
+      width: 96.865
+    estimatedPrintTime: 16628.674375496692
+    filament:
+      tool0:
+        length: 11981.064489999815
+        volume: 28.817837265851235
+    printingArea:
+      maxX: 140.832
+      maxY: 141.012
+      maxZ: 24.0
+      minX: 43.967
+      minY: 62.701
+      minZ: 0.3
+  hash: d29d0db9f5e361af74305f97fd263e11ff32cb1e
+  history:
+  - printTime: 23581.12778902054
+    printerProfile: _default
+    success: true
+    timestamp: 1494319933.641265
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 23581.12778902054
+    lastPrintTime:
+      _default: 23581.12778902054

@@ -1,0 +1,49 @@
+{
+    "My_45_Bevel_Base_1.2.stl": {
+        "notes": [],
+        "hash": "6b3ce703f70d07cc2e056b51660ff29fef7f1f99",
+        "links": []
+    },
+    "My_45_Bevel_Top_1.2.stl": {
+        "notes": [],
+        "hash": "b8dea01a606debff50879ee1c8423e390ca3dd52",
+        "links": []
+    },
+    "My_45_Bevel_Base_1.3.stl": {
+        "notes": [],
+        "hash": "8605c646f1e895bdede11642e5345e1b2831666d",
+        "links": []
+    },
+    "My_45_Bevel_Top_1.3.stl": {
+        "notes": [],
+        "hash": "b086c85bbd0e8df2208f0a523170f607c0dc4d77",
+        "links": []
+    },
+    "My_45_Bevel_Base_1.3.gco": {
+        "notes": [],
+        "hash": "27a1577e6de0d74ab13f20f60c08968ae2db8d95",
+        "analysis": {
+            "estimatedPrintTime": 12352.847858288866,
+            "printingArea": {
+                "maxZ": 15.15,
+                "minX": 54.643,
+                "maxX": 130.143,
+                "maxY": 131.728,
+                "minY": 29.128,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 75.5,
+                "depth": 102.60000000000001,
+                "height": 14.85
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 25.928833361727477,
+                    "length": 10779.956239999932
+                }
+            }
+        },
+        "links": []
+    }
+}

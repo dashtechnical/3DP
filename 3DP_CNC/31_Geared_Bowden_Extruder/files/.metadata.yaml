@@ -1,0 +1,264 @@
+12t_stepper_gear.stl:
+  hash: 9369178266e9d8cabac04e3626ea90b4d109082a
+  links: []
+  notes: []
+36t_spur_gear.stl:
+  hash: b80e8b8e4902be605ce16f3e710985ee23e80690
+  links: []
+  notes: []
+Adjuster.stl:
+  hash: a5da44e2b7e4320926a399b900addcfde4248264
+  links: []
+  notes: []
+Arm.stl:
+  hash: 3904570a0c38bd190805bf232a19c0c39de106f7
+  links: []
+  notes: []
+Arm_bushing.stl:
+  hash: 0edf8c1b4b93c30d84b0eb72a23e894eda30a187
+  links: []
+  notes: []
+Arm_retainer.stl:
+  hash: a3e9975b79b98c7442ffb368c516af327994d0c2
+  links: []
+  notes: []
+Gearbox.stl:
+  hash: a66a7e4c927aed39dc9e0d57e7f2474d4efcdb60
+  links: []
+  notes: []
+Main_body.stl:
+  hash: 58b8bcd45f154a4732965c1de4813aead981c1b5
+  links: []
+  notes: []
+Main_body_-_M5_Fittings.stl:
+  hash: 0aa07c7ee39600f28ad62826ee88430677f52b34
+  links: []
+  notes: []
+PI_12t_stepper_gear.gcode:
+  analysis:
+    dimensions:
+      depth: 21.578000000000003
+      height: 4.65
+      width: 21.598
+    estimatedPrintTime: 330.59414021581296
+    filament:
+      tool0:
+        length: 151.69602000000026
+        volume: 0.0
+    printingArea:
+      maxX: 103.306
+      maxY: 103.311
+      maxZ: 4.95
+      minX: 81.708
+      minY: 81.733
+      minZ: 0.3
+  hash: 65b3ee946d69b9b82378bd30e083eafa05805397
+  history:
+  - printTime: 656.3183341026306
+    printerProfile: _default
+    success: true
+    timestamp: 1507474949.877134
+  - printTime: 814.0739350318909
+    printerProfile: _default
+    success: true
+    timestamp: 1507475971.892649
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 735.1961345672607
+    lastPrintTime:
+      _default: 814.0739350318909
+PI_36t_spur_gear.gcode:
+  analysis:
+    dimensions:
+      depth: 45.068
+      height: 4.65
+      width: 45.08600000000001
+    estimatedPrintTime: 1537.1745420996417
+    filament:
+      tool0:
+        length: 1056.4374499999994
+        volume: 0.0
+    printingArea:
+      maxX: 115.043
+      maxY: 114.984
+      maxZ: 4.95
+      minX: 69.957
+      minY: 69.916
+      minZ: 0.3
+  hash: c16fd600d0580c9c5117a57d2089f94c1fd641a1
+  links: []
+  notes: []
+PI_Adjuster.gcode:
+  analysis:
+    dimensions:
+      depth: 29.554000000000002
+      height: 4.65
+      width: 29.546999999999997
+    estimatedPrintTime: 843.2351318554909
+    filament:
+      tool0:
+        length: 577.4038099999997
+        volume: 0.0
+    printingArea:
+      maxX: 107.274
+      maxY: 107.274
+      maxZ: 4.95
+      minX: 77.727
+      minY: 77.72
+      minZ: 0.3
+  hash: 03a3ed96aa8cf1e1b7ec3d205626e3963e49e86e
+  links: []
+  notes: []
+PI_Arm.gcode:
+  analysis:
+    dimensions:
+      depth: 40.568
+      height: 12.75
+      width: 57.562000000000005
+    estimatedPrintTime: 3217.412752963753
+    filament:
+      tool0:
+        length: 2861.5379699999976
+        volume: 0.0
+    printingArea:
+      maxX: 121.287
+      maxY: 112.782
+      maxZ: 13.05
+      minX: 63.725
+      minY: 72.214
+      minZ: 0.3
+  hash: 88dd49bbe298a533c36a71fa14648dc00d7fcc66
+  links: []
+  notes: []
+PI_Arm_bushing.gcode:
+  analysis:
+    dimensions:
+      depth: 18.016999999999996
+      height: 17.7
+      width: 18.494
+    estimatedPrintTime: 577.460661444549
+    filament:
+      tool0:
+        length: 406.8879800000001
+        volume: 0.0
+    printingArea:
+      maxX: 101.509
+      maxY: 101.527
+      maxZ: 18.0
+      minX: 83.015
+      minY: 83.51
+      minZ: 0.3
+  hash: af709bd6ed21238e3ab58326c8ad287c4c9d796e
+  links: []
+  notes: []
+PI_Arm_retainer.gcode:
+  analysis:
+    dimensions:
+      depth: 21.558999999999997
+      height: 3.75
+      width: 39.571
+    estimatedPrintTime: 261.6629992886833
+    filament:
+      tool0:
+        length: 202.84662999999966
+        volume: 0.0
+    printingArea:
+      maxX: 112.289
+      maxY: 103.286
+      maxZ: 4.05
+      minX: 72.718
+      minY: 81.727
+      minZ: 0.3
+  hash: a503baee2442b1ab96cc750a9a80ffcf3938963f
+  links: []
+  notes: []
+PI_Gearbox.gcode:
+  analysis:
+    dimensions:
+      depth: 51.58
+      height: 11.7
+      width: 75.689
+    estimatedPrintTime: 6729.986004797709
+    filament:
+      tool0:
+        length: 5675.2135100002315
+        volume: 0.0
+    printingArea:
+      maxX: 130.339
+      maxY: 118.288
+      maxZ: 12.0
+      minX: 54.65
+      minY: 66.708
+      minZ: 0.3
+  hash: b8249ecb0bf526744d25f6e79f7eabe62f002e90
+  links: []
+  notes: []
+PI_Main_body.gcode:
+  analysis:
+    dimensions:
+      depth: 51.572
+      height: 22.65
+      width: 77.4
+    estimatedPrintTime: 14905.620241467135
+    filament:
+      tool0:
+        length: 12620.248820004657
+        volume: 0.0
+    printingArea:
+      maxX: 132.115
+      maxY: 118.294
+      maxZ: 22.95
+      minX: 54.715
+      minY: 66.722
+      minZ: 0.3
+  hash: e53abc6d5d12309652bc1e991d13ecdce8e28c60
+  links: []
+  notes: []
+PI_Main_body_-_M5_Fittings.gcode:
+  analysis:
+    dimensions:
+      depth: 51.587
+      height: 22.65
+      width: 77.744
+    estimatedPrintTime: 15047.722553435995
+    filament:
+      tool0:
+        length: 12722.285090004283
+        volume: 0.0
+    printingArea:
+      maxX: 132.451
+      maxY: 118.294
+      maxZ: 22.95
+      minX: 54.707
+      minY: 66.707
+      minZ: 0.3
+  hash: fe4e839ba4fc783e2f05000ca3c47b61d8a8df36
+  links: []
+  notes: []
+PI_Top_Cover.gcode:
+  analysis:
+    dimensions:
+      depth: 51.63499999999999
+      height: 6.75
+      width: 75.63500000000002
+    estimatedPrintTime: 6833.67737376162
+    filament:
+      tool0:
+        length: 6145.754990000007
+        volume: 0.0
+    printingArea:
+      maxX: 130.306
+      maxY: 118.312
+      maxZ: 7.05
+      minX: 54.671
+      minY: 66.677
+      minZ: 0.3
+  hash: 780c1305170314252322fa7045f4a221679d5697
+  links: []
+  notes: []
+Top_Cover.stl:
+  hash: f94a69eebc0170b69ef992c6e1fd9406f1ad2607
+  links: []
+  notes: []

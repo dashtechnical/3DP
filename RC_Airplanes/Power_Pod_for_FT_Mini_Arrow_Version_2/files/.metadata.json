@@ -1,0 +1,98 @@
+{
+    "My_Arrow_FPV_Hood_2.5.gco": {
+        "notes": [],
+        "hash": "edd8a72f67119bab9f415dd3c7f09ba19256df5c",
+        "analysis": {
+            "estimatedPrintTime": 4965.735117617678,
+            "printingArea": {
+                "maxZ": 2.85,
+                "minX": 52.101,
+                "maxX": 132.899,
+                "maxY": 134.423,
+                "minY": 50.577,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 80.798,
+                "depth": 83.846,
+                "height": 2.5500000000000003
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 9.206385349163174,
+                    "length": 3827.570249999998
+                }
+            }
+        },
+        "links": []
+    },
+    "My_Arrow_FPV_Pod_Arrows_2.5.gco": {
+        "notes": [],
+        "hash": "a3d14f51309d612ee97a217a1f00d524b723b8d1",
+        "analysis": {
+            "estimatedPrintTime": 34563.04312077588,
+            "printingArea": {
+                "maxZ": 49.95,
+                "minX": 46.2,
+                "maxX": 138.9,
+                "maxY": 143.876,
+                "minY": 41.276,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 92.7,
+                "depth": 102.6,
+                "height": 49.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 72.56001730154945,
+                    "length": 30166.949680000118
+                }
+            }
+        },
+        "links": []
+    },
+    "My_Arrow_FPV_Pod_Arrows_2.5.stl": {
+        "notes": [],
+        "hash": "e559c1681fb9ddd4c17a2b8c98887e80164ff532",
+        "links": []
+    },
+    "My_Arrow_Pod_2.5.stl": {
+        "notes": [],
+        "hash": "d77ff300d73fbb197d85a9a81f42b598c0d010cb",
+        "links": []
+    },
+    "My_Arrow_Pod_2.5.gco": {
+        "notes": [],
+        "hash": "634f3fac02b182b4c23f66f75154f27d628d8d35",
+        "analysis": {
+            "estimatedPrintTime": 39946.20270958605,
+            "printingArea": {
+                "maxZ": 49.95,
+                "minX": 36.2,
+                "maxX": 148.9,
+                "maxY": 153.9,
+                "minY": 31.3,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 112.7,
+                "depth": 122.60000000000001,
+                "height": 49.650000000000006
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 81.36547179515051,
+                    "length": 33827.8322499981
+                }
+            }
+        },
+        "links": []
+    },
+    "My_Arrow_FPV_Hood_2.5.stl": {
+        "notes": [],
+        "hash": "a2cf9e80687fa61a3f63352ba082e66acf0976c7",
+        "links": []
+    }
+}

@@ -1,0 +1,175 @@
+tripod_arm_conn.gco:
+  analysis:
+    dimensions:
+      depth: 55.599999999999994
+      height: 15.2
+      width: 72.0
+    estimatedPrintTime: 2390.5198849684407
+    filament:
+      tool0:
+        length: 2186.7928199999974
+        volume: 5.259853135211094
+    printingArea:
+      maxX: 128.5
+      maxY: 120.3
+      maxZ: 15.5
+      minX: 56.5
+      minY: 64.7
+      minZ: 0.3
+  hash: 509eef5695516a6bdc9281767a0ec003cb2646cc
+  links: []
+  notes: []
+tripod_arm_conn.stl:
+  hash: 8f61de8454ee222f39b5fe1b2b45a8b294eb5b02
+  links: []
+  notes: []
+tripod_arm_mount.gco:
+  analysis:
+    dimensions:
+      depth: 51.601
+      height: 20.8
+      width: 62.001999999999995
+    estimatedPrintTime: 3163.343856945871
+    filament:
+      tool0:
+        length: 2934.9713100000017
+        volume: 7.05943329677575
+    printingArea:
+      maxX: 123.1
+      maxY: 118.3
+      maxZ: 21.1
+      minX: 61.098
+      minY: 66.699
+      minZ: 0.3
+  hash: 2c06c3438f00c87851431042125f2203107d40b0
+  links: []
+  notes: []
+tripod_arm_mount.stl:
+  hash: 18596d13cb8ba99e6992eb0bda760710172d7565
+  links: []
+  notes: []
+tripod_backlegA.gco:
+  analysis:
+    dimensions:
+      depth: 45.599999999999994
+      height: 6.8
+      width: 114.24400000000001
+    estimatedPrintTime: 2050.6041260195702
+    filament:
+      tool0:
+        length: 1819.6590700000006
+        volume: 4.376792980486747
+    printingArea:
+      maxX: 149.544
+      maxY: 115.3
+      maxZ: 7.1
+      minX: 35.3
+      minY: 69.7
+      minZ: 0.3
+  hash: 03165c4af8df3d2e9a256f0059c9dded7676404a
+  links: []
+  notes: []
+tripod_backlegA.stl:
+  hash: 3df23a2cc7aff85e2ec8620193b975261b5bcb88
+  links: []
+  notes: []
+tripod_backlegB.gco:
+  analysis:
+    dimensions:
+      depth: 45.599999999999994
+      height: 6.8
+      width: 114.10000000000001
+    estimatedPrintTime: 2054.3624229089687
+    filament:
+      tool0:
+        length: 1814.307989999997
+        volume: 4.363922124748898
+    printingArea:
+      maxX: 149.4
+      maxY: 115.3
+      maxZ: 7.1
+      minX: 35.3
+      minY: 69.7
+      minZ: 0.3
+  hash: f99d39263128af8fd254938b4725d08010f2eb5b
+  links: []
+  notes: []
+tripod_backlegB.stl:
+  hash: ede4582a6f2df92a8e1ef6668398491b29edd617
+  links: []
+  notes: []
+tripod_frontleg.gco:
+  analysis:
+    dimensions:
+      depth: 45.599999999999994
+      height: 10.6
+      width: 123.60000000000001
+    estimatedPrintTime: 1967.223725311655
+    filament:
+      tool0:
+        length: 1718.3065499999993
+        volume: 4.133011601104153
+    printingArea:
+      maxX: 154.3
+      maxY: 115.3
+      maxZ: 10.9
+      minX: 30.7
+      minY: 69.7
+      minZ: 0.3
+  hash: 48a695025a585b107c6260940292e6c06c76a500
+  links: []
+  notes: []
+tripod_frontleg.stl:
+  hash: 654bc7137dd722b3432803f67d09685cc4ab2aa2
+  links: []
+  notes: []
+tripod_legconn.gco:
+  analysis:
+    dimensions:
+      depth: 37.599999999999994
+      height: 10.799999999999999
+      width: 52.599999999999994
+    estimatedPrintTime: 1091.4970039931475
+    filament:
+      tool0:
+        length: 1037.1268399999994
+        volume: 2.4945823907477336
+    printingArea:
+      maxX: 118.8
+      maxY: 111.3
+      maxZ: 11.1
+      minX: 66.2
+      minY: 73.7
+      minZ: 0.3
+  hash: 97e6f37a97b866e5d56f200c51251527ec3187f3
+  links: []
+  notes: []
+tripod_legconn.stl:
+  hash: 28fc96fe50f7e583cea550eb7b4d0ca6355f3a85
+  links: []
+  notes: []
+tripod_nob.gco:
+  analysis:
+    dimensions:
+      depth: 35.73599999999999
+      height: 4.8
+      width: 44.39800000000001
+    estimatedPrintTime: 514.3996044452593
+    filament:
+      tool0:
+        length: 508.0661100000006
+        volume: 1.2220422058903646
+    printingArea:
+      maxX: 114.742
+      maxY: 110.389
+      maxZ: 5.1
+      minX: 70.344
+      minY: 74.653
+      minZ: 0.3
+  hash: 8feaeb4e120f99e4e04ff19c3dd861e68522342c
+  links: []
+  notes: []
+tripod_nob.stl:
+  hash: 3c0890f62e2294838a629f5c82cb15b1aabd9ae7
+  links: []
+  notes: []

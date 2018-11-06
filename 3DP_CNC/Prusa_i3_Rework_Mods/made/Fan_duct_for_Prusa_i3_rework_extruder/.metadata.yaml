@@ -1,0 +1,35 @@
+duct-xlong.gco:
+  analysis:
+    dimensions:
+      depth: 56.2
+      height: 35.400000000000006
+      width: 47.599999999999994
+    estimatedPrintTime: 9687.849204767983
+    filament:
+      tool0:
+        length: 7089.481579999997
+        volume: 17.052201550389363
+    printingArea:
+      maxX: 116.3
+      maxY: 120.602
+      maxZ: 35.7
+      minX: 68.7
+      minY: 64.402
+      minZ: 0.3
+  hash: df02778fd54b1df7eda32ca97f2f5ffa08be0f9d
+  history:
+  - printTime: 11526.390167951584
+    printerProfile: _default
+    success: true
+    timestamp: 1495032826.043525
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 11526.390167951584
+    lastPrintTime:
+      _default: 11526.390167951584
+duct-xlong.stl:
+  hash: a7b5556a17ec206c6cc58d5fdcf92ddd3d43a238
+  links: []
+  notes: []

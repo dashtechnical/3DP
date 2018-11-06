@@ -1,0 +1,148 @@
+{
+    "MakePiZeroCase.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 6082.733523130417
+            },
+            "lastPrintTime": {
+                "_default": 6152.261434078217
+            }
+        },
+        "hash": "3f4c6287e5e76b9b89f5ee53497bcf006ccec8dd",
+        "analysis": {
+            "estimatedPrintTime": 4453.732482403088,
+            "printingArea": {
+                "maxZ": 11.55,
+                "minX": 54.622,
+                "maxX": 144.378,
+                "maxY": 139.286,
+                "minY": 60.714,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 89.75599999999999,
+                "depth": 78.572,
+                "height": 11.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 7.753259920389412,
+                    "length": 3223.4309
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1490636374.461014,
+                "printTime": 6013.205612182617,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1490636750.244003,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1490642985.509016,
+                "printTime": 6152.261434078217,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "MakePiZeroCase.stl": {
+        "hash": "eed565dcf2a177747e449c269d616b82c199f389"
+    },
+    "pi_zero_w_case_v3_bottom.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4312.510760307312
+            },
+            "lastPrintTime": {
+                "_default": 4348.552493095398
+            }
+        },
+        "hash": "9d20aa8ecbd384b9cfeeb036dfcb3ae62d73d690",
+        "analysis": {
+            "estimatedPrintTime": 4997.964507042627,
+            "printingArea": {
+                "maxZ": 9.1,
+                "minX": 56.24,
+                "maxX": 142.5,
+                "maxY": 159.5,
+                "minY": 76.5,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 86.25999999999999,
+                "depth": 83.0,
+                "height": 8.799999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 10.961836573849975,
+                    "length": 4557.40206
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1491325008.185844,
+                "printTime": 4294.013052940369,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1491352829.693989,
+                "printTime": 4294.966734886169,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1491358484.363488,
+                "printTime": 4348.552493095398,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "MakePiZeroCaseBase.gco": {
+        "hash": "f8526339d06f10bf61535be2efa586a85a82d2e0",
+        "analysis": {
+            "estimatedPrintTime": 2791,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 5.156924340867645,
+                    "length": 2144
+                }
+            }
+        }
+    },
+    "MakePiZeroCaseLid.stl": {
+        "hash": "042a89380723fc203b839e38420b0d44e5afe27d"
+    },
+    "MakePiZeroCaseBase.stl": {
+        "hash": "500c04c48658b6bd37b4677b1d190eaf5f479e50"
+    },
+    "MakePiZeroCaseLid.gco": {
+        "hash": "762477583845e1f43df34f66f28c0a8c3602e37f",
+        "analysis": {
+            "estimatedPrintTime": 1301,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 2.5399776604273474,
+                    "length": 1056
+                }
+            }
+        }
+    }
+}

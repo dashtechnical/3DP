@@ -1,0 +1,39 @@
+pikachu_1gen_flowalistik.STL:
+  hash: 6eca10fcd460b4f0900846a5e9e0a4a62af4d742
+  links: []
+  notes: []
+pikachu_edited.gco:
+  analysis:
+    dimensions:
+      depth: 48.07599999999999
+      height: 58.6
+      width: 37.105999999999995
+    estimatedPrintTime: 3617.9612165907
+    filament:
+      tool0:
+        length: 4041.8372599999975
+        volume: 9.721757904813328
+    printingArea:
+      maxX: 113.413
+      maxY: 115.848
+      maxZ: 58.9
+      minX: 76.307
+      minY: 67.772
+      minZ: 0.3
+  hash: 840e9efa7ec40972d6a1ff0329f337558a6b4e0d
+  history:
+  - printTime: 4311.07416510582
+    printerProfile: _default
+    success: true
+    timestamp: 1497906496.926859
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 4311.07416510582
+    lastPrintTime:
+      _default: 4311.07416510582
+pikachu_edited.stl:
+  hash: d5377cc3f30b9b6791cc779308f67f8e4c39c7d3
+  links: []
+  notes: []

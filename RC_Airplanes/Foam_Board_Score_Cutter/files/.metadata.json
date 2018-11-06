@@ -1,0 +1,55 @@
+{
+    "My_50_Cut_Top_1.4.stl": {
+        "notes": [],
+        "hash": "b94f4a355e5a9997164e84def7a7dcb6a7eb075b",
+        "links": []
+    },
+    "My_50_Cut_Base_1.4.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 10294.640826940536
+            },
+            "lastPrintTime": {
+                "_default": 10294.640826940536
+            }
+        },
+        "hash": "e08207fe8c7990e0468a22038eae0725bdf10f32",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 10521.416530518693,
+            "printingArea": {
+                "maxZ": 42.6,
+                "minX": 54.727,
+                "maxX": 130.227,
+                "maxY": 155.15,
+                "minY": 79.95,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 75.5,
+                "depth": 75.2,
+                "height": 42.300000000000004
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 19.206271361008138,
+                    "length": 7985.039739999999
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1495809308.677831,
+                "printTime": 10294.640826940536,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "My_50_Cut_Base_1.4.stl": {
+        "notes": [],
+        "hash": "9a16d3de391dff022367ac27a6555b1c2f754a16",
+        "links": []
+    }
+}

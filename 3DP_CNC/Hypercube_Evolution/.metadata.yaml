@@ -1,0 +1,777 @@
+Bed_Bracket_15_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 29.599999999999994
+      height: 24.7
+      width: 43.602999999999994
+    estimatedPrintTime: 1394.9487696492288
+    filament:
+      tool0:
+        length: 2095.8944999999962
+        volume: 5.041217053610356
+    printingArea:
+      maxX: 114.303
+      maxY: 107.3
+      maxZ: 25.0
+      minX: 70.7
+      minY: 77.7
+      minZ: 0.3
+  hash: 9d92f7458f7b553785d036d2043fe94caa133451
+Bed_Bracket_20_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 29.599999999999994
+      height: 24.7
+      width: 48.602000000000004
+    estimatedPrintTime: 1599.2839390285499
+    filament:
+      tool0:
+        length: 2408.378509999998
+        volume: 5.7928291792171365
+    printingArea:
+      maxX: 116.802
+      maxY: 107.3
+      maxZ: 25.0
+      minX: 68.2
+      minY: 77.7
+      minZ: 0.3
+  hash: 235f8baaf6aa5141f61b4a3e914fa21b2598c42f
+Bed_Bracket_25_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 29.599999999999994
+      height: 24.7
+      width: 53.59100000000001
+    estimatedPrintTime: 1798.0536454292585
+    filament:
+      tool0:
+        length: 2727.5689500000044
+        volume: 6.560572159351598
+    printingArea:
+      maxX: 119.296
+      maxY: 107.3
+      maxZ: 25.0
+      minX: 65.705
+      minY: 77.7
+      minZ: 0.3
+  hash: cf341b67ab1fefa0db9991b8415315304c537435
+Bed_Bracket_30_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 29.599999999999994
+      height: 24.7
+      width: 58.598000000000006
+    estimatedPrintTime: 2007.6598334801554
+    filament:
+      tool0:
+        length: 3042.2525300000007
+        volume: 7.31747487081305
+    printingArea:
+      maxX: 121.799
+      maxY: 107.3
+      maxZ: 25.0
+      minX: 63.201
+      minY: 77.7
+      minZ: 0.3
+  hash: 4552b9f1b44d6f39dedaa78892174197d67e4d47
+Bed_Bracket_45_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 29.599999999999994
+      height: 24.7
+      width: 73.596
+    estimatedPrintTime: 2639.7428608506893
+    filament:
+      tool0:
+        length: 3989.003530000001
+        volume: 9.594677891634312
+    printingArea:
+      maxX: 129.298
+      maxY: 107.3
+      maxZ: 25.0
+      minX: 55.702
+      minY: 77.7
+      minZ: 0.3
+  hash: 3eaf40f1c8e7e4780b878259ee2df3401087e5da
+Belt_Clamp_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 44.0
+      height: 4.680000000000001
+      width: 19.599999999999994
+    estimatedPrintTime: 459.6672348171039
+    filament:
+      tool0:
+        length: 617.9920299999993
+        volume: 1.486445028903547
+    printingArea:
+      maxX: 102.3
+      maxY: 114.5
+      maxZ: 4.98
+      minX: 82.7
+      minY: 70.5
+      minZ: 0.3
+  hash: 86b84eb07e449717b729b70b8589fa6a8bbf8136
+  history:
+  - printTime: 659.0661149024963
+    printerProfile: _default
+    success: true
+    timestamp: 1497383375.380336
+  - printerProfile: _default
+    success: false
+    timestamp: 1497383720.337511
+  - printTime: 682.9587781429291
+    printerProfile: _default
+    success: true
+    timestamp: 1497387356.768921
+  statistics:
+    averagePrintTime:
+      _default: 671.0124465227127
+    lastPrintTime:
+      _default: 682.9587781429291
+Belt_Tensioner_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 15.599999999999994
+      height: 6.24
+      width: 15.608999999999995
+    estimatedPrintTime: 153.18178976097587
+    filament:
+      tool0:
+        length: 111.61661999999991
+        volume: 0.2684694330799319
+    printingArea:
+      maxX: 100.309
+      maxY: 100.3
+      maxZ: 6.54
+      minX: 84.7
+      minY: 84.7
+      minZ: 0.3
+  hash: c2343779461e862ae1974055fe5d8259398180d0
+  history:
+  - printTime: 209.91552305221558
+    printerProfile: _default
+    success: true
+    timestamp: 1497387710.536686
+  - printTime: 237.53933811187744
+    printerProfile: _default
+    success: true
+    timestamp: 1497388442.881663
+  - printerProfile: _default
+    success: false
+    timestamp: 1497389457.826914
+  - printTime: 316.94946098327637
+    printerProfile: _default
+    success: true
+    timestamp: 1497389844.680982
+  - printTime: 462.8530468940735
+    printerProfile: _default
+    success: true
+    timestamp: 1497390609.532744
+  statistics:
+    averagePrintTime:
+      _default: 306.8143422603607
+    lastPrintTime:
+      _default: 462.8530468940735
+Duct_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 48.80199999999999
+      height: 14.819999999999999
+      width: 59.596000000000004
+    estimatedPrintTime: 1737.8545325466725
+    filament:
+      tool0:
+        length: 2242.5323700000067
+        volume: 5.3939224645693296
+    printingArea:
+      maxX: 124.8
+      maxY: 116.901
+      maxZ: 15.12
+      minX: 65.204
+      minY: 68.099
+      minZ: 0.3
+  hash: 7b255291dfccd4d5f243e7ebd1b1a10ff3f70973
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1497402339.318948
+  - printTime: 2557.345198869705
+    printerProfile: _default
+    success: true
+    timestamp: 1497405768.540484
+  statistics:
+    averagePrintTime:
+      _default: 2557.345198869705
+    lastPrintTime:
+      _default: 2557.345198869705
+Extruder_Mount_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 105.10400000000001
+      height: 36.660000000000004
+      width: 65.7
+    estimatedPrintTime: 9621.57012150019
+    filament:
+      tool0:
+        length: 14277.629079999182
+        volume: 34.341722449872904
+    printingArea:
+      maxX: 125.4
+      maxY: 145.05
+      maxZ: 36.96
+      minX: 59.7
+      minY: 39.946
+      minZ: 0.3
+  hash: 16b68439a20f757a756741d7a4ad01c0361da434
+  history:
+  - printTime: 13476.430917978287
+    printerProfile: _default
+    success: true
+    timestamp: 1497475942.707921
+  statistics:
+    averagePrintTime:
+      _default: 13476.430917978287
+    lastPrintTime:
+      _default: 13476.430917978287
+Retainer_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 22.298000000000002
+      height: 9.62
+      width: 64.6
+    estimatedPrintTime: 1451.7254387416192
+    filament:
+      tool0:
+        length: 2103.783560000004
+        volume: 5.060192466642355
+    printingArea:
+      maxX: 124.8
+      maxY: 103.649
+      maxZ: 9.92
+      minX: 60.2
+      minY: 81.351
+      minZ: 0.3
+  hash: c7c06345d93018068c006b5313e69f3d278a1902
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1497487115.263201
+  - printTime: 2124.3859629631042
+    printerProfile: _default
+    success: true
+    timestamp: 1497493065.285362
+  statistics:
+    averagePrintTime:
+      _default: 2124.3859629631042
+    lastPrintTime:
+      _default: 2124.3859629631042
+T_Slot_Cover_1.0_-_250mm.gco:
+  analysis:
+    dimensions:
+      depth: 19.400000000000006
+      height: 2.8600000000000003
+      width: 134.60000000000002
+    estimatedPrintTime: 683.3329331139496
+    filament:
+      tool0:
+        length: 820.8538600000007
+        volume: 1.9743849118139767
+    printingArea:
+      maxX: 159.8
+      maxY: 102.2
+      maxZ: 3.16
+      minX: 25.2
+      minY: 82.8
+      minZ: 0.3
+  hash: fa9902668803ed0fc7c652acdef78b2e9fc8caec
+XY_Idler_Mount_-_Left_-_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 72.10000000000001
+      height: 11.7
+      width: 44.774
+    estimatedPrintTime: 2981.726728217388
+    filament:
+      tool0:
+        length: 4292.793059999998
+        volume: 10.325377342081012
+    printingArea:
+      maxX: 112.476
+      maxY: 128.55
+      maxZ: 12.0
+      minX: 67.702
+      minY: 56.45
+      minZ: 0.3
+  hash: e7e1962d7ecbfd3d5e2dfe76a14a476108f83939
+  history:
+  - printTime: 4263.159127950668
+    printerProfile: _default
+    success: true
+    timestamp: 1497499570.423844
+  statistics:
+    averagePrintTime:
+      _default: 4263.159127950668
+    lastPrintTime:
+      _default: 4263.159127950668
+XY_Idler_Mount_-_Right_-_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 72.10000000000001
+      height: 11.7
+      width: 44.774
+    estimatedPrintTime: 2989.624157527062
+    filament:
+      tool0:
+        length: 4298.387410000007
+        volume: 10.338833330740703
+    printingArea:
+      maxX: 117.298
+      maxY: 128.55
+      maxZ: 12.0
+      minX: 72.524
+      minY: 56.45
+      minZ: 0.3
+  hash: 8e0ba4e6e6a00782ccc4ef27d10f710d7fad5685
+  history:
+  - printTime: 4343.217022895813
+    printerProfile: _default
+    success: true
+    timestamp: 1497527568.578002
+  statistics:
+    averagePrintTime:
+      _default: 4343.217022895813
+    lastPrintTime:
+      _default: 4343.217022895813
+XY_Stepper_Mount_-_Left_-_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 79.10000000000001
+      height: 50.7
+      width: 65.62899999999999
+    estimatedPrintTime: 7132.347818373171
+    filament:
+      tool0:
+        length: 10728.990319999988
+        volume: 25.806245958088287
+    printingArea:
+      maxX: 125.3
+      maxY: 132.05
+      maxZ: 51.0
+      minX: 59.671
+      minY: 52.95
+      minZ: 0.3
+  hash: 01832802f3af09b2c2f945f631aa5b8fe9bfa23f
+  history:
+  - printTime: 9420.222831010818
+    printerProfile: _default
+    success: true
+    timestamp: 1497584502.177897
+  statistics:
+    averagePrintTime:
+      _default: 9420.222831010818
+    lastPrintTime:
+      _default: 9420.222831010818
+XY_Stepper_Mount_-_Right_-_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 79.10000000000001
+      height: 50.7
+      width: 65.611
+    estimatedPrintTime: 7155.151620946172
+    filament:
+      tool0:
+        length: 10749.871129999987
+        volume: 25.85647019192505
+    printingArea:
+      maxX: 125.311
+      maxY: 132.05
+      maxZ: 51.0
+      minX: 59.7
+      minY: 52.95
+      minZ: 0.3
+  hash: d4921f6a16fe6d788e99bab110673faff8b5a987
+  history:
+  - printTime: 9324.54301905632
+    printerProfile: _default
+    success: true
+    timestamp: 1497617333.764077
+  statistics:
+    averagePrintTime:
+      _default: 9324.54301905632
+    lastPrintTime:
+      _default: 9324.54301905632
+X_Carriage_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 74.60000000000001
+      height: 21.06
+      width: 64.6
+    estimatedPrintTime: 8207.124161087439
+    filament:
+      tool0:
+        length: 11887.177239999844
+        volume: 28.592011965094716
+    printingArea:
+      maxX: 124.8
+      maxY: 129.8
+      maxZ: 21.36
+      minX: 60.2
+      minY: 55.2
+      minZ: 0.3
+  hash: ff37069d1d17f5d1c8537aafb63b7da8f513ad85
+  history:
+  - printTime: 11775.052752017975
+    printerProfile: _default
+    success: true
+    timestamp: 1497364795.98201
+  statistics:
+    averagePrintTime:
+      _default: 11775.052752017975
+    lastPrintTime:
+      _default: 11775.052752017975
+X_End_Stop_Flag_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 17.599999999999994
+      height: 1.82
+      width: 32.599999999999994
+    estimatedPrintTime: 127.09472991888302
+    filament:
+      tool0:
+        length: 150.98054999999988
+        volume: 0.36315078045363053
+    printingArea:
+      maxX: 108.8
+      maxY: 101.3
+      maxZ: 2.12
+      minX: 76.2
+      minY: 83.7
+      minZ: 0.3
+  hash: 130132318795d18ab82329400161ae9e25492c04
+  history:
+  - printTime: 173.99254894256592
+    printerProfile: _default
+    success: true
+    timestamp: 1497494823.12588
+  - printTime: 318.2171130180359
+    printerProfile: _default
+    success: true
+    timestamp: 1497495181.625844
+  statistics:
+    averagePrintTime:
+      _default: 246.1048309803009
+    lastPrintTime:
+      _default: 318.2171130180359
+Y_Carriage_Clamp_LM10UU_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 72.60199999999999
+      height: 12.219999999999999
+      width: 44.599999999999994
+    estimatedPrintTime: 3695.7014497327373
+    filament:
+      tool0:
+        length: 5425.887570000001
+        volume: 13.050789030104571
+    printingArea:
+      maxX: 114.8
+      maxY: 128.801
+      maxZ: 12.52
+      minX: 70.2
+      minY: 56.199
+      minZ: 0.3
+  hash: c914b49d91ea9b404c24b9537ee7264b250e3948
+  history:
+  - printTime: 4750.134203910828
+    printerProfile: _default
+    success: true
+    timestamp: 1497650673.059821
+  - printTime: 5019.2933621406555
+    printerProfile: _default
+    success: true
+    timestamp: 1497667415.018194
+  statistics:
+    averagePrintTime:
+      _default: 4884.713783025742
+    lastPrintTime:
+      _default: 5019.2933621406555
+Y_Carriage_xDia10_LM10UU_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 45.60000000000001
+      height: 44.720000000000006
+      width: 72.60000000000001
+    estimatedPrintTime: 9300.734212811332
+    filament:
+      tool0:
+        length: 13958.087429999674
+        volume: 33.57313471069217
+    printingArea:
+      maxX: 128.8
+      maxY: 115.4
+      maxZ: 45.02
+      minX: 56.2
+      minY: 69.8
+      minZ: 0.3
+  hash: 56240c6c93f0ac95274eb27a6af5fe0140fec6b6
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1497738138.602601
+  - printTime: 11651.7114880085
+    printerProfile: _default
+    success: true
+    timestamp: 1497749854.201995
+  - printTime: 11941.67057800293
+    printerProfile: _default
+    success: true
+    timestamp: 1497771273.531935
+  statistics:
+    averagePrintTime:
+      _default: 11796.691033005714
+    lastPrintTime:
+      _default: 11941.67057800293
+Y_End_Stop_Bracket_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 34.599999999999994
+      height: 23.66
+      width: 22.599999999999994
+    estimatedPrintTime: 895.4186050065427
+    filament:
+      tool0:
+        length: 1327.3616399999994
+        volume: 3.192678894799437
+    printingArea:
+      maxX: 103.8
+      maxY: 109.8
+      maxZ: 23.96
+      minX: 81.2
+      minY: 75.2
+      minZ: 0.3
+  hash: 6c4b7ada1bca470de1418780c780b5dad77d0609
+  history:
+  - printTime: 1492.005522966385
+    printerProfile: _default
+    success: true
+    timestamp: 1497805073.0596
+  - printTime: 1517.5726351737976
+    printerProfile: _default
+    success: true
+    timestamp: 1497808262.946773
+  statistics:
+    averagePrintTime:
+      _default: 1504.7890790700912
+    lastPrintTime:
+      _default: 1517.5726351737976
+Y_End_Stop_Flag_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 31.49799999999999
+      height: 11.7
+      width: 24.599999999999994
+    estimatedPrintTime: 529.4167043922452
+    filament:
+      tool0:
+        length: 767.1867499999995
+        volume: 1.8453003848256242
+    printingArea:
+      maxX: 104.8
+      maxY: 108.249
+      maxZ: 12.0
+      minX: 80.2
+      minY: 76.751
+      minZ: 0.3
+  hash: 8d21d9aabca9a7e57b8acdf5c6bba4a48093e1a0
+  history:
+  - printTime: 1002.6835911273956
+    printerProfile: _default
+    success: true
+    timestamp: 1497815561.224659
+  statistics:
+    averagePrintTime:
+      _default: 1002.6835911273956
+    lastPrintTime:
+      _default: 1002.6835911273956
+Z_Axis_Bearing_Holder_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 59.5
+      height: 42.64
+      width: 81.60000000000001
+    estimatedPrintTime: 8135.259634774755
+    filament:
+      tool0:
+        length: 12183.468060000314
+        volume: 29.30467490429064
+    printingArea:
+      maxX: 133.3
+      maxY: 122.05
+      maxZ: 42.94
+      minX: 51.7
+      minY: 62.55
+      minZ: 0.3
+  hash: 6eda62c59019ff138b8512d0086af0ab625d892e
+  history:
+  - printTime: 10720.834895849228
+    printerProfile: _default
+    success: true
+    timestamp: 1497826317.697319
+  - printTime: 10935.4973590374
+    printerProfile: _default
+    success: true
+    timestamp: 1497841362.38004
+  - printTime: 10937.363313913345
+    printerProfile: _default
+    success: true
+    timestamp: 1497856649.490542
+  - printTime: 10935.099113941193
+    printerProfile: _default
+    success: true
+    timestamp: 1497879419.101744
+  statistics:
+    averagePrintTime:
+      _default: 10882.198670685291
+    lastPrintTime:
+      _default: 10935.099113941193
+Z_Axis_Linear_Rail_Bracket_-_Double_Z_-_Left_1.1.gco:
+  analysis:
+    dimensions:
+      depth: 36.101
+      height: 54.080000000000005
+      width: 66.6
+    estimatedPrintTime: 5153.872064420276
+    filament:
+      tool0:
+        length: 7849.799199999997
+        volume: 18.88097974132619
+    printingArea:
+      maxX: 125.8
+      maxY: 108.051
+      maxZ: 54.38
+      minX: 59.2
+      minY: 71.95
+      minZ: 0.3
+  hash: 5990af9b1ce719782c8b4fd4386c43df8406bc01
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1501178196.24198
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+Z_Axis_Linear_Rail_Bracket_-_Double_Z_-_Right_1.1.gco:
+  analysis:
+    dimensions:
+      depth: 36.101
+      height: 54.080000000000005
+      width: 66.6
+    estimatedPrintTime: 5207.504586624301
+    filament:
+      tool0:
+        length: 7848.089240000001
+        volume: 18.876866805530533
+    printingArea:
+      maxX: 125.8
+      maxY: 108.051
+      maxZ: 54.38
+      minX: 59.2
+      minY: 71.95
+      minZ: 0.3
+  hash: ada98c19a3d131280495389a31a23962760b34a7
+Z_Axis_Linear_Rail_Bracket_-_Left_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 34.599999999999994
+      height: 29.64
+      width: 66.6
+    estimatedPrintTime: 2784.793304695339
+    filament:
+      tool0:
+        length: 4111.423070000001
+        volume: 9.88913139239169
+    printingArea:
+      maxX: 125.8
+      maxY: 109.8
+      maxZ: 29.94
+      minX: 59.2
+      minY: 75.2
+      minZ: 0.3
+  hash: 10f426fbf4266c37bddc05d24ebbfd7cecea87f7
+Z_Axis_Linear_Rail_Bracket_-_Right_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 34.599999999999994
+      height: 29.64
+      width: 66.6
+    estimatedPrintTime: 2764.9246680024366
+    filament:
+      tool0:
+        length: 4106.812449999999
+        volume: 9.87804155167131
+    printingArea:
+      maxX: 125.8
+      maxY: 109.8
+      maxZ: 29.94
+      minX: 59.2
+      minY: 75.2
+      minZ: 0.3
+  hash: 1c84304b00a2d11aec66efe3368defcd1cdf1be5
+Z_Motor_Mount_1.0.gco:
+  analysis:
+    dimensions:
+      depth: 77.60000000000001
+      height: 29.64
+      width: 84.60000000000001
+    estimatedPrintTime: 5839.201720080568
+    filament:
+      tool0:
+        length: 8445.831660000003
+        volume: 20.314605814517076
+    printingArea:
+      maxX: 134.8
+      maxY: 131.3
+      maxZ: 29.94
+      minX: 50.2
+      minY: 53.7
+      minZ: 0.3
+  hash: edc9e01b2531646f1c5f76b1707d7560e3d4e471
+Z_Nut_Braket_1.1.gco:
+  analysis:
+    dimensions:
+      depth: 70.6
+      height: 20.8
+      width: 68.6
+    estimatedPrintTime: 4533.71886031738
+    filament:
+      tool0:
+        length: 6651.5699
+        volume: 15.998900523457356
+    printingArea:
+      maxX: 126.8
+      maxY: 127.8
+      maxZ: 21.1
+      minX: 58.2
+      minY: 57.2
+      minZ: 0.3
+  hash: 9ddac99b8117467a5da1c93438878b78be4b0f46
+Z_Nut_Braket_T10_nut_1.1.gco:
+  analysis:
+    dimensions:
+      depth: 74.60000000000001
+      height: 20.8
+      width: 78.60000000000001
+    estimatedPrintTime: 5548.1468004318795
+    filament:
+      tool0:
+        length: 8171.5786100000005
+        volume: 19.654949924077613
+    printingArea:
+      maxX: 131.8
+      maxY: 129.8
+      maxZ: 21.1
+      minX: 53.2
+      minY: 55.2
+      minZ: 0.3
+  hash: bc831b40c42c50fe3aff9df17ccc84b17b4767bf

@@ -1,0 +1,349 @@
+1_x_135mm_Bed.gco:
+  analysis:
+    dimensions:
+      depth: 29.604
+      height: 67.2
+      width: 53.602999999999994
+    estimatedPrintTime: 10786.141795860147
+    filament:
+      tool0:
+        length: 11233.563509998832
+        volume: 27.01988670680763
+    printingArea:
+      maxX: 124.524
+      maxY: 107.304
+      maxZ: 67.5
+      minX: 70.921
+      minY: 77.7
+      minZ: 0.3
+  hash: 447401ac044598c84ad084c23da2410c3108c6c4
+  links: []
+  notes: []
+1_x_135mm_Bed.stl:
+  hash: c1ed38f8a75e33bba605f6474f610e070ce302a4
+  links: []
+  notes: []
+1_x_285mm_Bed.gco:
+  analysis:
+    dimensions:
+      depth: 51.604
+      height: 81.2
+      width: 53.604
+    estimatedPrintTime: 22976.914641884017
+    filament:
+      tool0:
+        length: 23741.868369981432
+        volume: 57.105885678560114
+    printingArea:
+      maxX: 107.3
+      maxY: 118.3
+      maxZ: 81.5
+      minX: 53.696
+      minY: 66.696
+      minZ: 0.3
+  hash: f2acd99531d9b7ecc5ce9dd58458254c838e2de7
+  links: []
+  notes: []
+1_x_285mm_Bed.stl:
+  hash: b29bd9c27e58297d558e3fed4520df428aa6f615
+  links: []
+  notes: []
+1_x_350mm_Z.gco:
+  analysis:
+    dimensions:
+      depth: 55.59899999999999
+      height: 68.2
+      width: 74.59899999999999
+    estimatedPrintTime: 29629.566886730063
+    filament:
+      tool0:
+        length: 29701.32108997375
+        volume: 71.44004929328878
+    printingArea:
+      maxX: 129.355
+      maxY: 132.523
+      maxZ: 68.5
+      minX: 54.756
+      minY: 76.924
+      minZ: 0.3
+  hash: cf2ddc0d48f648e5cfaad543c88281dde1e722e4
+  links: []
+  notes: []
+1_x_350mm_Z.stl:
+  hash: 34376dab9894544989ab3b59fc2ff8c530d08696
+  links: []
+  notes: []
+2_x_285mm_Bed.gco:
+  analysis:
+    dimensions:
+      depth: 97.604
+      height: 81.2
+      width: 51.604
+    estimatedPrintTime: 46234.23194622801
+    filament:
+      tool0:
+        length: 47435.66800000755
+        volume: 114.09615248813216
+    printingArea:
+      maxX: 118.3
+      maxY: 164.304
+      maxZ: 81.5
+      minX: 66.696
+      minY: 66.7
+      minZ: 0.3
+  hash: 2a099cd3c973153373192d56c2cb76e898f325a1
+  links: []
+  notes: []
+2_x_285mm_Bed.stl:
+  hash: 6a162d3e9837b854808b0c4f1eb45e66d302e596
+  links: []
+  notes: []
+303mm_Y.gco:
+  analysis:
+    dimensions:
+      depth: 59.60000000000001
+      height: 88.2
+      width: 52.602999999999994
+    estimatedPrintTime: 24447.66894668441
+    filament:
+      tool0:
+        length: 25169.006389977025
+        volume: 60.53855489175645
+    printingArea:
+      maxX: 118.803
+      maxY: 135.8
+      maxZ: 88.5
+      minX: 66.2
+      minY: 76.2
+      minZ: 0.3
+  hash: e083c44565793749a7ce12f2f26a70178fd52be3
+  links: []
+  notes: []
+303mm_Y.stl:
+  hash: 0689b87c6633ed7b4b178f0910c095054b9fff25
+  links: []
+  notes: []
+303mm_Y_middle.gco:
+  analysis:
+    dimensions:
+      depth: 53.60000000000001
+      height: 68.2
+      width: 29.599999999999994
+    estimatedPrintTime: 9731.65202490925
+    filament:
+      tool0:
+        length: 9799.262419999965
+        volume: 23.56998829116017
+    printingArea:
+      maxX: 107.3
+      maxY: 131.3
+      maxZ: 68.5
+      minX: 77.7
+      minY: 77.7
+      minZ: 0.3
+  hash: 1ad4dd0017ca1537e1d9cf389044dbb72991ac56
+  links: []
+  notes: []
+303mm_Y_middle.stl:
+  hash: b8c0ac97d07c84dbdbe71dd614ea4c43b7403051
+  links: []
+  notes: []
+4_x_303mm_Y.gco:
+  analysis:
+    dimensions:
+      depth: 106.685
+      height: 88.2
+      width: 96.206
+    estimatedPrintTime: 97950.22570113356
+    filament:
+      tool0:
+        length: 100602.23486982395
+        volume: 241.97673215759278
+    printingArea:
+      maxX: 147.881
+      maxY: 137.589
+      maxZ: 88.5
+      minX: 51.675
+      minY: 30.904
+      minZ: 0.3
+  hash: c1a6e581fa529910d1d9490a4a28bfbdf06552d2
+  links: []
+  notes: []
+4_x_303mm_Y.stl:
+  hash: 700e0e1c50a801301219f90943fdfc8ab3958239
+  links: []
+  notes: []
+4_x_340mm_X.gco:
+  analysis:
+    dimensions:
+      depth: 97.897
+      height: 88.2
+      width: 97.15100000000001
+    estimatedPrintTime: 110070.96682641235
+    filament:
+      tool0:
+        length: 113022.05635977033
+        volume: 271.8499036831224
+    printingArea:
+      maxX: 142.864
+      maxY: 134.763
+      maxZ: 88.5
+      minX: 45.713
+      minY: 36.866
+      minZ: 0.3
+  hash: 20bd80b7e93072aa1c416358734a26e2b1e13273
+  links: []
+  notes: []
+4_x_340mm_X.stl:
+  hash: e613e8c8d28080aed3b0a57f6f89a6083a96659a
+  links: []
+  notes: []
+4_x_350mm_Z.gco:
+  analysis:
+    dimensions:
+      depth: 96.60000000000001
+      height: 68.2
+      width: 143.60000000000002
+    estimatedPrintTime: 114137.71209250114
+    filament:
+      tool0:
+        length: 116510.27726980254
+        volume: 280.2400582154305
+    printingArea:
+      maxX: 164.3
+      maxY: 140.8
+      maxZ: 68.5
+      minX: 20.7
+      minY: 44.2
+      minZ: 0.3
+  hash: b32ec549a5f3bbd64b174f126c77fcd6164a3135
+  links: []
+  notes: []
+4_x_350mm_Z.stl:
+  hash: 72d8dba7334a51b89fc49772e030ceabb3f87322
+  links: []
+  notes: []
+HyperCube_x_340mm.gco:
+  analysis:
+    dimensions:
+      depth: 53.60000000000001
+      height: 88.2
+      width: 51.602999999999994
+    estimatedPrintTime: 27747.312997694888
+    filament:
+      tool0:
+        length: 28293.139729970695
+        volume: 68.05297619079073
+    printingArea:
+      maxX: 118.303
+      maxY: 131.3
+      maxZ: 88.5
+      minX: 66.7
+      minY: 77.7
+      minZ: 0.3
+  hash: 89f07ca788cb41566920396180342807290feb12
+  links: []
+  notes: []
+HyperCube_x_340mm.stl:
+  hash: 7a7cf939f0becf0ca8c47c640b8d50a4b3314447
+  links: []
+  notes: []
+extender_2.gco:
+  analysis:
+    dimensions:
+      depth: 34.599999999999994
+      height: 4.2
+      width: 14.827000000000012
+    estimatedPrintTime: 319.0858902930592
+    filament:
+      tool0:
+        length: 346.2694200000004
+        volume: 0.8328755599328935
+    printingArea:
+      maxX: 99.906
+      maxY: 109.8
+      maxZ: 4.5
+      minX: 85.079
+      minY: 75.2
+      minZ: 0.3
+  hash: d3db203820eab78f0753f916af63ea23d7f7eec8
+  links: []
+  notes: []
+extender_2.stl:
+  hash: 5d89fd75cfc3170964e43a701de8bbe90bd17ac2
+  links: []
+  notes: []
+extender_2X25.gco:
+  analysis:
+    dimensions:
+      depth: 150.60000000000002
+      height: 4.2
+      width: 130.027
+    estimatedPrintTime: 9418.981205890948
+    filament:
+      tool0:
+        length: 9864.31124000002
+        volume: 23.726449038922762
+    printingArea:
+      maxX: 157.506
+      maxY: 167.8
+      maxZ: 4.5
+      minX: 27.479
+      minY: 17.2
+      minZ: 0.3
+  hash: c8fae7742343211c2bb17febcc69eb004b3de1c2
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1497915950.148427
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+t_slot_nut.STL:
+  hash: e5b5d510c48fff0789fb307353888548ca1cc2d3
+  links: []
+  notes: []
+t_slot_nut.gco:
+  analysis:
+    dimensions:
+      depth: 25.60000000000001
+      height: 4.8
+      width: 21.700000000000003
+    estimatedPrintTime: 214.6443425824137
+    filament:
+      tool0:
+        length: 226.18988999999996
+        volume: 0.5440504428167793
+    printingArea:
+      maxX: 103.4
+      maxY: 105.4
+      maxZ: 5.1
+      minX: 81.7
+      minY: 79.8
+      minZ: 0.3
+  hash: 0dc5e89cec02daab653caae9dce923d1e416972a
+  links: []
+  notes: []
+t_slot_nutX49.gcode:
+  analysis:
+    dimensions:
+      depth: 139.6
+      height: 4.8
+      width: 141.70000000000002
+    estimatedPrintTime: 9280.079219834593
+    filament:
+      tool0:
+        length: 9448.17830999997
+        volume: 22.725532044634598
+    printingArea:
+      maxX: 163.4
+      maxY: 162.4
+      maxZ: 5.1
+      minX: 21.7
+      minY: 22.8
+      minZ: 0.3
+  hash: ad1ac7c4fb8f5f7519b6564d17cf87fab3c334f3
+  links: []
+  notes: []

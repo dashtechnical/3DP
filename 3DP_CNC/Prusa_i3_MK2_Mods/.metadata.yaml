@@ -1,0 +1,29 @@
+tr8x4_nut.gco:
+  analysis:
+    dimensions:
+      depth: 98.63400000000001
+      height: 9.75
+      width: 98.63799999999999
+    estimatedPrintTime: 8064.999445494385
+    filament:
+      tool0:
+        length: 6165.030889999999
+        volume: 14.828637061027013
+    printingArea:
+      maxX: 149.319
+      maxY: 149.317
+      maxZ: 10.05
+      minX: 50.681
+      minY: 50.683
+      minZ: 0.3
+  hash: 8469e03a3b248b1bfee8e230f2247a10b32759ee
+  history:
+  - printTime: 9778.045803785324
+    printerProfile: _default
+    success: true
+    timestamp: 1492194579.001868
+  statistics:
+    averagePrintTime:
+      _default: 9778.045803785324
+    lastPrintTime:
+      _default: 9778.045803785324

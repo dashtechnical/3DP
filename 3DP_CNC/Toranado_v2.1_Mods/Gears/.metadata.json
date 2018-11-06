@@ -1,0 +1,243 @@
+{
+    "engrenage_19_dents_48_pitch.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 452.4675431251526
+            },
+            "lastPrintTime": {
+                "_default": 452.4675431251526
+            }
+        },
+        "hash": "07c950f180582a8f558838005a3fd18f8d9ade34",
+        "analysis": {
+            "estimatedPrintTime": 310.69492054383613,
+            "printingArea": {
+                "maxZ": 14.08,
+                "minX": 81.592,
+                "maxX": 103.475,
+                "maxY": 103.492,
+                "minY": 81.516,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 21.882999999999996,
+                "depth": 21.976,
+                "height": 13.78
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.7838325600251337,
+                    "length": 325.8797099999995
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1497138299.024482,
+                "printTime": 452.4675431251526,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "MainGear_19T_48dp.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 541.328813791275
+            },
+            "lastPrintTime": {
+                "_default": 541.328813791275
+            }
+        },
+        "hash": "1a9d724af15f355eb12360501400b016debadf2e",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 471.3436090769047,
+            "printingArea": {
+                "maxZ": 10.05,
+                "minX": 85.775,
+                "maxX": 114.289,
+                "maxY": 114.274,
+                "minY": 85.932,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 28.513999999999996,
+                "depth": 28.342,
+                "height": 9.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.7065717312150622,
+                    "length": 293.75839000000053
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492272134.482303,
+                "printTime": 541.328813791275,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "PI_MainGear_94T_48dp.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 5738.899014393489
+            },
+            "lastPrintTime": {
+                "_default": 5851.377035140991
+            }
+        },
+        "hash": "0d459c95eab32394206941e57faaa209f3111296",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 4285.152540277748,
+            "printingArea": {
+                "maxZ": 11.55,
+                "minX": 69.644,
+                "maxX": 130.407,
+                "maxY": 130.405,
+                "minY": 69.646,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 60.763000000000005,
+                "depth": 60.759,
+                "height": 11.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3319.41069
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492278079.683804,
+                "printTime": 5084.679754018784,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1492320086.335346,
+                "printTime": 5299.090324878693,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1492368899.246377,
+                "printTime": 6957.256520032883,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1492385572.90071,
+                "printTime": 5403.79923415184,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1492394010.246093,
+                "printTime": 5837.191218137741,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1492400709.411731,
+                "printTime": 5851.377035140991,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "engrenage_94_dents_48_pitch_maj_may.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 2961.5133690834045
+            },
+            "lastPrintTime": {
+                "_default": 2961.5133690834045
+            }
+        },
+        "hash": "5dcbcec5377fcada0d38aefe9810c96a53f31b36",
+        "analysis": {
+            "estimatedPrintTime": 2069.5540029997387,
+            "printingArea": {
+                "maxZ": 10.7,
+                "minX": 61.525,
+                "maxX": 123.475,
+                "maxY": 123.466,
+                "minY": 61.534,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 61.949999999999996,
+                "depth": 61.931999999999995,
+                "height": 10.399999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 7.055240529674626,
+                    "length": 2933.228159999997
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1497133114.69442,
+                "printTime": 2961.5133690834045,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "MainGear_94T_48dp_-1.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 6968.662805080414
+            },
+            "lastPrintTime": {
+                "_default": 6968.662805080414
+            }
+        },
+        "hash": "abbadb7fd7b421c8437cb84065a686b09cdfdc75",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 5055.6388531295925,
+            "printingArea": {
+                "maxZ": 11.55,
+                "minX": 57.306,
+                "maxX": 142.714,
+                "maxY": 134.05,
+                "minY": 65.936,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 85.408,
+                "depth": 68.114,
+                "height": 11.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 7.002966779205333,
+                    "length": 2911.4952600002835
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1495512723.379592,
+                "printTime": 6968.662805080414,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

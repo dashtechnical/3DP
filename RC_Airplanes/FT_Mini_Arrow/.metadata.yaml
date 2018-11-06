@@ -1,0 +1,21 @@
+MiniArrow.gco:
+  analysis:
+    dimensions:
+      depth: 139.191
+      height: 36.900000000000006
+      width: 158.1
+    estimatedPrintTime: 34712.333194787585
+    filament:
+      tool0:
+        length: 30462.65122000914
+        volume: 73.2712628562624
+    printingArea:
+      maxX: 167.988
+      maxY: 161.808
+      maxZ: 37.2
+      minX: 9.888
+      minY: 22.617
+      minZ: 0.3
+  hash: 65bf9c5deed19e831f465125baf15e41eac474df
+  links: []
+  notes: []

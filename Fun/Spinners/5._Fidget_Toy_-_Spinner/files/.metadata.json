@@ -1,0 +1,108 @@
+{
+    "Spinner.STL": {
+        "notes": [],
+        "hash": "231f563f6b2c3436af98cff481b21f8be34c543e",
+        "links": []
+    },
+    "Bouton_spinning.gco": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "91b08e08c1ccbb2341b6fc8b3463cd644aea3647",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 5495.151074175378,
+            "printingArea": {
+                "maxZ": 10.2,
+                "minX": 59.45,
+                "maxX": 125.55,
+                "maxY": 125.55,
+                "minY": 59.55,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 66.1,
+                "depth": 66.0,
+                "height": 9.899999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 9.951123107011602,
+                    "length": 4137.196230000004
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493690215.775546,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "Bouton_spinning_Femelle.STL": {
+        "notes": [],
+        "hash": "c1ee5a2291f5e94b9895836e57ed3ef65c0cc22b",
+        "links": []
+    },
+    "Bouton_spinning_femelle_Plat.STL": {
+        "notes": [],
+        "hash": "099af4989f83b4039091cf460de03c83edd719f9",
+        "links": []
+    },
+    "Bouton_spinning_Male_Plat.STL": {
+        "notes": [],
+        "hash": "dbdc90362a53629e1db91ab033ff8692ad3cd884",
+        "links": []
+    },
+    "Bouton_spinning_Male.STL": {
+        "notes": [],
+        "hash": "3cd50e792c8c5201b7001a30e3cd182232954844",
+        "links": []
+    },
+    "Spinner.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3552.145550966263
+            },
+            "lastPrintTime": {
+                "_default": 3552.145550966263
+            }
+        },
+        "hash": "b40dd0aee03ebfab3eeff4d31de41ae6679e74cf",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 3728.7755615755036,
+            "printingArea": {
+                "maxZ": 7.05,
+                "minX": 56.068,
+                "maxX": 128.932,
+                "maxY": 131.948,
+                "minY": 53.052,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 72.86399999999999,
+                "depth": 78.89600000000002,
+                "height": 6.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 6.823558151076071,
+                    "length": 2836.905820000002
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493676864.147614,
+                "printTime": 3552.145550966263,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

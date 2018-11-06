@@ -1,0 +1,221 @@
+PI_e3d_Titan_extruder_-_175_filament_feed-1.gcode:
+  analysis:
+    dimensions:
+      depth: 25.662999999999997
+      height: 20.8
+      width: 20.074000000000012
+    estimatedPrintTime: 597.383261295416
+    filament:
+      tool0:
+        length: 379.97359000000006
+        volume: 0.0
+    printingArea:
+      maxX: 102.537
+      maxY: 105.326
+      maxZ: 21.1
+      minX: 82.463
+      minY: 79.663
+      minZ: 0.3
+  hash: 08ec441e28fbceed1a6a079ba1c05e254bc56a77
+  history:
+  - printTime: 989.5995700359344
+    printerProfile: _default
+    success: true
+    timestamp: 1505348398.558482
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 989.5995700359344
+    lastPrintTime:
+      _default: 989.5995700359344
+PI_e3d_Titan_extruder_-_big_gear-1.gcode:
+  analysis:
+    dimensions:
+      depth: 43.554
+      height: 20.0
+      width: 43.581999999999994
+    estimatedPrintTime: 2012.856246586703
+    filament:
+      tool0:
+        length: 2214.984130000002
+        volume: 0.0
+    printingArea:
+      maxX: 114.294
+      maxY: 114.275
+      maxZ: 20.3
+      minX: 70.712
+      minY: 70.721
+      minZ: 0.3
+  hash: df44940573b961de239202f1a063428684106a1b
+  history:
+  - printTime: 2488.4839968681335
+    printerProfile: _default
+    success: true
+    timestamp: 1505354392.080754
+  - printTime: 2912.136467933655
+    printerProfile: _default
+    success: true
+    timestamp: 1505444231.325514
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 2700.310232400894
+    lastPrintTime:
+      _default: 2912.136467933655
+PI_e3d_Titan_extruder_-_cilindar_fitting-1.gcode:
+  analysis:
+    dimensions:
+      depth: 25.61
+      height: 12.6
+      width: 25.656999999999996
+    estimatedPrintTime: 631.170007182162
+    filament:
+      tool0:
+        length: 689.7197399999999
+        volume: 0.0
+    printingArea:
+      maxX: 105.325
+      maxY: 105.284
+      maxZ: 12.9
+      minX: 79.668
+      minY: 79.674
+      minZ: 0.3
+  hash: 7a3c3ed777bf34fe83f10b70e4fce261a90ea2a6
+  history:
+  - printTime: 1324.8076548576355
+    printerProfile: _default
+    success: true
+    timestamp: 1505360303.50815
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1324.8076548576355
+    lastPrintTime:
+      _default: 1324.8076548576355
+PI_e3d_Titan_extruder_-_e3d_extruder-1.gcode:
+  analysis:
+    dimensions:
+      depth: 56.077
+      height: 23.4
+      width: 57.227000000000004
+    estimatedPrintTime: 4730.088780032954
+    filament:
+      tool0:
+        length: 4853.120140000143
+        volume: 0.0
+    printingArea:
+      maxX: 122.337
+      maxY: 120.635
+      maxZ: 23.7
+      minX: 65.11
+      minY: 64.558
+      minZ: 0.3
+  hash: cc50efd4b50b1a779f582d3d7099a8d0fa78d7b9
+  history:
+  - printTime: 7538.024370908737
+    printerProfile: _default
+    success: true
+    timestamp: 1505395797.359185
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 7538.024370908737
+    lastPrintTime:
+      _default: 7538.024370908737
+PI_e3d_Titan_extruder_-_gornji_dio_e3d_extruder-1.gcode:
+  analysis:
+    dimensions:
+      depth: 55.873000000000005
+      height: 9.2
+      width: 57.247
+    estimatedPrintTime: 1986.7859502475121
+    filament:
+      tool0:
+        length: 2236.3316499999987
+        volume: 0.0
+    printingArea:
+      maxX: 122.336
+      maxY: 120.437
+      maxZ: 9.5
+      minX: 65.089
+      minY: 64.564
+      minZ: 0.3
+  hash: abaa5805f96e93965575b18d837bdac41c51e625
+  history:
+  - printTime: 2901.2774591445923
+    printerProfile: _default
+    success: true
+    timestamp: 1505426642.370005
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 2901.2774591445923
+    lastPrintTime:
+      _default: 2901.2774591445923
+PI_e3d_Titan_extruder_-_polugica-1.gcode:
+  analysis:
+    dimensions:
+      depth: 31.531000000000006
+      height: 7.8
+      width: 60.53
+    estimatedPrintTime: 1414.881153107038
+    filament:
+      tool0:
+        length: 1455.6263400000007
+        volume: 0.0
+    printingArea:
+      maxX: 122.765
+      maxY: 108.263
+      maxZ: 8.1
+      minX: 62.235
+      minY: 76.732
+      minZ: 0.3
+  hash: a55c785efb992eb3fdc535c74681a09710df6caf
+  history:
+  - printTime: 2462.454750061035
+    printerProfile: _default
+    success: true
+    timestamp: 1505429481.798828
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 2462.454750061035
+    lastPrintTime:
+      _default: 2462.454750061035
+PI_e3d_Titan_extruder_-_small_gear-1.gcode:
+  analysis:
+    dimensions:
+      depth: 20.638999999999996
+      height: 8.799999999999999
+      width: 20.575000000000003
+    estimatedPrintTime: 251.16078605078866
+    filament:
+      tool0:
+        length: 223.88793
+        volume: 0.0
+    printingArea:
+      maxX: 102.787
+      maxY: 102.82
+      maxZ: 9.1
+      minX: 82.212
+      minY: 82.181
+      minZ: 0.3
+  hash: 251fd1c0309d8a5640f163eab8a87e3218f04ec3
+  history:
+  - printTime: 855.7295460700989
+    printerProfile: _default
+    success: true
+    timestamp: 1505441214.000797
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 855.7295460700989
+    lastPrintTime:
+      _default: 855.7295460700989

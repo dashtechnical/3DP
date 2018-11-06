@@ -1,0 +1,61 @@
+{
+    "babyBrachio.gco": {
+        "notes": [],
+        "hash": "2477261d74c94d855b73d9e155bfb257bef7bd2f",
+        "analysis": {
+            "estimatedPrintTime": 9221.587096138419,
+            "printingArea": {
+                "maxZ": 55.35,
+                "minX": 73.653,
+                "maxX": 127.352,
+                "maxY": 142.952,
+                "minY": 57.152,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 53.699,
+                "depth": 85.8,
+                "height": 55.050000000000004
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 20.131331730044955,
+                    "length": 8369.635149999993
+                }
+            }
+        },
+        "links": []
+    },
+    "babyBrachio.stl": {
+        "notes": [],
+        "hash": "c288f2d981611256b86f459732ea509f4a06f0e0",
+        "links": []
+    },
+    "MAKE_Robot_Arms_Down_Supportless_V4.1.gco": {
+        "notes": [],
+        "hash": "1ae0725b09fde97203a86e6962f48786a6c6f04d",
+        "analysis": {
+            "estimatedPrintTime": 2670.874622931132,
+            "printingArea": {
+                "maxZ": 28.95,
+                "minX": 74.751,
+                "maxX": 110.251,
+                "maxY": 104.364,
+                "minY": 80.236,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 35.5,
+                "depth": 24.128,
+                "height": 28.65
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 5.585260112211782,
+                    "length": 2322.081319999998
+                }
+            }
+        },
+        "links": []
+    }
+}

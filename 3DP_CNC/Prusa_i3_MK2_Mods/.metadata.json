@@ -1,0 +1,43 @@
+{
+    "tr8x4_nut.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 9778.045803785324
+            },
+            "lastPrintTime": {
+                "_default": 9778.045803785324
+            }
+        },
+        "hash": "8469e03a3b248b1bfee8e230f2247a10b32759ee",
+        "analysis": {
+            "estimatedPrintTime": 8064.999445494385,
+            "printingArea": {
+                "maxZ": 10.05,
+                "minX": 50.681,
+                "maxX": 149.319,
+                "maxY": 149.317,
+                "minY": 50.683,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 98.63799999999999,
+                "depth": 98.63400000000001,
+                "height": 9.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 14.828637061027013,
+                    "length": 6165.030889999999
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492194579.001868,
+                "printTime": 9778.045803785324,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

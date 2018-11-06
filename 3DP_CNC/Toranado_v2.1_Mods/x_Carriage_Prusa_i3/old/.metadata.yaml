@@ -1,0 +1,169 @@
+tpge-xcar-beltholder.gco:
+  analysis:
+    dimensions:
+      depth: 99.55799999999999
+      height: 22.95
+      width: 132.69799999999998
+    estimatedPrintTime: 28658.521475942947
+    filament:
+      tool0:
+        length: 24746.01949000208
+        volume: 59.5211521677131
+    printingArea:
+      maxX: 162.129
+      maxY: 147.694
+      maxZ: 23.25
+      minX: 29.431
+      minY: 48.136
+      minZ: 0.3
+  hash: 54ec09ddc06a713966dceacfccd7e7f9c408afe5
+  links: []
+  notes: []
+tpge-xcar-beltholder.stl:
+  hash: 822f52766d174a3a874a26ee243ba97992f94086
+  links: []
+  notes: []
+tpge-xcar-beltholder_1.gco:
+  analysis:
+    dimensions:
+      depth: 15.424999999999997
+      height: 15.299999999999999
+      width: 47.78200000000001
+    estimatedPrintTime: 2030.375915792732
+    filament:
+      tool0:
+        length: 1595.4286099999997
+        volume: 3.837455519135089
+    printingArea:
+      maxX: 123.891
+      maxY: 107.2
+      maxZ: 15.6
+      minX: 76.109
+      minY: 91.775
+      minZ: 0.3
+  hash: 2f1be6f1744abe8c9d1f7abb9a009479cc51c6c1
+  history:
+  - printTime: 2198.7438979148865
+    printerProfile: _default
+    success: true
+    timestamp: 1495569200.693564
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 2198.7438979148865
+    lastPrintTime:
+      _default: 2198.7438979148865
+tpge-xcar-cover1.gco:
+  analysis:
+    dimensions:
+      depth: 35.69999999999999
+      height: 7.2
+      width: 33.199
+    estimatedPrintTime: 1463.2877413734893
+    filament:
+      tool0:
+        length: 1122.7586000000006
+        volume: 2.7005509110347403
+    printingArea:
+      maxX: 116.6
+      maxY: 117.85
+      maxZ: 7.5
+      minX: 83.401
+      minY: 82.15
+      minZ: 0.3
+  hash: 4f233b1cfb5e839a9fd79c174ced2126ceeae092
+  links: []
+  notes: []
+tpge-xcar-cover1.stl:
+  hash: 423b854fb90e7c62631da21fc9b76667279934b6
+  links: []
+  notes: []
+tpge-xcar-cover2.gco:
+  analysis:
+    dimensions:
+      depth: 39.649
+      height: 7.2
+      width: 63.39999999999999
+    estimatedPrintTime: 4157.314929653083
+    filament:
+      tool0:
+        length: 3192.9378500000007
+        volume: 7.679915539898605
+    printingArea:
+      maxX: 131.7
+      maxY: 119.825
+      maxZ: 7.5
+      minX: 68.3
+      minY: 80.176
+      minZ: 0.3
+  hash: c4d35f27639dc24c4b0729d755eea79996aed8a6
+  links: []
+  notes: []
+tpge-xcar-cover2.stl:
+  hash: 4ea63dfb7fa800d41d17dc2fae066754721d5537
+  links: []
+  notes: []
+tpge-xcarriage-w-m3nuts.gco:
+  analysis:
+    dimensions:
+      depth: 84.80599999999998
+      height: 22.95
+      width: 63.39999999999999
+    estimatedPrintTime: 14534.87333348447
+    filament:
+      tool0:
+        length: 12814.0912200034
+        volume: 30.821501361256487
+    printingArea:
+      maxX: 131.7
+      maxY: 142.409
+      maxZ: 23.25
+      minX: 68.3
+      minY: 57.603
+      minZ: 0.3
+  hash: 01dae8b51343ae512844d16391e541bf5d210129
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1495571078.518798
+  - printTime: 20214.691977977753
+    printerProfile: _default
+    success: true
+    timestamp: 1495591393.708464
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 20214.691977977753
+    lastPrintTime:
+      _default: 20214.691977977753
+tpge-xcarriage-w-m3nuts.stl:
+  hash: 41b0392dcb877a22cb4fb2d88ec377c20f8c24dd
+  links: []
+  notes: []
+tpge-xcarriage.gco:
+  analysis:
+    dimensions:
+      depth: 84.80599999999998
+      height: 22.95
+      width: 63.39999999999999
+    estimatedPrintTime: 14590.888198692557
+    filament:
+      tool0:
+        length: 12850.702700000462
+        volume: 30.909562290525162
+    printingArea:
+      maxX: 131.7
+      maxY: 142.409
+      maxZ: 23.25
+      minX: 68.3
+      minY: 57.603
+      minZ: 0.3
+  hash: a4886951a1ce4ad737f990bc96cb444c561de690
+  links: []
+  notes: []
+tpge-xcarriage.stl:
+  hash: ff0bc8542bd5e44c2cc696a9bdf94fe46d0b5596
+  links: []
+  notes: []

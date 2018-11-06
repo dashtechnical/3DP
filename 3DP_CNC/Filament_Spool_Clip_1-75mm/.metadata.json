@@ -1,0 +1,82 @@
+{
+    "PLA-Spool-Clip_3dPro.stl": {
+        "notes": [],
+        "hash": "9cfa06964df6e9dcee00f6fe04beb04551e3dab7",
+        "links": []
+    },
+    "PLA-Spool-Clip_3dPro.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1883.2273955345154
+            },
+            "lastPrintTime": {
+                "_default": 1996.573980808258
+            }
+        },
+        "hash": "0f86a2cab8a18f879896eadca1d4387903593f7c",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 1431.1214950965864,
+            "printingArea": {
+                "maxZ": 7.05,
+                "minX": 80.778,
+                "maxX": 126.889,
+                "maxY": 117.863,
+                "minY": 67.244,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 46.11099999999999,
+                "depth": 50.619,
+                "height": 6.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 2.449597943212441,
+                    "length": 1018.4244799999998
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493755792.990037,
+                "printTime": 1826.3306248188019,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1493757919.253202,
+                "printTime": 1826.7775809764862,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1498561823.75088,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1498562152.106382,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1509473615.063556,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1509474943.970559,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1509477098.142826,
+                "printTime": 1996.573980808258,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

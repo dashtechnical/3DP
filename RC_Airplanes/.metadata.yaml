@@ -1,0 +1,125 @@
+FT_Elements_Simple_Firewall.gco:
+  analysis:
+    dimensions:
+      depth: 155.272
+      height: 2.2
+      width: 117.00200000000001
+    estimatedPrintTime: 4357.077632915565
+    filament:
+      tool0:
+        length: 5888.816539999996
+        volume: 14.16426369124532
+    printingArea:
+      maxX: 151.0
+      maxY: 170.136
+      maxZ: 2.5
+      minX: 33.998
+      minY: 14.864
+      minZ: 0.3
+  hash: 26237ce67a11b497b3e297ebb3c7adc8364dad15
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1501788187.446266
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+FT_FirewallX2.gco:
+  analysis:
+    dimensions:
+      depth: 112.4
+      height: 3.8
+      width: 73.05799999999999
+    estimatedPrintTime: 5283.500281559066
+    filament:
+      tool0:
+        length: 6882.3349499999995
+        volume: 16.55395551569921
+    printingArea:
+      maxX: 129.029
+      maxY: 148.699
+      maxZ: 4.1
+      minX: 55.971
+      minY: 36.299
+      minZ: 0.3
+  hash: f9a75c640b385b1fc9988f12e759781a78089dcf
+  history:
+  - printTime: 6262.599496126175
+    printerProfile: _default
+    success: true
+    timestamp: 1501715402.393895
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 6262.599496126175
+    lastPrintTime:
+      _default: 6262.599496126175
+ft_control_horn.gco:
+  analysis:
+    dimensions:
+      depth: 82.25299999999999
+      height: 1.8
+      width: 103.66900000000001
+    estimatedPrintTime: 1129.0480239704489
+    filament:
+      tool0:
+        length: 1608.7188100000005
+        volume: 3.8694221963155946
+    printingArea:
+      maxX: 165.852
+      maxY: 133.612
+      maxZ: 2.1
+      minX: 62.183
+      minY: 51.359
+      minZ: 0.3
+  hash: 135d9a60195b388177ec1dace8916082cbeca1df
+  history:
+  - printTime: 1656.3431539535522
+    printerProfile: _default
+    success: true
+    timestamp: 1501724206.555106
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1656.3431539535522
+    lastPrintTime:
+      _default: 1656.3431539535522
+ft_control_horn_v2_with_holes.gco:
+  analysis:
+    dimensions:
+      depth: 51.59200000000001
+      height: 1.8
+      width: 101.60000000000001
+    estimatedPrintTime: 993.6105477888784
+    filament:
+      tool0:
+        length: 1311.4713999999992
+        volume: 3.154458388531606
+    printingArea:
+      maxX: 143.3
+      maxY: 118.296
+      maxZ: 2.1
+      minX: 41.7
+      minY: 66.704
+      minZ: 0.3
+  hash: 7b1323d9d43dc8d0a00c06473044f2e6090ec052
+  history:
+  - printTime: 1806.1195361614227
+    printerProfile: _default
+    success: true
+    timestamp: 1501780493.09729
+  - printTime: 1545.823763847351
+    printerProfile: _default
+    success: true
+    timestamp: 1501782133.172453
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime:
+      _default: 1675.971650004387
+    lastPrintTime:
+      _default: 1545.823763847351

@@ -1,0 +1,97 @@
+tpge-xcar-beltholder.gco:
+  analysis:
+    estimatedPrintTime: 2100
+    filament:
+      tool0:
+        length: 1592
+        volume: 3.8292087456442583
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 2f1be6f1744abe8c9d1f7abb9a009479cc51c6c1
+tpge-xcar-beltholder.stl:
+  hash: 822f52766d174a3a874a26ee243ba97992f94086
+tpge-xcar-beltholder_-3.gco:
+  analysis:
+    dimensions:
+      depth: 102.453
+      height: 22.95
+      width: 137.35199999999998
+    estimatedPrintTime: 32471.254453193083
+    filament:
+      tool0:
+        length: 24738.76676997988
+        volume: 59.50370733169631
+    printingArea:
+      maxX: 168.676
+      maxY: 150.802
+      maxZ: 23.25
+      minX: 31.324
+      minY: 48.349
+      minZ: 0.3
+  hash: 31c84e8edfa4b3c90d97ecd27fc8dc89222e8adc
+  history:
+  - printerProfile: _default
+    success: false
+    timestamp: 1495566241.148658
+  links: []
+  notes: []
+  statistics:
+    averagePrintTime: {}
+    lastPrintTime: {}
+tpge-xcar-beltholder_1.gco:
+  hash: 2f1be6f1744abe8c9d1f7abb9a009479cc51c6c1
+  links: []
+  notes: []
+tpge-xcar-cover1.gco:
+  analysis:
+    estimatedPrintTime: 1444
+    filament:
+      tool0:
+        length: 1119
+        volume: 2.6915104185778427
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 4f233b1cfb5e839a9fd79c174ced2126ceeae092
+tpge-xcar-cover1.stl:
+  hash: 423b854fb90e7c62631da21fc9b76667279934b6
+tpge-xcar-cover2.gco:
+  analysis:
+    estimatedPrintTime: 3949
+    filament:
+      tool0:
+        length: 3189
+        volume: 7.67044390066554
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: c4d35f27639dc24c4b0729d755eea79996aed8a6
+tpge-xcar-cover2.stl:
+  hash: 4ea63dfb7fa800d41d17dc2fae066754721d5537
+tpge-xcarriage-w-m3nuts.gco:
+  analysis:
+    estimatedPrintTime: 15971
+    filament:
+      tool0:
+        length: 12811
+        volume: 30.814066105809417
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: 01dae8b51343ae512844d16391e541bf5d210129
+tpge-xcarriage-w-m3nuts.stl:
+  hash: 41b0392dcb877a22cb4fb2d88ec377c20f8c24dd
+tpge-xcarriage.gco:
+  analysis:
+    estimatedPrintTime: 16009
+    filament:
+      tool0:
+        length: 12847
+        volume: 30.90065625332399
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: a4886951a1ce4ad737f990bc96cb444c561de690
+tpge-xcarriage.stl:
+  hash: ff0bc8542bd5e44c2cc696a9bdf94fe46d0b5596

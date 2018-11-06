@@ -1,0 +1,46 @@
+MAKE_Robot_Arms_Down_Supportless_V4.1.gco:
+  analysis:
+    dimensions:
+      depth: 24.128
+      height: 28.65
+      width: 35.5
+    estimatedPrintTime: 2670.874622931132
+    filament:
+      tool0:
+        length: 2322.081319999998
+        volume: 5.585260112211782
+    printingArea:
+      maxX: 110.251
+      maxY: 104.364
+      maxZ: 28.95
+      minX: 74.751
+      minY: 80.236
+      minZ: 0.3
+  hash: 1ae0725b09fde97203a86e6962f48786a6c6f04d
+  links: []
+  notes: []
+babyBrachio.gco:
+  analysis:
+    dimensions:
+      depth: 85.8
+      height: 55.050000000000004
+      width: 53.699
+    estimatedPrintTime: 9221.587096138419
+    filament:
+      tool0:
+        length: 8369.635149999993
+        volume: 20.131331730044955
+    printingArea:
+      maxX: 127.352
+      maxY: 142.952
+      maxZ: 55.35
+      minX: 73.653
+      minY: 57.152
+      minZ: 0.3
+  hash: 2477261d74c94d855b73d9e155bfb257bef7bd2f
+  links: []
+  notes: []
+babyBrachio.stl:
+  hash: c288f2d981611256b86f459732ea509f4a06f0e0
+  links: []
+  notes: []

@@ -1,0 +1,178 @@
+{
+    "darthvader-lowpoly-bodycape.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 36679.83358287811
+            },
+            "lastPrintTime": {
+                "_default": 36679.83358287811
+            }
+        },
+        "hash": "caceb7acdfcb3a256f20e62c1a7883a5924fb3fb",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 26890.431952074687,
+            "printingArea": {
+                "maxZ": 106.5,
+                "minX": 57.766,
+                "maxX": 127.235,
+                "maxY": 114.219,
+                "minY": 71.241,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 69.469,
+                "depth": 42.977999999999994,
+                "height": 106.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 56.69910395083735,
+                    "length": 23572.7481800019
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493025283.879031,
+                "printTime": 36679.83358287811,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "darthvader-lowpoly-bodycape.STL": {
+        "notes": [],
+        "hash": "9730b340975d6ac3c82ab431f1c4d494a39cc0b7",
+        "links": []
+    },
+    "darthvader-lowpoly-body.gco": {
+        "notes": [],
+        "hash": "c5754973cf8680e9e2740fc7d10ebc5e23952f75",
+        "analysis": {
+            "estimatedPrintTime": 16995.692981080032,
+            "printingArea": {
+                "maxZ": 24.75,
+                "minX": 59.145,
+                "maxX": 115.445,
+                "maxY": 148.35,
+                "minY": 33.35,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 56.29999999999999,
+                "depth": 115.0,
+                "height": 24.45
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 34.942721116064476,
+                    "length": 14527.495290000224
+                }
+            }
+        },
+        "links": []
+    },
+    "darthvader-lowpoly-head.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3002.680797100067
+            },
+            "lastPrintTime": {
+                "_default": 3002.680797100067
+            }
+        },
+        "hash": "c7eda841fa074d32309475f340d9ff534289c8cf",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 2543.229145829642,
+            "printingArea": {
+                "maxZ": 22.05,
+                "minX": 77.467,
+                "maxX": 107.567,
+                "maxY": 108.524,
+                "minY": 76.993,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 30.099999999999994,
+                "depth": 31.531000000000006,
+                "height": 21.75
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 4.75980362017076,
+                    "length": 1978.8963899999997
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1492976778.013616,
+                "printTime": 3002.680797100067,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "darthvader-lowpoly-body.STL": {
+        "notes": [],
+        "hash": "58961b6a056045a97c885b339bfe829bf43a2151",
+        "links": []
+    },
+    "darthvader-lowpoly-connector.STL": {
+        "notes": [],
+        "hash": "cfae71b064b9da20e46534a2b6ce45075aaabeae",
+        "links": []
+    },
+    "darthvader-lowpoly-connector.gco": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 159.34658980369568
+            },
+            "lastPrintTime": {
+                "_default": 159.34658980369568
+            }
+        },
+        "hash": "2e19da6903611eb4a789ef4787a975e51b223bc3",
+        "links": [],
+        "notes": [],
+        "analysis": {
+            "estimatedPrintTime": 118.81660896208786,
+            "printingArea": {
+                "maxZ": 2.55,
+                "minX": 87.3,
+                "maxX": 97.7,
+                "maxY": 102.409,
+                "minY": 82.591,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 10.400000000000006,
+                "depth": 19.818000000000012,
+                "height": 2.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.16283169002430242,
+                    "length": 67.69754999999999
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1493031444.704084,
+                "printTime": 159.34658980369568,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "darthvader-lowpoly-head.STL": {
+        "notes": [],
+        "hash": "e56e82b612421edee8622c7a99cde92f9f5832f8",
+        "links": []
+    }
+}
