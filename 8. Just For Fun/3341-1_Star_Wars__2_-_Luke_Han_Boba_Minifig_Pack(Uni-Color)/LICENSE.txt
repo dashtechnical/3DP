@@ -1,0 +1,16 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+30381 - "Minifig Hood" by Andy Westrate [westrate]
+3626b - "Minifig Head with Hollow Stud" by Tore Eriksson [Tore_Eriksson]
+4349 - "Minifig Loudhailer" by James Jessiman
+50231 - "Minifig Cape Cloth" by Philippe Hurbain [Philo]
+3815c01 - "Minifig Hips and Legs" by Steve Bliss [sbliss]
+973c00 - "Minifig Torso / Arms / Yellow Hands" by David Hubner [hubnedav]
+3901 - "Minifig Hair Male" by Chris Dee [cwdee]
+3022 - "Plate 2 x 2" by James Jessiman
+30374 - "Bar 4L Light Sabre Blade" by Steve Bliss [sbliss]

@@ -1,0 +1,3 @@
+Sources for Compact Bowden Extruder, 1.75mm Filament for MK7 Drive Gear
+
+Compact Bowden Extruder, direct drive 1.75mm (http://www.thingiverse.com/thing:275593)

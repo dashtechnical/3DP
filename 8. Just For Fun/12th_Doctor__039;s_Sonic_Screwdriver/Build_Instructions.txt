@@ -1,0 +1,93 @@
+The Twelfth Doctor's Sonic Screwdriver
+Modeled by Jeff Lee (shipbrook@gmail.com)
+Version 1.0 - 12/12/2015
+
+This is my take on the Twelfth Doctor's new screwdriver, introduced at the end of Series 9 ("Hell Bent"). I've split it into numerous pieces, both for ease of painting, and to reduce overhangs as much as possible. You will also need five lengths of clear acrylic rod, 5mm in diameter. Four should be 6.9cm long, and the fifth should be 8.2 cm long.
+
+The latches on the sides each consist of nine individual parts which should be pinned together using brass wire (2mm diameter), or 12-gauge copper wire in a pinch. Each latch requires two 9.67mm lengths, one 6.55mm length, and one 3.35mm length. I've also included a "prebuilt" latch STL, with all the individual bits merged together into a unibody piece, but in my opinion it doesn't look quite as good as when the pieces are printed flat against the build plate and then assembled.
+
+Please note that the fit is very tight when it comes off the printer, as it is intended that the parts be sanded down to get rid of the layer striations before painting them.
+
+
+To arrange the parts for printing, the axis of the main body parts should be vertical, as if the screwdriver were standing on its end; if one end of a piece is flat, that end should be facing down. If there's a narrow end and a wide end, the narrower end should be facing up. Seg06 should be placed so that the slope of the notches is visible from above.
+
+The "vanes" on the handle part should lie on their sides, to eliminate overhangs. Likewise, the latch parts should all be lying flat on their sides except for the base.
+
+See Printing_Orientations.jpg if any of that didn't make sense.
+
+
+
+The following pieces should be painted with a brass color:
+
+   Seg02        Seg09        Seg10        Seg13
+   The inner, recessed strip of the switch
+   If the "prebuilt latches" are used, the recessed circles on the sides (simulating brass pins).
+   
+The following pieces should be painted TARDIS blue:
+
+   Seg03        Seg07        Seg11        Seg15
+   Seg16        Seg17        Seg18        Seg19
+
+Everything else should be painted an aluminum color.
+
+
+
+The suggested build order is as follows. If anything is unclear, please see Exploded_View.jpg for part alignments.
+
+1. Screw Seg03, Seg02, and Seg01 onto the bolt on Seg04. (Very light sanding of the bolt and filing of the holes may be needed.) Glue them in place, if desired.
+
+2. Fit Seg04 through Seg11 together WITHOUT GLUING. Use tape or some other method to mark the places on Seg04 that line up with the flat faces of Seg11.
+
+3. Glue Seg06 onto Seg04 so that its bottom edge is aligned with the "bottom" edge of the widest part, just above the threads. Make sure that the notches line up with the marks you made in step 2.
+
+4. Find the placement for Seg05 so that the four "vanes" fit into both the top notches of Seg05 and the sloped notches of Seg06. Again, make sure that everything lines up with the marks from step 2. Make sure they're perfectly straight before gluing them.
+
+5. Screw Seg07 onto Seg04. If you want to be able to unscrew the end, don't glue it.
+
+6. Slip Seg08 onto Seg09, without gluing it. Screw Seg09 onto Seg07 (using glue). Rotate Seg08 so that the free ends of the vanes fit nicely into the cutouts. Glue the vanes to Seg09.
+
+7. Screw Seg10 into Seg09. Don't glue this one if you want to be able to open it later.
+
+8. Glue the switch plate to Seg11, lining up the slots in each.
+
+9. Put the switch post inside Seg11, sticking out through the slot. Glue the switch onto the post. Obviously, try not to glue them to the switchplate.
+
+10. Glue Seg11 into Seg10.
+
+11. Glue Seg12 to Seg11. (If you plan on installing electronics to light up the acrylic rods, do so before this step, unless you're experienced at building ships in bottles.)
+
+12. Glue Seg13 to Seg12.
+
+13. Glue the four shorter acrylic rods into Seg14. They should be pushed all the way down to the flat end.
+
+14. Glue Seg14 to Seg13.
+
+15. Glue Seg15 into Seg14. The acrylic rods should lie snugly along the channels in Seg15.
+
+16. Slip Seg16 all the way down Seg15 so that it abuts Seg14. Glue it there.
+
+17. Slip Seg17 halfway down Seg15, but don't glue it yet.
+
+18. Slip Seg18 a bit down Seg15, but don't glue it either.
+
+19. Put Seg19 (the emitter cap) onto Seg15 without gluing it. Glue Seg18 into position so that it will abut Seg19.
+
+20. Find the halfway point between Seg16 and Seg18. Glue Seg18 at that position.
+
+21. Glue the longer acrylic rod into Seg19, so that it's sticking out about 1.5mm.
+
+22. Glue Seg19 into place. The middle hole in Seg14 is enlarged so that it will (hopefully) be easier to get the acrylic rod through it.
+
+23. Assemble the latches (skip this step if you're using the "prebuilt latches" model). See "Latch_Assembly.jpg" for diagrams.
+
+   a. Use the shortest "pin" (brass or copper wire, as described near the top of this file) to affix Latch02 and Latch04 to either side of Latch03 in the hole nearest the hook.
+
+   b. Use the next shortest pin to affix Latch05, Latch06, Latch08, and Latch09 to Latch03 in the other hole. Latch05 and Latch09 (the smaller pieces) should be on the outside; the pin should go through the round part on each of them, and they should all be sweeping backwards from the hook end of Latch03.
+
+   c. Place the assembly into the base, Latch01, so that the holes in Latch05/Latch08, and the little cutouts in the edges of the other pieces, line up with the holes furthest from the "hex bolt" on the base. Pin them all together.
+
+   d. Insert Latch07 between Latch06 and Latch08, lining up all the holes with the holes in the base closest to the "hex bolt". Pin them all together.
+
+   e. Repeat these steps with Latch10 through Latch18.
+
+24. Glue the latches into place. The longest hook should be on the top face of Seg14 (the aluminum-colored triple ring), and the two small hooks should be on the top face of Seg13 (the brass-colored ring). See Beauty_Shot.jpg.

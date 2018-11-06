@@ -1,0 +1,16 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+4349 - "Minifig Loudhailer" by James Jessiman
+3022 - "Plate 2 x 2" by James Jessiman
+3023 - "Plate 1 x 2" by James Jessiman
+30375 - "Minifig Mechanical Torso" by Nathan Wright
+30376 - "Minifig Mechanical Legs" by Nathan Wright
+30377 - "Minifig Mechanical Arm" by Nathan Wright
+30378 - "Minifig Mechanical Head SW Battle Droid" by Nathan Wright
+3070b - "Tile 1 x 1 with Groove" by Chris Dee [cwdee]
+6141 - "Plate 1 x 1 Round" by James Jessiman

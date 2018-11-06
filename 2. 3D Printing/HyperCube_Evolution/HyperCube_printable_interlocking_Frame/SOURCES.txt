@@ -1,0 +1,5 @@
+Sources for HyperCube printable interlocking Frame
+
+Misumi aluminum extrusion 2020 profile (http://www.thingiverse.com/thing:280318)
+HyperCube 3D Printer (http://www.thingiverse.com/thing:1752766)
+Dual Printable T-Slot nut for MendelMax (http://www.thingiverse.com/thing:13626)

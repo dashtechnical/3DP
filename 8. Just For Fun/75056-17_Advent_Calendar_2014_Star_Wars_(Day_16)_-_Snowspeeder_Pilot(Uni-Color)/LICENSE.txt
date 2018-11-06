@@ -1,0 +1,11 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+30370 - "Minifig Helmet Star Wars Rebel Pilot" by Damien Roux [Darats]
+3815c01 - "Minifig Hips and Legs" by Steve Bliss [sbliss]
+973c00 - "Minifig Torso / Arms / Yellow Hands" by David Hubner [hubnedav]
+3626c - "Minifig Head with Closed Hollow Stud" by J.C. Tchang [tchang]

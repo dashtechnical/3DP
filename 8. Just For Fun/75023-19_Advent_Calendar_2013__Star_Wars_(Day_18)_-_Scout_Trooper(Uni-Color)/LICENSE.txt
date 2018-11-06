@@ -1,0 +1,11 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+3626c - "Minifig Head with Closed Hollow Stud" by J.C. Tchang [tchang]
+3815c01 - "Minifig Hips and Legs" by Steve Bliss [sbliss]
+30369 - "Minifig Helmet Scout Trooper" by Rolf Osterthun [Rolf]
+973c00 - "Minifig Torso / Arms / Yellow Hands" by David Hubner [hubnedav]
