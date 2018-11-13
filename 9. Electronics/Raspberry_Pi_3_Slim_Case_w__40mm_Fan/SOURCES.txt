@@ -1,0 +1,4 @@
+Sources for Raspberry Pi 3 Slim Case w/ 40mm Fan
+
+Raspberry pi B+ fan case. (http://www.thingiverse.com/thing:516809)
+Raspberry Pi 3 Slim Case with Heatsink Cutout (http://www.thingiverse.com/thing:1415895)

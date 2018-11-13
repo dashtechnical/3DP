@@ -1,0 +1,57 @@
+0.5mm-thin-wall.stl:
+  hash: 4c67ff694f912a983a9777dbdebad55b4303440c
+  links: []
+  notes: []
+20mm-box.gcode:
+  analysis:
+    dimensions:
+      depth: 33.072
+      height: 9.799999999999999
+      width: 33.072
+    estimatedPrintTime: 1003.666333054208
+    filament:
+      tool0:
+        length: 838.3734300000027
+        volume: 2.016524415999865
+    printingArea:
+      maxX: 116.536
+      maxY: 116.536
+      maxZ: 10.1
+      minX: 83.464
+      minY: 83.464
+      minZ: 0.3
+  hash: 3e2b488e9ffbb20c2f7535a8c9bf7be90d99526e
+  links: []
+  notes: []
+20mm-box.stl:
+  hash: 164e5064fcd7b579b16410ec4cb7651e910d8cbb
+  links: []
+  notes: []
+20mm-hollow-box.stl:
+  hash: fc4263fe30cf672d6a2b7202723ab3a521c71a2c
+  links: []
+  notes: []
+50mm-tower.stl:
+  hash: b707f41176cc1aeec4a05653623d39ea253a4eca
+  links: []
+  notes: []
+BridgeTestPart.stl:
+  hash: 3abc88a5fe6e17c83e551728396ea361fe229105
+  links: []
+  notes: []
+oozebane-test.stl:
+  hash: 794809d4f85d01a8121c32037d80e115dcb7003a
+  links: []
+  notes: []
+overhang-test.stl:
+  hash: 152f95316b204097fde33744dc30397be687f46c
+  links: []
+  notes: []
+perimeter-wt.stl:
+  hash: d54bb42ffe2ee4cfe11bd0a100567594acfa0f5c
+  links: []
+  notes: []
+precision-block.stl:
+  hash: 46fac1ba10c0597d8f5044765a38b7b9613a81b3
+  links: []
+  notes: []

@@ -1,0 +1,42 @@
+dob-ear-r300-part-1			2
+dob-ear-r300-part-2			2
+dob-ear-r300-part-3			2
+dob-ear-spacer				4
+focuser-plate				1
+fold-cover-A				2
+fold-cover-B				2
+main-box-part-A				2
+main-box-part-B				2
+mirror-cell-core			1
+mirror-cell-leg				3
+mirror-cell-clip			3
+mount-ring-top-A			2
+mount-ring-top-B			2
+NEW07b-mount-support-ring-part-1	1
+NEW07b-mount-support-ring-part-2	1 
+NEW07b-mount-support-ring-part-3	1 
+NEW07b-mount-support-ring-part-4-fix	1 
+spacer-top-rings-A			2
+spacer-top-rings-B			2
+spider-clamp				4
+top-ring-part				8
+tube-clip				16
+ear-slot-rev5				2
+ear-slot-part2-rev5			2
+fixation-conterweight			1
+counterweight mount			1
+mount-stand				3
+fold-cover-fixation-part-1		2
+fold-cover-fixation-part-2		2
+___________________________________________
+aluminum tubes of diameter 12 mm
+and length of ~870לל* 			8
+bearings with diameter 16mm bore 5mm	6
+main mirror 8"				1 :)
+spider and sec. mirror 			1
+focuser HC-1** (weight 62 grams!!!)	1
+___________________________________________
+**(the area under the 
+focuser drawn for ֽׁ-1)
+*(tubes long depends on the focuser
+and the focuser landing)

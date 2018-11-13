@@ -1,0 +1,24 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+3137c01 - "Brick 2 x 2 with Red Wheels (Complete)" by James Jessiman
+3139 - "Tyre 4/ 80 x 8 Single Smooth Type 1" by James Jessiman
+3024 - "Plate 1 x 1" by James Jessiman
+3040a - "Slope Brick 45 2 x 1 without Centre Stud" by Michael Heidemann [mikeheide]
+3460 - "Plate 1 x 8" by James Jessiman
+3001 - "Brick 2 x 4" by James Jessiman
+3002 - "Brick 2 x 3" by James Jessiman
+3008 - "Brick 1 x 8" by James Jessiman
+3009 - "Brick 1 x 6" by James Jessiman
+3010 - "Brick 1 x 4" by James Jessiman
+3030 - "Plate 4 x 10" by James Jessiman
+3032 - "Plate 4 x 6" by James Jessiman
+3070a - "Tile 1 x 1 without Groove" by James Jessiman
+3461 - "Propellor 4 Blade 5 Diameter with Rotor Holder" by Christian M. Angele [cma_1971]
+3462 - "Plate 2 x 3 with Helicopter Rotor Holder" by Christian M. Angele [cma_1971]
+3037 - "Slope Brick 45 2 x 4" by James Jessiman
+3038 - "Slope Brick 45 2 x 3" by James Jessiman

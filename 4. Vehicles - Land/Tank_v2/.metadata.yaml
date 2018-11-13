@@ -1,0 +1,80 @@
+axel-end.stl:
+  hash: 366e067bd58fad8255b84f12c82012d3c0485b2a
+  links: []
+  notes: []
+axel-gear.stl:
+  hash: 3e79536931a0fa7f35f7d8a48e022fb2927a3a46
+  links: []
+  notes: []
+axel-spacer.stl:
+  hash: 71cde43c45b6da4edc765b0f6c5c9049ee93af1c
+  links: []
+  notes: []
+axel.stl:
+  hash: 84560757689926fb5552c0e891a38aafb6a111e4
+  links: []
+  notes: []
+axelholder.stl:
+  hash: 8aec73879d495d28c17e419272fb5fb6960aa0e9
+  links: []
+  notes: []
+battery.stl:
+  hash: 5154cdf66bcb6a35756946b8da44d1acbd042bf2
+  links: []
+  notes: []
+elbow.stl:
+  hash: 57448d0cced8135f73a190d6ece9b576d099ee5b
+  links: []
+  notes: []
+motorholder.stl:
+  hash: 109f0aef2029aa85bb4e174d803a7b28fd505b79
+  links: []
+  notes: []
+pcb-holder-mirror.stl:
+  hash: e2cee7d08e2f907a73d3dabee5bb77fa129bd633
+  links: []
+  notes: []
+pcb-holder.stl:
+  hash: c1dd41cc4bb9a8ab6aab65889a9527f2f4d032bf
+  links: []
+  notes: []
+plus.stl:
+  hash: 6649e3794656dfaf587e9f40491ea76fef1afce4
+  links: []
+  notes: []
+short-axel.stl:
+  hash: e3d3c8dca207a4c55c8ac69fe46e02868707d9bc
+  links: []
+  notes: []
+tank-tread-1-single.stl:
+  hash: f31ff32ddf30e463d245b49d99264ba30b1e49ce
+  links: []
+  notes: []
+tank-tread-2-single.stl:
+  hash: 1c04d6a4ebfef1f07bbe673a7c6a09c94c7f423a
+  links: []
+  notes: []
+tank.stl:
+  hash: 86d8749b00d12e8392a386a3019e8fc4b46c8954
+  links: []
+  notes: []
+wheel.stl:
+  hash: 7186cdc864e54f9cddfe500b3a7481803d809516
+  links: []
+  notes: []
+worm-end.stl:
+  hash: 99b49219890e485b36b4f10231db257dc29760e6
+  links: []
+  notes: []
+worm-gear.stl:
+  hash: 856d68a251672503e9ad152fa10fc38c04480a7b
+  links: []
+  notes: []
+wormholder-mirror.stl:
+  hash: 36ad8ea3f93929cf18bca6ee0fbd0d8ca3b10268
+  links: []
+  notes: []
+wormholder.stl:
+  hash: e7abc73d7905100356028d57c88b3086dfe7c86f
+  links: []
+  notes: []

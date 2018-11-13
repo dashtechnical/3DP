@@ -1,0 +1,4 @@
+Sources for Jhead Compact Extruder for i3 Rework
+
+Prusa i3 Rework (http://www.thingiverse.com/thing:119616)
+Greg's Wade reloaded - Guidler, Tilt Screws, Fishbone Gears (http://www.thingiverse.com/thing:18379)

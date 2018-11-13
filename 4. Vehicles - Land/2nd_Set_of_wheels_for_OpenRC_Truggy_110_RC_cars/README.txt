@@ -16,17 +16,12 @@
                                   `,,`
 
 
-https://www.thingiverse.com/thing:964789
-2nd Set of wheels for OpenRC Truggy (1:10 RC cars) by Palmiga is licensed under the Creative Commons - Attribution - Share Alike license.
-http://creativecommons.org/licenses/by-sa/3.0/
+http://www.thingiverse.com/thing:964789
+2nd Set of wheels for OpenRC Truggy (1:10 RC cars) by Palmiga is licensed under the Attribution - Non-Commercial - Share Alike license.
+http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 # Summary
 
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
-PLEASE RESPECT THE LICENSE AND GIVE CREDIT TO THE DESIGNER
-
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 18 new combinations... thus a total of 108 combinations (together with http://www.thingiverse.com/thing:526969) of wheels for 1:10 RC cars  
 
 Designed to fit Daniels cool OpenRC Truggy http://www.thingiverse.com/thing:42198 but as you can see in my pics/vids they will also fit others (with 12mm wheel hex nut)  For 17mm go here: http://www.thingiverse.com/thing:970573  
@@ -45,9 +40,11 @@ Tires printed with conductive & flexible PI-ETPU 95-250 Carbon Black filament (I
 and rims with conductive ABS: http://www.creativetools.se/eco-abs-1-75mm-conductive?filter_name=conductive%20abs  
 Enjoy!  
 
-Please also check out my unuiqe UV-stable, flexible and conductive filament called ETPU 95-250 Carbon Black filament.
+Check out my PI-ETPU 95-250 Carbon Black filament, it´s a professional 3D printer flexible and conductive filament
+ 
+Don´t need the conductivity?
 
-Don´t need the conductivity? Well the conductivity is great for some things but perhaps not your first choice? Then consider this:
+Well the conductivity is great for some things but perhaps not your first choice?  Then consider this:
 
 This filament will give you some really nice benefits if the conductivity is not an disadvantage for your 3D printed design:
 
@@ -56,8 +53,7 @@ This filament will give you some really nice benefits if the conductivity is not
 •The carbon black filler is an excellent UV stabilizer thus the prints are built to last in very harsh environments.
 •The matte black surface finish has a very exclusive look.
 •The material feels very nice and dry to touch.
-•It´s not too stretchy and will do great for timing belts etc.
-
+•The elongation at break is only 250%.
 http://rubber3dprinting.com/  
 http://palmiga.com/  
 

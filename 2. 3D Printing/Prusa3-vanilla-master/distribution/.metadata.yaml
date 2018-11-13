@@ -1,0 +1,72 @@
+belt-guide.stl:
+  hash: 6eedfcefcf29c1bbc02f07c32c7f8523982db7b3
+  links: []
+  notes: []
+extruder-big-gear-slim.stl:
+  hash: c1d6b402c23b471012edba9e9661df2f4cc3970b
+  links: []
+  notes: []
+extruder-block-slim-tight.stl:
+  hash: 1d92c41611d2b2763855fb11edcd65a8407c1ca6
+  links: []
+  notes: []
+extruder-idler.stl:
+  hash: 5d91b7de920db2a2dc9b4fb3496b304ce69db8af
+  links: []
+  notes: []
+extruder-small-gear.stl:
+  hash: b9c66e239a6b2107aeeee4a538cd441dab564976
+  links: []
+  notes: []
+fan-mount.stl:
+  hash: c125b636f2438f3d563f260a721e7eebd8fa8285
+  links: []
+  notes: []
+prusa-nozzle.stl:
+  hash: 149e29e36fbd5617ef4afead4e4a305f8ed633d2
+  links: []
+  notes: []
+rambo-holder.stl:
+  hash: f72e37cf3b146b71da6fceeec96b4712d2c342b3
+  links: []
+  notes: []
+x-carriage.stl:
+  hash: e2354f76dc67806ac8a74cfe74205ad7f0a0da8b
+  links: []
+  notes: []
+x-end-idler.stl:
+  hash: 155e36b46a6dd9acff83bf8529de260bca2081cb
+  links: []
+  notes: []
+x-end-motor.stl:
+  hash: b687dfe01935393a82b5eab2daf51eed8921ca48
+  links: []
+  notes: []
+y-belt-holder.stl:
+  hash: b679f5b7f5656c33cbe3675e24108990919da5de
+  links: []
+  notes: []
+y-corners.stl:
+  hash: 2de41314577b895a5d626612476a0899fa462bce
+  links: []
+  notes: []
+y-idler.stl:
+  hash: f8293d8d4f88d323bc6b32ff78250bfdae896871
+  links: []
+  notes: []
+y-motor.stl:
+  hash: e52a1d0657077edbcef93ee0f71bf84332ae0ae0
+  links: []
+  notes: []
+z-axis-bottom.stl:
+  hash: 396122b07636e7503b0f754f1319eaf2a6f53cb3
+  links: []
+  notes: []
+z-axis-top.stl:
+  hash: d87dd3cbd7308870e4d63871555c561d8188cdfe
+  links: []
+  notes: []
+z-endstop-holder.stl:
+  hash: 8e8b0b7198c64ca8d6b7e593ce9432519f2dc0fe
+  links: []
+  notes: []

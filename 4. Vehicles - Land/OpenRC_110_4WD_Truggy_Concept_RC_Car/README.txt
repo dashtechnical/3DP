@@ -16,13 +16,11 @@
                                   `,,`
 
 
-https://www.thingiverse.com/thing:42198
+http://www.thingiverse.com/thing:42198
 OpenRC 1:10 4WD Truggy Concept RC Car by barspin is licensed under the Creative Commons - Attribution - Share Alike license.
 http://creativecommons.org/licenses/by-sa/3.0/
 
 # Summary
-
-Please consider supporting me on Patreon: https://www.patreon.com/DanielNoree
 
 Subscribe to my YouTube channel so you don´t miss out on the latest of my projects! - https://www.youtube.com/user/DanielNoree2
 

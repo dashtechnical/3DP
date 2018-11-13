@@ -1,0 +1,80 @@
+ARDUINO-WASHER.stl:
+  hash: a85e274088de1f3122a96b2937b4d8e0b0e7faa4
+  links: []
+  notes: []
+BODY-EXTRUDEUR-WADE-1.75mm-with-support.stl:
+  hash: 69a2e36785fef0aeee553ed0dcc20995b359578a
+  links: []
+  notes: []
+BODY-EXTRUDEUR-WADE-with-support.stl:
+  hash: b9c0753e3cd10a58ad4aaf0773bf484eadd2cbdd
+  links: []
+  notes: []
+BODY-EXTRUDEUR-WADE.stl:
+  hash: f8afd973fed154dab53824e13d14839a816304bf
+  links: []
+  notes: []
+ENDSTOP-Z-HOLDER-V2.stl:
+  hash: dd0e1323f5ab8f9d75e13b00ccb42fa134b9d3cb
+  links: []
+  notes: []
+EXTRUDER-IDLER-avec-guide.stl:
+  hash: 2ed38771b7333976984f75b435b63965c28a01f4
+  links: []
+  notes: []
+FAN-DUCT.stl:
+  hash: 816a820e8fe4c9acde5039e3e0a26cdffb135ca0
+  links: []
+  notes: []
+WADE-BIG-GEAR.stl:
+  hash: f74a3f6dcdb330a2339ff579c01fd7b00b84f2ae
+  links: []
+  notes: []
+WADE-SMALL-GEAR.stl:
+  hash: 631a7cbbbe935cc0eb5f0e86db4bfb2bbb38c4e2
+  links: []
+  notes: []
+X-CARRIAGE.stl:
+  hash: 41a2f325f9515b43afd394e647dfbd548fdd511e
+  links: []
+  notes: []
+X-END-IDLER.stl:
+  hash: 6f882e6ef012d47fb8e57ba50aae9c3c45dc2fbf
+  links: []
+  notes: []
+X-END-MOTOR-V2.stl:
+  hash: 4b6b311467739c0a6fd3e47c9973ae817c8ae12c
+  links: []
+  notes: []
+Y-BELT-HOLDER.stl:
+  hash: 0d31c4890f9b35f535285a5e891f03ed069bdb14
+  links: []
+  notes: []
+Y-CORNERS.stl:
+  hash: 8867765552c4bed22c622d461e2240fe5907bd39
+  links: []
+  notes: []
+Y-IDLER.stl:
+  hash: 93f78ab7aee285e502956c98ed7fbc4f237b2936
+  links: []
+  notes: []
+Y-MOTOR.stl:
+  hash: cb1c63449d5e46e2768f0ba78ab38d7f37c30878
+  links: []
+  notes: []
+Z-AXIS-BOTTOM-LEFT-V2.stl:
+  hash: c4318df4271a32786cd40695c10498fe7bdd5c5c
+  links: []
+  notes: []
+Z-AXIS-BOTTOM-RIGHT-V2.stl:
+  hash: f3b4a8558a0a1aa6f6287b1364df9cbfc2c9548e
+  links: []
+  notes: []
+Z-AXIS-TOP-LEFT-V2.stl:
+  hash: 4905f20cc8ca576944bddafbc05c33ff68840511
+  links: []
+  notes: []
+Z-AXIS-TOP-RIGHT-V2.stl:
+  hash: 4fd33ce008b990f375994a4b41c41eace072043c
+  links: []
+  notes: []

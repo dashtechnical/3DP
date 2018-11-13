@@ -1,0 +1,8 @@
+Sources for Parametric Needle Cutter Mount
+
+MPCNC 2826 Brushless RC Motor Foam Cutter (http://www.thingiverse.com/thing:1211039)
+MPCNC Universal mount 2822 foam cutter (http://www.thingiverse.com/thing:1538131)
+Mostly Printed CNC 525 "F-25mm OD" (http://www.thingiverse.com/thing:790533)
+Universal Mount 525 for MPCNC (http://www.thingiverse.com/thing:1234989)
+Assorted Mounts for MPCNC Universal Mounting System (http://www.thingiverse.com/thing:1245848)
+MPCNC foam-cutter attachment (http://www.thingiverse.com/thing:1138627)
